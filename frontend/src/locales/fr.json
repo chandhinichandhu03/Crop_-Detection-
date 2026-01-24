@@ -1,0 +1,14 @@
+{
+    "nav": {
+        "identify": "Identifier",
+        "market": "Marché",
+        "chat": "Expert",
+        "portal": "Portail"
+    },
+    "hero": {
+        "title": "Cultiver l'avenir avec l'IA.",
+        "subtitle": "Libérez tout le potentiel de votre ferme avec un diagnostic bio-spectral instantané.",
+        "diagnose": "DIAGNOSTIQUER",
+        "market": "BOUTIQUE"
+    }
+}

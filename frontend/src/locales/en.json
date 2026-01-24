@@ -1,0 +1,107 @@
+{
+    "nav": {
+        "identify": "Identify",
+        "market": "Market",
+        "chat": "Expert",
+        "portal": "Portal"
+    },
+    "hero": {
+        "title": "Cultivating Futures With AI.",
+        "subtitle": "Unlock the full potential of your farm with instant bio-spectral diagnosis and a direct-to-consumer digital infrastructure.",
+        "diagnose": "START DIAGNOSIS",
+        "market": "EXPLORE STORE",
+        "stats": {
+            "accuracy": "Accuracy",
+            "farmers": "Farmers",
+            "saved": "Saved"
+        },
+        "badge": "Next-Gen Precision ecosystem"
+    },
+    "features": {
+        "diagnosis": {
+            "title": "Neural Diagnosis",
+            "desc": "Upload a leaf and let our MobileNet-V2 inference engine identify over 40+ species and diseases in milliseconds."
+        },
+        "market": {
+            "title": "Market Integrity",
+            "desc": "Access certified seeds and organic inputs directly from verified distributors with transparent tracking protocols."
+        },
+        "insights": {
+            "title": "Real-Time Insights",
+            "desc": "Ask our AI expert about soil toxicity, moisture levels, or crop rotation strategies for your specific region."
+        },
+        "button": "INITIALIZE MODULE"
+    },
+    "chat": {
+        "welcome": "Vanakkam! I am your Agro Doctor Assistant. How can I help you with your crops today?",
+        "input": "Ask your farming query...",
+        "status": "Neural Link Active",
+        "header": "Expert System"
+    },
+    "identify": {
+        "title": "AI Crop Doctor",
+        "subtitle": "Upload a clear photo of your plant's leaf for an instant, certified diagnosis.",
+        "upload": "Upload Photo",
+        "button": "Start Analysis",
+        "processing": "Processing...",
+        "report": {
+            "header": "Agro Doctor Official Report",
+            "complete": "Diagnosis Complete",
+            "confidence": "Confidence",
+            "severity": "Severity",
+            "cause": "Root Cause",
+            "organic": "Organic Usage & Cure",
+            "chemical": "Chemical Usage & Cure",
+            "download": "Download PDF Report"
+        },
+        "errors": {
+            "noPlant": "No plant found"
+        }
+    },
+    "market": {
+        "title": "Agro Store",
+        "subtitle": "Certified seeds and organic inputs delivered directly to your farm gate.",
+        "search": "Search on Agro Store...",
+        "cart": "Shopping Cart",
+        "total": "Total",
+        "checkout": "Place Order",
+        "categories": {
+            "all": "All",
+            "organic": "Organic",
+            "seeds": "Seeds",
+            "fertilizer": "Fertilizer",
+            "pesticide": "Pesticide",
+            "insecticide": "Insecticide"
+        }
+    },
+    "data": {
+        "plants": {
+            "Rose": "Rose",
+            "Tomato": "Tomato",
+            "Rice": "Rice",
+            "Potato": "Potato",
+            "Cotton": "Cotton",
+            "Corn": "Corn",
+            "Apple": "Apple",
+            "Sugarcane": "Sugarcane",
+            "Unidentified": "Unidentified"
+        },
+        "diseases": {
+            "Healthy": "Healthy",
+            "Black Spot": "Black Spot",
+            "Powdery Mildew": "Powdery Mildew",
+            "Rose Rust": "Rose Rust",
+            "Early Blight": "Early Blight",
+            "Late Blight": "Late Blight",
+            "Leaf Mold": "Leaf Mold",
+            "None": "None"
+        },
+        "messages": {
+            "Detected": "Detected",
+            "OptimalGrowth": "Optimal growth conditions with balanced spectral response.",
+            "ContinueCare": "Continue existing care; no organic treatment required.",
+            "ChemicalHealthy": "None - Plant is Healthy",
+            "MoistureMonitoring": "Maintain regular moisture monitoring."
+        }
+    }
+}

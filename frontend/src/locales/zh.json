@@ -1,0 +1,14 @@
+{
+    "nav": {
+        "identify": "识别",
+        "market": "市场",
+        "chat": "专家",
+        "portal": "门户"
+    },
+    "hero": {
+        "title": "用人工智能开创未来。",
+        "subtitle": "通过即时生物光谱诊断释放农场的全部潜力。",
+        "diagnose": "开始诊断",
+        "market": "浏览商店"
+    }
+}
