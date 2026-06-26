@@ -1,0 +1,138 @@
+[
+  {
+    "id": 149,
+    "common_name": "Moringa (Drumstick)",
+    "botanical_name": "Moringa oleifera",
+    "author_citation": "Lam.",
+    "iucn_status": "LC",
+    "category": "Vegetable/Medicinal/Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Moringaceae",
+      "subfamily": "Moringoideae",
+      "genus": "Moringa",
+      "species": "oleifera",
+      "family_description": "Moringa/Drumstick tree family",
+      "genus_species_count": 13
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Moringa / Drumstick Tree",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Sahjan (सहजन)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Sajna (সজনে)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Mulaga (మునగ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Murungai (முருங்கை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Nugge (ನುಗ್ಗೆ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Muringa (മുരിങ്ങ)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Shevga (शेवगा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Sohanjana (ਸਹਿਜਣਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Saragvo (સરગવો)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Sahjan (سہجن)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Rawaq (رواق)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Lamu ye (辣木)",
+        "script": "Native"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mzungu (Moringa)",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Zogale",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Igbale Ogangun",
+        "script": "Latin"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Shiferaw (ሽፌራ)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Moringa",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Moringa",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Moringa",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Moringa",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

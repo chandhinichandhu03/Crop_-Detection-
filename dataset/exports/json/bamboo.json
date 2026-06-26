@@ -1,0 +1,62 @@
+[
+  {
+    "id": 189,
+    "common_name": "Bamboo (Moso)",
+    "botanical_name": "Phyllostachys edulis",
+    "author_citation": "(Carrière) J.Houz.",
+    "iucn_status": "LC",
+    "category": "Bamboo",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Bambusoideae",
+      "genus": "Phyllostachys",
+      "species": "edulis",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 190,
+    "common_name": "Dendrocalamus (Giant Bamboo)",
+    "botanical_name": "Dendrocalamus strictus",
+    "author_citation": "(Roxb.) Nees",
+    "iucn_status": "LC",
+    "category": "Bamboo",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Bambusoideae",
+      "genus": "Dendrocalamus",
+      "species": "strictus",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 50
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

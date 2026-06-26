@@ -1,0 +1,358 @@
+[
+  {
+    "id": 37,
+    "common_name": "Cotton",
+    "botanical_name": "Gossypium hirsutum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fiber/Oilseed",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "subfamily": "Malvoideae",
+      "genus": "Gossypium",
+      "species": "hirsutum",
+      "family_description": "Mallow family; cotton, hibiscus, cacao, durian",
+      "genus_species_count": 50
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Cotton",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Kapas (कपास)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Kapas (কাপাস)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Patti (పత్తి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Panjhu (பஞ்சு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Hatti (ಹತ್ತಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Panjhu (പഞ്ഞി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Kapus (कापूस)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Narma (ਨਰਮਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Kapas (કપાસ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Kapas (کپاس)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Qutn (قطن)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Miánhuā (棉花)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Wata (綿)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Soru (솜)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Bông vải",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Fai (ฝ้าย)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kapas",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kapas",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Bulak",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Pamba",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Auduga",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Owu",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Algodão",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Algodón",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Coton",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Baumwolle",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Cotone",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Khlopok (хлопок)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Pamuk",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Warm tropical and subtropical",
+        "temp_optimum": "21-30°C; minimum 15°C for germination",
+        "rainfall": "500-1500mm; distributed throughout growing season"
+      },
+      "soil": {
+        "type": "Deep loamy or clay-loam 'black cotton soil' (vertisol) preferred",
+        "ph_range": "5.5-7.0",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "Furrow or drip",
+        "critical_stages": "Germination, flowering, boll development",
+        "water_requirement_mm": ""
+      },
+      "fertilization": {
+        "npk": "N150-P60-K60 for irrigated hybrid Bt cotton",
+        "schedule": "Basal: 50%N+100%P+100%K; Top dressing: 25%N at squaring + 25%N at flowering"
+      },
+      "harvesting": {
+        "maturity_indicator": "",
+        "method": "Repeated hand-pickings (3-4 pickings as bolls open); mechanical picking in USA",
+        "yield_per_ha": "2000-2500 kg/ha seed cotton (lint yield 700-900 kg/ha)"
+      }
+    },
+    "diseases": [
+      {
+        "id": 29,
+        "disease_name": "Cotton Leaf Curl Virus Disease (CLCuD)",
+        "pathogen_name": "Cotton leaf curl Multan virus (CLCuMV) + betasatellite",
+        "disease_type": "Viral",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Upward curling of leaves, vein thickening, enations (leaf-like outgrowths) on underside of leaves",
+          "late": "Severe stunting, dark green thickened curled leaves, no boll formation, plant death",
+          "affected_parts": "Leaves, Entire plant"
+        },
+        "treatment": {
+          "organic": "Control whiteflies with neem extract, reflective mulch, remove infected plants",
+          "chemical": "Imidacloprid/Thiamethoxam soil application for whitefly control; Acetamiprid foliar spray",
+          "biological": "Encarsia formosa, Beauveria bassiana for whitefly control",
+          "preventive": "Resistant varieties (NIAB 846, CIM-499), control whiteflies strictly, remove infected plants, use insect-proof nets in nursery"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 7,
+        "pest_name": "Leafhoppers",
+        "scientific_name": "Amrasca biguttula biguttula (Cotton/Okra Leafhopper); Empoasca spp.",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Virus vector; Toxicogenic saliva",
+        "control": {
+          "organic": "Neem seed kernel extract 5%, neem oil; yellow sticky traps; Beauveria bassiana spray",
+          "chemical": "Imidacloprid 17.8% SL (0.3ml/L), Lambda-cyhalothrin 5% EC (1ml/L), Thiamethoxam, Dimethoate 30% EC (2ml/L)",
+          "biological": "Anagrus atomus (egg parasitoid in grapes), Gonatocerus ashmeadi, Stethorus ladybugs"
+        }
+      },
+      {
+        "id": 9,
+        "pest_name": "Fall Armyworm",
+        "scientific_name": "Spodoptera frugiperda",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf and whorl feeding; ear damage",
+        "control": {
+          "organic": "Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)",
+          "biological": "Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)"
+        }
+      },
+      {
+        "id": 1,
+        "pest_name": "Whitefly",
+        "scientific_name": "Bemisia tabaci",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana",
+          "chemical": "Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)",
+          "biological": "Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana"
+        }
+      },
+      {
+        "id": 5,
+        "pest_name": "Mealybugs",
+        "scientific_name": "Phenacoccus solenopsis (Cotton Mealybug); Planococcus citri (Citrus Mealybug)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Honeydew production; Virus vector",
+        "control": {
+          "organic": "Neem oil + soap spray; rubbing alcohol on cotton swabs; strong water spray; remove waxy coating first; Cryptolaemus montrouzieri release",
+          "chemical": "Imidacloprid soil drench (2ml/L), Buprofezin 25% WP (1g/L), Chlorpyrifos 20% EC (2.5ml/L), Acetamiprid + Chlorpyrifos",
+          "biological": "Cryptolaemus montrouzieri (mealybug destroyer beetle), Leptomastix dactylopii (parasitoid wasp), Anagyrus kamali, Acerophagus papayae"
+        }
+      },
+      {
+        "id": 15,
+        "pest_name": "Root Knot Nematode",
+        "scientific_name": "Meloidogyne incognita, M. javanica, M. arenaria, M. hapla",
+        "pest_category": "Soil_Pests",
+        "damage_type": "Root parasitism; feeding cell formation",
+        "control": {
+          "organic": "Marigold (Tagetes spp.) intercropping; neem cake 250kg/ha soil application; Paecilomyces lilacinus inoculant; castor cake; mustard cake; crop rotation with cereals",
+          "chemical": "Carbofuran 3G (33 kg/ha), Phorate 10G, Ethoprophos 10G at planting; soil fumigation with Dazomet or Metam sodium (pre-plant)",
+          "biological": "Purpureocillium lilacinum (formerly Paecilomyces lilacinus), Pochonia chlamydosporia, Trichoderma harzianum, Bacillus firmus (VOTiVO), Steinernema carpocapsae"
+        }
+      },
+      {
+        "id": 4,
+        "pest_name": "Spider Mite (Two-Spotted)",
+        "scientific_name": "Tetranychus urticae",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Cell content feeding",
+        "control": {
+          "organic": "Water spray to wash off; neem oil 5ml/L; wettable sulfur 3g/L; insecticidal soap; predatory mites release; soap solution sprays",
+          "chemical": "Abamectin 1.9% EC (0.5ml/L), Spiromesifen 22.9% SC (1ml/L), Hexythiazox 5% EC (1ml/L), Bifenazate, Clofentezine, Fenpyroximate",
+          "biological": "Phytoseiulus persimilis (excellent predator), Amblyseius californicus, Neoseiulus californicus, Feltiella acarisuga (gall midge)"
+        }
+      },
+      {
+        "id": 10,
+        "pest_name": "Cotton Bollworm (Helicoverpa)",
+        "scientific_name": "Helicoverpa armigera",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Fruit, flower and seed feeding",
+        "control": {
+          "organic": "NPV spray (2×10¹² POB/ha); HaNPV + cotton Bt; pheromone traps (1/ha); neem seed kernel extract; Bt-k spray",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L), Chlorantraniliprole 18.5% SC (0.3ml/L), Indoxacarb, Flubendiamide, Thiodicarb",
+          "biological": "Trichogramma chilonis (egg parasitoid, 1 lakh/ha weekly), Habrobracon hebetor, Chrysoperla carnea, HaNPV"
+        }
+      },
+      {
+        "id": 3,
+        "pest_name": "Thrips",
+        "scientific_name": "Thrips palmi (Melon Thrips); Frankliniella occidentalis (Western Flower Thrips)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Rasping/sucking; Virus vector (TSWV, CSNV)",
+        "control": {
+          "organic": "Blue sticky traps (most attractive to thrips), spinosad spray, neem oil, kaolin clay, predatory mites (Neoseiulus cucumeris)",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Imidacloprid, Abamectin 1.9% EC (0.5ml/L), Cyantraniliprole, Tolfenpyrad",
+          "biological": "Neoseiulus cucumeris, Amblyseius swirskii (predatory mites); Orius insidiosus (pirate bug); Steinernema feltiae (entomopathogenic nematode) for soil pupae"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 40,
+    "common_name": "Linseed / Flax",
+    "botanical_name": "Linum usitatissimum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fiber/Oilseed",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Linaceae",
+      "subfamily": "Linoideae",
+      "genus": "Linum",
+      "species": "usitatissimum",
+      "family_description": "",
+      "genus_species_count": 200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

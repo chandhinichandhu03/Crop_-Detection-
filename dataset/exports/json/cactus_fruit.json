@@ -1,0 +1,32 @@
+[
+  {
+    "id": 214,
+    "common_name": "Prickly Pear Cactus",
+    "botanical_name": "Opuntia ficus-indica",
+    "author_citation": "(L.) Mill.",
+    "iucn_status": "LC",
+    "category": "Cactus/Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Cactaceae",
+      "subfamily": "Cactoideae",
+      "genus": "Opuntia",
+      "species": "ficus-indica",
+      "family_description": "Cactus family; succulent xerophytes",
+      "genus_species_count": 200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

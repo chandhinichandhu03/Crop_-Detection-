@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Agro Doctor Unified Startup",
     "scripts": {
-        "start": "npx concurrently \"bash -c 'cd ai_service && (source venv/bin/activate 2>/dev/null && python main.py || python3 main.py || python main.py)'\" \"bash -c 'cd backend && node server.js'\" \"bash -c 'cd frontend && npm run dev'\""
+        "start": "python run.py || python3 run.py"
     },
     "dependencies": {
         "concurrently": "^8.2.2"

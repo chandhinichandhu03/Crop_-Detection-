@@ -1,0 +1,399 @@
+[
+  {
+    "id": 51,
+    "common_name": "Coffee (Arabica)",
+    "botanical_name": "Coffea arabica",
+    "author_citation": "L.",
+    "iucn_status": "EN",
+    "category": "Beverage/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Gentianales",
+      "family": "Rubiaceae",
+      "subfamily": "Ixoroideae",
+      "genus": "Coffea",
+      "species": "arabica",
+      "family_description": "Coffee/Bedstraw family",
+      "genus_species_count": 125
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Coffee (Arabica)",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Kahwa (काफी)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Kafi (কফি)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Coffee (కాఫీ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Coffee (காபி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Coffee (ಕಾಫಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Coffee (കോഫി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Coffee (कॉफी)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Qahwa (قهوة)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Kāfēi (咖啡)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Kōhī (コーヒー)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Keopi (커피)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Cà phê",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Kafae (กาแฟ)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kopi",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kopi",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Kape",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Kahawa",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Kofi",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Kòfí",
+        "script": "Latin"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Bunna (ቡና)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Café",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Café",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Café",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Kaffee",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Caffè",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Kofe (кофе)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Kahve",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 52,
+    "common_name": "Coffee (Robusta)",
+    "botanical_name": "Coffea canephora",
+    "author_citation": "Pierre ex A.Froehner",
+    "iucn_status": "LC",
+    "category": "Beverage/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Gentianales",
+      "family": "Rubiaceae",
+      "subfamily": "Ixoroideae",
+      "genus": "Coffea",
+      "species": "canephora",
+      "family_description": "Coffee/Bedstraw family",
+      "genus_species_count": 125
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 53,
+    "common_name": "Tea",
+    "botanical_name": "Camellia sinensis",
+    "author_citation": "(L.) Kuntze",
+    "iucn_status": "LC",
+    "category": "Beverage/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Theaceae",
+      "subfamily": "Theoideae",
+      "genus": "Camellia",
+      "species": "sinensis",
+      "family_description": "Tea family",
+      "genus_species_count": 119
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Tea",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Chai (चाय)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Cha (চা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Tea (టీ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Theneer (தேயிலை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Tea (ಚಹಾ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Chaya (ചായ)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Chai (चहा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Chai (ਚਾਹ)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Shay (شاي)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Chá (茶)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Cha (お茶)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Cha (차)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Trà",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Cha (ชา)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Teh",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Teh",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Tsaa",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Chai",
+        "script": "Latin"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Shai (ሻይ)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Chá",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Té",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Thé",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Tee",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Tè",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Chay (чай)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Çay",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 54,
+    "common_name": "Cacao (Cocoa)",
+    "botanical_name": "Theobroma cacao",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Beverage/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "subfamily": "Byttnerioideae",
+      "genus": "Theobroma",
+      "species": "cacao",
+      "family_description": "Mallow family; cotton, hibiscus, cacao, durian",
+      "genus_species_count": 22
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

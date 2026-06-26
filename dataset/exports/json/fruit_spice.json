@@ -1,0 +1,32 @@
+[
+  {
+    "id": 81,
+    "common_name": "Tamarind",
+    "botanical_name": "Tamarindus indica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit/Spice",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Caesalpinioideae",
+      "genus": "Tamarindus",
+      "species": "indica",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

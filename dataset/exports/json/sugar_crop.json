@@ -1,0 +1,304 @@
+[
+  {
+    "id": 45,
+    "common_name": "Sugarcane",
+    "botanical_name": "Saccharum officinarum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Sugar Crop",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Panicoideae",
+      "genus": "Saccharum",
+      "species": "officinarum",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 37
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Sugarcane",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Ganna (गन्ना)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Aakh (আখ)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Cheruku (చెరుకు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Karumbu (கரும்பு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Kabbu (ಕಬ್ಬು)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Karumbu (കരിമ്പ്)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Oos (ऊस)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Ganna (ਗੰਨਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Svaradi (શેરડી)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Ganna (گنا)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Qasab al-sukkar (قصب السكر)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Gānzhè (甘蔗)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Satōkibi (サトウキビ)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Satong Susu (사탕수수)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Mía",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Oi (อ้อย)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Tebu",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Tebu",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Tubo",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Miwa",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Rake",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Ireke",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Cana-de-açúcar",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Caña de azúcar",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Canne à sucre",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Zuckerrohr",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Canna da zucchero",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Sakharniy trostnik (сахарный тростник)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Tropical and subtropical",
+        "temp_optimum": "27-38°C growing season; 12-20°C for maturation and sucrose accumulation",
+        "rainfall": "1500-2500mm; needs dry period for sucrose accumulation"
+      },
+      "soil": {
+        "type": "Deep, well-drained alluvial or loamy soil",
+        "ph_range": "6.0-8.0",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "Drip irrigation most efficient; furrow also used",
+        "critical_stages": "Establishment, grand growth period (3-9 months)",
+        "water_requirement_mm": "1500-2500mm total"
+      },
+      "fertilization": {
+        "npk": "N280-P120-K160 planted crop; N240-P80-K140 ratoon",
+        "schedule": "Basal: 50%P+50%K; N split every 45 days (5 splits)"
+      },
+      "harvesting": {
+        "maturity_indicator": "12-14 months for plant crop; 10-12 months for ratoon; CCS (Commercial Cane Sugar) > 10%",
+        "method": "Manual harvesting (topped and detrashed) or mechanical harvester",
+        "yield_per_ha": "70-100 t/ha cane; 8-11 t/ha sugar"
+      }
+    },
+    "diseases": [],
+    "pests": [
+      {
+        "id": 11,
+        "pest_name": "Yellow Stem Borer (Rice)",
+        "scientific_name": "Scirpophaga incertulas",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Stem boring",
+        "control": {
+          "organic": "Clip leaf tips of transplanted seedlings (removes egg masses); light traps; pheromone traps; release Trichogramma japonicum",
+          "chemical": "Cartap hydrochloride 4G granules (25 kg/ha in standing water), Chlorpyrifos 20% EC (2ml/L), Carbofuran 3G, Fipronil 0.3G",
+          "biological": "Trichogramma japonicum (egg parasitoid, 1 lakh/ha at 10-day intervals), Tetrastichus schoenobii, Telenomus rowani"
+        }
+      },
+      {
+        "id": 14,
+        "pest_name": "White Grubs (Chafer Beetles)",
+        "scientific_name": "Holotrichia consanguinea, Leucopholis lepidophora (multiple spp.)",
+        "pest_category": "Soil_Pests",
+        "damage_type": "Root feeding (grubs); adult defoliation",
+        "control": {
+          "organic": "Metarhizium anisopliae fungus (1×10⁹ spores/ml) soil application; ploughing to expose and destroy grubs; light traps for adults; neem cake 250 kg/ha",
+          "chemical": "Chlorpyrifos 20% EC (5L/ha) soil incorporation before planting; Carbofuran 3G (25 kg/ha); Phorate 10G; Imidacloprid seed treatment",
+          "biological": "Metarhizium anisopliae, Beauveria bassiana soil inoculants; Heterorhabditis bacteriophora (entomopathogenic nematode)"
+        }
+      },
+      {
+        "id": 9,
+        "pest_name": "Fall Armyworm",
+        "scientific_name": "Spodoptera frugiperda",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf and whorl feeding; ear damage",
+        "control": {
+          "organic": "Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)",
+          "biological": "Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 46,
+    "common_name": "Sugar Beet",
+    "botanical_name": "Beta vulgaris subsp. vulgaris",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Sugar Crop",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Amaranthaceae",
+      "subfamily": "Chenopodioideae",
+      "genus": "Beta",
+      "species": "vulgaris",
+      "family_description": "Amaranth family; includes beet, spinach, quinoa",
+      "genus_species_count": 6
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 47,
+    "common_name": "Stevia",
+    "botanical_name": "Stevia rebaudiana",
+    "author_citation": "Bertoni",
+    "iucn_status": "LC",
+    "category": "Sugar Crop",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Eupatorieae",
+      "genus": "Stevia",
+      "species": "rebaudiana",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

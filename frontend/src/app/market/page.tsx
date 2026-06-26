@@ -55,7 +55,7 @@ export default function Market() {
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const res = await axios.get('http://localhost:5000/api/products');
+                const res = await axios.get('http://localhost:8000/api/products');
                 setProducts(res.data);
             } catch (err) {
                 // Fallback products as requested
@@ -106,6 +106,21 @@ export default function Market() {
         setGeneratingBill(true);
 
         try {
+            // Post order details to FastAPI backend
+            const token = localStorage.getItem('agro_token');
+            if (token) {
+                const formData = new FormData();
+                formData.append('items', JSON.stringify(cart));
+                formData.append('total_amount', total.toString());
+                try {
+                    await axios.post('http://localhost:8000/api/products/order', formData, {
+                        headers: { Authorization: `Bearer ${token}` }
+                    });
+                } catch (e) {
+                    console.error("Order logging failed", e);
+                }
+            }
+
             const pdf = new jsPDF();
             const date = new Date();
             const deliveryDate = new Date();

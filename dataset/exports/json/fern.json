@@ -1,0 +1,32 @@
+[
+  {
+    "id": 216,
+    "common_name": "Common Bracken Fern",
+    "botanical_name": "Pteridium aquilinum",
+    "author_citation": "(L.) Kuhn",
+    "iucn_status": "LC",
+    "category": "Fern",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Polypodiophyta",
+      "subdivision": null,
+      "class": "Polypodiopsida",
+      "subclass": "Polypodiidae",
+      "order": "Dennstaedtiales",
+      "family": "Dennstaedtiaceae",
+      "subfamily": "Dennstaedtioideae",
+      "genus": "Pteridium",
+      "species": "aquilinum",
+      "family_description": "",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

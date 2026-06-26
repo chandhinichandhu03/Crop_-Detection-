@@ -1,0 +1,148 @@
+[
+  {
+    "id": 83,
+    "common_name": "Amla (Indian Gooseberry)",
+    "botanical_name": "Phyllanthus emblica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit/Medicinal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Phyllanthaceae",
+      "subfamily": "Phyllanthoideae",
+      "genus": "Phyllanthus",
+      "species": "emblica",
+      "family_description": "",
+      "genus_species_count": 800
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Indian Gooseberry (Amla)",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Amla (आंवला)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Amloki (আমলকী)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Usirika (ఉసిరిక)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Nelli (நெல்லி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Nelli (ನೆಲ್ಲಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Nellikka (നെല്ലിക്ക)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Avla (आवळा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Amla (ਆਂਵਲਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Amla (આમળ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Amla (آملہ)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Usaira",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Yu gan zi (余甘子)",
+        "script": "Native"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Ma kham pom (มะขามป้อม)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Amla",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Pokok melaka",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Amla",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 84,
+    "common_name": "Wood Apple (Bael)",
+    "botanical_name": "Aegle marmelos",
+    "author_citation": "(L.) Corrêa",
+    "iucn_status": "LC",
+    "category": "Fruit/Medicinal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Aegle",
+      "species": "marmelos",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

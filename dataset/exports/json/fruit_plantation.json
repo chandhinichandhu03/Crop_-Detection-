@@ -1,0 +1,207 @@
+[
+  {
+    "id": 62,
+    "common_name": "Coconut",
+    "botanical_name": "Cocos nucifera",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "subfamily": "Arecoideae",
+      "genus": "Cocos",
+      "species": "nucifera",
+      "family_description": "Palm family; coconut, date, oil palm",
+      "genus_species_count": 1
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Coconut",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Nariyal (नारियल)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Narkel (নারকেল)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Kobbari (కొబ్బరి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Thengai (தேங்காய்)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Tenginakayi (ತೆಂಗಿನಕಾಯಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Thenga (തെങ്ങ്)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Naral (नारळ)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Nariyal (ਨਾਰੀਅਲ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Nadiyer (નારિયેળ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Nariyal (ناریل)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Jawz al-hind (جوز الهند)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Yēzi (椰子)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Kokonattsu (ヤシの実)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Coconut (코코넛)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Dừa",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Maphrao (มะพร้าว)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kelapa",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kelapa",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Niyog",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Nazi",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Kwakwa",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Agbon",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Coco",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Coco",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Noix de coco",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Kokosnuss",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Noce di cocco",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Kokos (кокос)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Humid tropical",
+        "temp_optimum": "27-32°C; minimum 15°C; no frost tolerance",
+        "rainfall": "1500-2500mm; well-distributed"
+      },
+      "soil": {
+        "type": "Sandy loam to loamy soils; alluvial soils",
+        "ph_range": "5.5-8.0",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "Drip, basin, or flood",
+        "critical_stages": "",
+        "water_requirement_mm": ""
+      },
+      "fertilization": {
+        "npk": "",
+        "schedule": "Split into 2-3 applications (June, Sept, Dec)"
+      },
+      "harvesting": {
+        "maturity_indicator": "",
+        "method": "",
+        "yield_per_ha": ""
+      }
+    },
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

@@ -1,0 +1,2447 @@
+[
+  {
+    "id": 56,
+    "common_name": "Mango",
+    "botanical_name": "Mangifera indica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "subfamily": "Anacardioideae",
+      "genus": "Mangifera",
+      "species": "indica",
+      "family_description": "Cashew/Mango family",
+      "genus_species_count": 69
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Mango",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Aam (आम)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Aam (আম)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Mamidi (మామిడి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Maambalam (மாம்பழம்)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Mavina Hannu (ಮಾವಿನ ಹಣ್ಣು)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Mampazham (മാമ്പഴം)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Amba (आंबा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Aam (ਅੰਬ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Keri (કેરી)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Aam (آم)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Manga (مانجو)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Mángguǒ (芒果)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Mango (マンゴー)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Manggo (망고)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Xoài",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Mamuang (มะม่วง)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Mangga",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Mangga",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Mangga",
+        "script": "Latin"
+      },
+      "my": {
+        "language_name": "Burmese",
+        "local_name": "Thayet",
+        "script": "Native"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Embe",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Mangwaro",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Manga",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Mango",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Mangue",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Mango",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Mango",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Mango (манго)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Mango",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Tropical and subtropical",
+        "temp_optimum": "24-30°C during vegetative growth; cool dry period needed for flowering",
+        "rainfall": "750-2500mm; dry period during flowering and fruiting essential"
+      },
+      "soil": {
+        "type": "Deep well-drained alluvial/loamy soils",
+        "ph_range": "5.5-7.5",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "Drip irrigation preferred for bearing orchards",
+        "critical_stages": "",
+        "water_requirement_mm": ""
+      },
+      "fertilization": {
+        "npk": "",
+        "schedule": ""
+      },
+      "harvesting": {
+        "maturity_indicator": "",
+        "method": "Hand-pick with harvesting poles; 2cm stalk retained to prevent sap burn",
+        "yield_per_ha": ""
+      }
+    },
+    "diseases": [
+      {
+        "id": 24,
+        "disease_name": "Anthracnose",
+        "pathogen_name": "Colletotrichum gloeosporioides",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Dark brown to black spots on young leaves, flowers, and immature fruits; 'blossom blight' killing flower clusters",
+          "late": "Sunken, dark brown lesions on mature fruits that expand rapidly post-harvest; fruit rot; complete flower destruction",
+          "affected_parts": "Leaves, Flowers, Young Shoots, Fruit"
+        },
+        "treatment": {
+          "organic": "Copper oxychloride 3g/L, neem oil + copper, hot water dip 52°C for 5 minutes (post-harvest)",
+          "chemical": "Carbendazim 0.1% + Mancozeb 0.25% spray, Azoxystrobin + Difenoconazole, Propiconazole 0.1%",
+          "biological": "Trichoderma, Bacillus subtilis, Pseudomonas fluorescens",
+          "preventive": "Prune dead wood, copper spray before flowering, proper post-harvest handling (hot water), waxing, cold chain"
+        }
+      },
+      {
+        "id": 26,
+        "disease_name": "Mango Malformation Disease (MMD)",
+        "pathogen_name": "Fusarium mangiferae",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Vegetative malformation: bunchy top appearance with compacted proliferation of shoots ('mango witches' broom')",
+          "late": "Floral malformation: panicle conversion to compact, sterile, green vegetative structure; no fruits formed",
+          "affected_parts": "Shoot tips, Flower panicles"
+        },
+        "treatment": {
+          "organic": "Remove and burn malformed parts; control mites with acaricides",
+          "chemical": "NAA (Naphthaleneacetic acid) 200ppm spray + Carbendazim (0.1%) at panicle emergence",
+          "biological": "No effective biological control",
+          "preventive": "Use disease-free planting material, certified nursery plants, deinfest cutting tools, control mite vectors"
+        }
+      },
+      {
+        "id": 25,
+        "disease_name": "Powdery Mildew (Mango)",
+        "pathogen_name": "Oidium mangiferae",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "White powdery coating on young leaves, flower clusters, and young fruits",
+          "late": "Complete whitening of panicles, flower drop, young fruit drop, malformed surviving fruits",
+          "affected_parts": "Young Leaves, Flowers (panicles), Young Fruits"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur 3g/L at bud break; diluted milk spray (1:5); potassium bicarbonate",
+          "chemical": "Triadimefon 25% WP (1g/L), Hexaconazole 5% EC (2ml/L), Propiconazole 25% EC (1ml/L), Myclobutanil",
+          "biological": "Bacillus subtilis, Ampelomyces quisqualis",
+          "preventive": "First spray at bud emergence, second at fruit set; avoid overhead irrigation; morning sprays"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 12,
+        "pest_name": "Fruit Fly (Oriental)",
+        "scientific_name": "Bactrocera dorsalis",
+        "pest_category": "Fruit_Pests",
+        "damage_type": "Oviposition and larval feeding inside fruit",
+        "control": {
+          "organic": "Male attractant traps (Methyl eugenol + malathion or GF-120); fruit bagging with paper or plastic bags; Protein bait sprays; pick and destroy infested fallen fruit",
+          "chemical": "Protein bait spray (GF-120 bait + Spinosad); Cover sprays Malathion 50% EC (2ml/L), Dimethoate (2ml/L); only during non-harvest period",
+          "biological": "Fopius arisanus (egg-larval parasitoid), Diachasmimorpha longicaudata, Fopius vandenboschi, mass rearing and release of sterile males (SIT)"
+        }
+      },
+      {
+        "id": 5,
+        "pest_name": "Mealybugs",
+        "scientific_name": "Phenacoccus solenopsis (Cotton Mealybug); Planococcus citri (Citrus Mealybug)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Honeydew production; Virus vector",
+        "control": {
+          "organic": "Neem oil + soap spray; rubbing alcohol on cotton swabs; strong water spray; remove waxy coating first; Cryptolaemus montrouzieri release",
+          "chemical": "Imidacloprid soil drench (2ml/L), Buprofezin 25% WP (1g/L), Chlorpyrifos 20% EC (2.5ml/L), Acetamiprid + Chlorpyrifos",
+          "biological": "Cryptolaemus montrouzieri (mealybug destroyer beetle), Leptomastix dactylopii (parasitoid wasp), Anagyrus kamali, Acerophagus papayae"
+        }
+      },
+      {
+        "id": 6,
+        "pest_name": "Scale Insects",
+        "scientific_name": "Diaspidiotus perniciosus (San Jose Scale); Saissetia oleae (Olive Scale)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Dormant oil spray (petroleum oil 3-5%) at crawler stage; white summer oil (1-2%); brush off with stiff brush",
+          "chemical": "Buprofezin (at crawler stage), Chlorpyrifos + oil, Spirotetramat systemic; dormant oil during winter",
+          "biological": "Encarsia perniciosi (parasitoid of San Jose scale), Comperiella bifasciata, Aphytis melinus (red scale parasitoid)"
+        }
+      },
+      {
+        "id": 13,
+        "pest_name": "Mango Stone Weevil",
+        "scientific_name": "Sternochetus mangiferae",
+        "pest_category": "Fruit_Pests",
+        "damage_type": "Larval boring into mango seed",
+        "control": {
+          "organic": "Collect and destroy fallen infested fruits; tree hygiene — remove old bark; hot water seed treatment for nursery use (52°C for 15 min)",
+          "chemical": "Chlorpyrifos 20% EC (2ml/L) spray when adults are active (Feb-March); trunk banding with insecticide strips",
+          "biological": "No effective commercial biological control"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 57,
+    "common_name": "Banana",
+    "botanical_name": "Musa acuminata",
+    "author_citation": "Colla",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Zingiberales",
+      "family": "Musaceae",
+      "subfamily": "Musoideae",
+      "genus": "Musa",
+      "species": "acuminata",
+      "family_description": "Banana family",
+      "genus_species_count": 70
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Banana",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Kela (केला)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Kola (কলা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Arati Pandu (అరటిపండు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Vazhai Pazham (வாழைப்பழம்)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Bale Hannu (ಬಾಳೆ ಹಣ್ಣು)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Vazha Pazham (വാഴ്ചഫലം)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Keli (केळी)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Kela (ਕੇਲਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Kela (કેળ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Kela (کیلا)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Mouz (موز)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Xiāngjiāo (香蕉)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Banana (バナナ)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Banana (바나나)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Chuối",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Kluai (กล้วย)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Pisang",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Pisang",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Saging",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Ndizi",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Ayaba",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Ọgẹdẹ",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Banana",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Banana/Plátano",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Banane",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Banane",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Banana",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Banan (банан)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Humid tropical",
+        "temp_optimum": "26-30°C; growth stops below 15°C and above 38°C",
+        "rainfall": "2000-2500mm; well distributed throughout year; critical to avoid dry spells"
+      },
+      "soil": {
+        "type": "Deep, fertile, well-drained loam",
+        "ph_range": "5.5-7.0",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "Drip irrigation (most efficient); micro-sprinkler",
+        "critical_stages": "Flowering and bunch development (6-9 months)",
+        "water_requirement_mm": "2000-2500mm total"
+      },
+      "fertilization": {
+        "npk": "",
+        "schedule": ""
+      },
+      "harvesting": {
+        "maturity_indicator": "",
+        "method": "Whole bunch harvested at once by cutting bunch stalk",
+        "yield_per_ha": "40-60 t/ha (good management); 25-35 t/ha normal"
+      }
+    },
+    "diseases": [
+      {
+        "id": 28,
+        "disease_name": "Black Sigatoka (Black Leaf Streak)",
+        "pathogen_name": "Pseudocercospora fijiensis",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Tiny pale yellow flecks on lower leaf surface that elongate into brown streaks",
+          "late": "Brown-black elongated lesions with yellow halo on upper leaf surface; premature defoliation; green fruit ripening prematurely",
+          "affected_parts": "Leaves"
+        },
+        "treatment": {
+          "organic": "Copper oxychloride (2-3g/L) sprays, oil-based copper formulations; remove infected leaves",
+          "chemical": "Systemic fungicides on rotation: Propiconazole, Tebuconazole, Fenbuconazole, Chlorothalonil; resistance management essential",
+          "biological": "No effective biocontrol registered",
+          "preventive": "Resistant varieties, remove lower infected leaves (deleafing), reduce humidity with good drainage and canopy management"
+        }
+      },
+      {
+        "id": 27,
+        "disease_name": "Panama Wilt (Fusarium Wilt of Banana)",
+        "pathogen_name": "Fusarium oxysporum f. sp. cubense (TR4)",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Yellowing of older outer leaves, leaf collapse, starting from leaf margins; brown streaking in pseudostem when cut",
+          "late": "Complete plant collapse, pseudostem brown-red internal discoloration from base upward, no fruit production",
+          "affected_parts": "Roots, Pseudostem (vascular), Leaves"
+        },
+        "treatment": {
+          "organic": "No cure. Soil solarization, biological soil amendments (Trichoderma, compost)",
+          "chemical": "No effective chemical treatment",
+          "biological": "Trichoderma koningii, T. harzianum as suppressants",
+          "preventive": "Strict quarantine, plant resistant varieties (GCTCV-218 for TR4), clean tools with bleach, avoid infected soil movement"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 12,
+        "pest_name": "Fruit Fly (Oriental)",
+        "scientific_name": "Bactrocera dorsalis",
+        "pest_category": "Fruit_Pests",
+        "damage_type": "Oviposition and larval feeding inside fruit",
+        "control": {
+          "organic": "Male attractant traps (Methyl eugenol + malathion or GF-120); fruit bagging with paper or plastic bags; Protein bait sprays; pick and destroy infested fallen fruit",
+          "chemical": "Protein bait spray (GF-120 bait + Spinosad); Cover sprays Malathion 50% EC (2ml/L), Dimethoate (2ml/L); only during non-harvest period",
+          "biological": "Fopius arisanus (egg-larval parasitoid), Diachasmimorpha longicaudata, Fopius vandenboschi, mass rearing and release of sterile males (SIT)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 58,
+    "common_name": "Pineapple",
+    "botanical_name": "Ananas comosus",
+    "author_citation": "(L.) Merr.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Bromeliaceae",
+      "subfamily": "Bromelioideae",
+      "genus": "Ananas",
+      "species": "comosus",
+      "family_description": "Pineapple family",
+      "genus_species_count": 8
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 59,
+    "common_name": "Papaya",
+    "botanical_name": "Carica papaya",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Caricaceae",
+      "subfamily": "Caricaceae",
+      "genus": "Carica",
+      "species": "papaya",
+      "family_description": "Papaya family",
+      "genus_species_count": 22
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Papaya",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Papita (पपीता)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Pepe (পেঁপে)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Boppai Pandu (బొప్పాయి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Pappali (பப்பாளி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Pappayi (ಪಪ್ಪಾಯ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Papaya (പപ്പായ)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Papai (पपई)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Papita (ਪਪੀਤਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Papaya (પપૈયા)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Papita (پپیتا)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Babaya (بابايا)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Mùguā (木瓜)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Papaya (パパイア)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Papaya (파파야)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Đu đủ",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Malako (มะละกอ)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Pepaya",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Betik",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Papaya",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Papai",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Gwandaflawa",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Ìbépé",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Mamão",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Papaya",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Papaye",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Papaya",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Papaia",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Papaya (папайя)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 12,
+        "pest_name": "Fruit Fly (Oriental)",
+        "scientific_name": "Bactrocera dorsalis",
+        "pest_category": "Fruit_Pests",
+        "damage_type": "Oviposition and larval feeding inside fruit",
+        "control": {
+          "organic": "Male attractant traps (Methyl eugenol + malathion or GF-120); fruit bagging with paper or plastic bags; Protein bait sprays; pick and destroy infested fallen fruit",
+          "chemical": "Protein bait spray (GF-120 bait + Spinosad); Cover sprays Malathion 50% EC (2ml/L), Dimethoate (2ml/L); only during non-harvest period",
+          "biological": "Fopius arisanus (egg-larval parasitoid), Diachasmimorpha longicaudata, Fopius vandenboschi, mass rearing and release of sterile males (SIT)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 60,
+    "common_name": "Jackfruit",
+    "botanical_name": "Artocarpus heterophyllus",
+    "author_citation": "Lam.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Artocarpus",
+      "species": "heterophyllus",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 70
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 61,
+    "common_name": "Guava",
+    "botanical_name": "Psidium guajava",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "subfamily": "Myrtoideae",
+      "genus": "Psidium",
+      "species": "guajava",
+      "family_description": "Myrtle family; includes guava, eucalyptus, clove",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Guava",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Amrood (अमरूद)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Peyara (পেয়ারা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Jamma (జామ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Koyya (கொய்யா)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Seeba (ಸೀಬೆ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Pera (പേര)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Peron (पेरू)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Amrood (ਅਮਰੂਦ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Jamfal (જામફળ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Amrood (امرود)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Gawaafa (جوافة)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Fānshíliu (番石榴)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Guava (グアバ)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Guava (구아바)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Ổi",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Farang (ฝรั่ง)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Jambu biji",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Jambu batu",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Bayabas",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mapera",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Gwaba",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Guava",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Goiaba",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Guayaba",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Goyave",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Guave",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 12,
+        "pest_name": "Fruit Fly (Oriental)",
+        "scientific_name": "Bactrocera dorsalis",
+        "pest_category": "Fruit_Pests",
+        "damage_type": "Oviposition and larval feeding inside fruit",
+        "control": {
+          "organic": "Male attractant traps (Methyl eugenol + malathion or GF-120); fruit bagging with paper or plastic bags; Protein bait sprays; pick and destroy infested fallen fruit",
+          "chemical": "Protein bait spray (GF-120 bait + Spinosad); Cover sprays Malathion 50% EC (2ml/L), Dimethoate (2ml/L); only during non-harvest period",
+          "biological": "Fopius arisanus (egg-larval parasitoid), Diachasmimorpha longicaudata, Fopius vandenboschi, mass rearing and release of sterile males (SIT)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 63,
+    "common_name": "Date Palm",
+    "botanical_name": "Phoenix dactylifera",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "subfamily": "Arecoideae",
+      "genus": "Phoenix",
+      "species": "dactylifera",
+      "family_description": "Palm family; coconut, date, oil palm",
+      "genus_species_count": 14
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 64,
+    "common_name": "Pomegranate",
+    "botanical_name": "Punica granatum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Myrtales",
+      "family": "Lythraceae",
+      "subfamily": "Punicoideae",
+      "genus": "Punica",
+      "species": "granatum",
+      "family_description": "Loosestrife family; includes pomegranate and henna",
+      "genus_species_count": 2
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 65,
+    "common_name": "Dragon Fruit (Pitaya)",
+    "botanical_name": "Selenicereus undatus",
+    "author_citation": "(Haw.) D.R.Hunt",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Cactaceae",
+      "subfamily": "Cactoideae",
+      "genus": "Selenicereus",
+      "species": "undatus",
+      "family_description": "Cactus family; succulent xerophytes",
+      "genus_species_count": 20
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 66,
+    "common_name": "Avocado",
+    "botanical_name": "Persea americana",
+    "author_citation": "Mill.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Magnoliidae",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "subfamily": "Perseoideae",
+      "genus": "Persea",
+      "species": "americana",
+      "family_description": "Laurel family; avocado, cinnamon, bay laurel",
+      "genus_species_count": 200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 67,
+    "common_name": "Kiwifruit",
+    "botanical_name": "Actinidia deliciosa",
+    "author_citation": "(A.Chev.) C.F.Liang & A.R.Ferguson",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Actinidiaceae",
+      "subfamily": "Actinidioideae",
+      "genus": "Actinidia",
+      "species": "deliciosa",
+      "family_description": "Kiwifruit family",
+      "genus_species_count": 54
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 68,
+    "common_name": "Lychee",
+    "botanical_name": "Litchi chinensis",
+    "author_citation": "Sonn.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "subfamily": "Sapindoideae",
+      "genus": "Litchi",
+      "species": "chinensis",
+      "family_description": "Soapberry family; includes lychee, longan, rambutan, maple",
+      "genus_species_count": 1
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 69,
+    "common_name": "Longan",
+    "botanical_name": "Dimocarpus longan",
+    "author_citation": "Lour.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "subfamily": "Sapindoideae",
+      "genus": "Dimocarpus",
+      "species": "longan",
+      "family_description": "Soapberry family; includes lychee, longan, rambutan, maple",
+      "genus_species_count": 3
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 70,
+    "common_name": "Rambutan",
+    "botanical_name": "Nephelium lappaceum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "subfamily": "Sapindoideae",
+      "genus": "Nephelium",
+      "species": "lappaceum",
+      "family_description": "Soapberry family; includes lychee, longan, rambutan, maple",
+      "genus_species_count": 22
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 71,
+    "common_name": "Durian",
+    "botanical_name": "Durio zibethinus",
+    "author_citation": "D.Murray",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "subfamily": "Helicteroideae",
+      "genus": "Durio",
+      "species": "zibethinus",
+      "family_description": "Mallow family; cotton, hibiscus, cacao, durian",
+      "genus_species_count": 30
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 72,
+    "common_name": "Passion Fruit",
+    "botanical_name": "Passiflora edulis",
+    "author_citation": "Sims",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Passifloraceae",
+      "subfamily": "Passifloroideae",
+      "genus": "Passiflora",
+      "species": "edulis",
+      "family_description": "Passion flower family",
+      "genus_species_count": 550
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 73,
+    "common_name": "Sapodilla (Sapota)",
+    "botanical_name": "Manilkara zapota",
+    "author_citation": "(L.) P.Royen",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Sapotaceae",
+      "subfamily": "Mimusopoideae",
+      "genus": "Manilkara",
+      "species": "zapota",
+      "family_description": "Sapodilla family; chicle, shea butter",
+      "genus_species_count": 85
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 74,
+    "common_name": "Fig",
+    "botanical_name": "Ficus carica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Ficus",
+      "species": "carica",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 850
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 75,
+    "common_name": "Mulberry",
+    "botanical_name": "Morus alba",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Morus",
+      "species": "alba",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 16
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 76,
+    "common_name": "Custard Apple",
+    "botanical_name": "Annona squamosa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Magnoliidae",
+      "order": "Magnoliales",
+      "family": "Annonaceae",
+      "subfamily": "Annonoideae",
+      "genus": "Annona",
+      "species": "squamosa",
+      "family_description": "Custard apple / Soursop family",
+      "genus_species_count": 166
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 77,
+    "common_name": "Soursop (Graviola)",
+    "botanical_name": "Annona muricata",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Magnoliidae",
+      "order": "Magnoliales",
+      "family": "Annonaceae",
+      "subfamily": "Annonoideae",
+      "genus": "Annona",
+      "species": "muricata",
+      "family_description": "Custard apple / Soursop family",
+      "genus_species_count": 166
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 78,
+    "common_name": "Star Fruit (Carambola)",
+    "botanical_name": "Averrhoa carambola",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Oxalidales",
+      "family": "Oxalidaceae",
+      "subfamily": "Oxalidoideae",
+      "genus": "Averrhoa",
+      "species": "carambola",
+      "family_description": "Wood sorrel family; includes star fruit",
+      "genus_species_count": 2
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 79,
+    "common_name": "Mangosteen",
+    "botanical_name": "Garcinia mangostana",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Clusiaceae",
+      "subfamily": "Clusioideae",
+      "genus": "Garcinia",
+      "species": "mangostana",
+      "family_description": "Mangosteen family (Guttiferae)",
+      "genus_species_count": 400
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 24,
+        "disease_name": "Anthracnose",
+        "pathogen_name": "Colletotrichum gloeosporioides",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Dark brown to black spots on young leaves, flowers, and immature fruits; 'blossom blight' killing flower clusters",
+          "late": "Sunken, dark brown lesions on mature fruits that expand rapidly post-harvest; fruit rot; complete flower destruction",
+          "affected_parts": "Leaves, Flowers, Young Shoots, Fruit"
+        },
+        "treatment": {
+          "organic": "Copper oxychloride 3g/L, neem oil + copper, hot water dip 52°C for 5 minutes (post-harvest)",
+          "chemical": "Carbendazim 0.1% + Mancozeb 0.25% spray, Azoxystrobin + Difenoconazole, Propiconazole 0.1%",
+          "biological": "Trichoderma, Bacillus subtilis, Pseudomonas fluorescens",
+          "preventive": "Prune dead wood, copper spray before flowering, proper post-harvest handling (hot water), waxing, cold chain"
+        }
+      },
+      {
+        "id": 26,
+        "disease_name": "Mango Malformation Disease (MMD)",
+        "pathogen_name": "Fusarium mangiferae",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Vegetative malformation: bunchy top appearance with compacted proliferation of shoots ('mango witches' broom')",
+          "late": "Floral malformation: panicle conversion to compact, sterile, green vegetative structure; no fruits formed",
+          "affected_parts": "Shoot tips, Flower panicles"
+        },
+        "treatment": {
+          "organic": "Remove and burn malformed parts; control mites with acaricides",
+          "chemical": "NAA (Naphthaleneacetic acid) 200ppm spray + Carbendazim (0.1%) at panicle emergence",
+          "biological": "No effective biological control",
+          "preventive": "Use disease-free planting material, certified nursery plants, deinfest cutting tools, control mite vectors"
+        }
+      },
+      {
+        "id": 25,
+        "disease_name": "Powdery Mildew (Mango)",
+        "pathogen_name": "Oidium mangiferae",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "White powdery coating on young leaves, flower clusters, and young fruits",
+          "late": "Complete whitening of panicles, flower drop, young fruit drop, malformed surviving fruits",
+          "affected_parts": "Young Leaves, Flowers (panicles), Young Fruits"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur 3g/L at bud break; diluted milk spray (1:5); potassium bicarbonate",
+          "chemical": "Triadimefon 25% WP (1g/L), Hexaconazole 5% EC (2ml/L), Propiconazole 25% EC (1ml/L), Myclobutanil",
+          "biological": "Bacillus subtilis, Ampelomyces quisqualis",
+          "preventive": "First spray at bud emergence, second at fruit set; avoid overhead irrigation; morning sprays"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 80,
+    "common_name": "Breadfruit",
+    "botanical_name": "Artocarpus altilis",
+    "author_citation": "(Parkinson) Fosberg",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Artocarpus",
+      "species": "altilis",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 70
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 82,
+    "common_name": "Java Plum (Jamun)",
+    "botanical_name": "Syzygium cumini",
+    "author_citation": "(L.) Skeels",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "subfamily": "Myrtoideae",
+      "genus": "Syzygium",
+      "species": "cumini",
+      "family_description": "Myrtle family; includes guava, eucalyptus, clove",
+      "genus_species_count": 1200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 85,
+    "common_name": "Banana (Plantain)",
+    "botanical_name": "Musa paradisiaca",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Zingiberales",
+      "family": "Musaceae",
+      "subfamily": "Musoideae",
+      "genus": "Musa",
+      "species": "paradisiaca",
+      "family_description": "Banana family",
+      "genus_species_count": 70
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 28,
+        "disease_name": "Black Sigatoka (Black Leaf Streak)",
+        "pathogen_name": "Pseudocercospora fijiensis",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Tiny pale yellow flecks on lower leaf surface that elongate into brown streaks",
+          "late": "Brown-black elongated lesions with yellow halo on upper leaf surface; premature defoliation; green fruit ripening prematurely",
+          "affected_parts": "Leaves"
+        },
+        "treatment": {
+          "organic": "Copper oxychloride (2-3g/L) sprays, oil-based copper formulations; remove infected leaves",
+          "chemical": "Systemic fungicides on rotation: Propiconazole, Tebuconazole, Fenbuconazole, Chlorothalonil; resistance management essential",
+          "biological": "No effective biocontrol registered",
+          "preventive": "Resistant varieties, remove lower infected leaves (deleafing), reduce humidity with good drainage and canopy management"
+        }
+      },
+      {
+        "id": 27,
+        "disease_name": "Panama Wilt (Fusarium Wilt of Banana)",
+        "pathogen_name": "Fusarium oxysporum f. sp. cubense (TR4)",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Yellowing of older outer leaves, leaf collapse, starting from leaf margins; brown streaking in pseudostem when cut",
+          "late": "Complete plant collapse, pseudostem brown-red internal discoloration from base upward, no fruit production",
+          "affected_parts": "Roots, Pseudostem (vascular), Leaves"
+        },
+        "treatment": {
+          "organic": "No cure. Soil solarization, biological soil amendments (Trichoderma, compost)",
+          "chemical": "No effective chemical treatment",
+          "biological": "Trichoderma koningii, T. harzianum as suppressants",
+          "preventive": "Strict quarantine, plant resistant varieties (GCTCV-218 for TR4), clean tools with bleach, avoid infected soil movement"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 86,
+    "common_name": "Sweet Orange",
+    "botanical_name": "Citrus sinensis",
+    "author_citation": "(L.) Osbeck",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "sinensis",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 87,
+    "common_name": "Lemon",
+    "botanical_name": "Citrus limon",
+    "author_citation": "(L.) Osbeck",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "limon",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 88,
+    "common_name": "Lime",
+    "botanical_name": "Citrus aurantiifolia",
+    "author_citation": "(Christm.) Swingle",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "aurantiifolia",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 89,
+    "common_name": "Mandarin / Tangerine",
+    "botanical_name": "Citrus reticulata",
+    "author_citation": "Blanco",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "reticulata",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 90,
+    "common_name": "Grapefruit",
+    "botanical_name": "Citrus paradisi",
+    "author_citation": "Macfad.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "paradisi",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 91,
+    "common_name": "Pomelo",
+    "botanical_name": "Citrus maxima",
+    "author_citation": "(Burm.) Merr.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Citrus",
+      "species": "maxima",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 92,
+    "common_name": "Kumquat",
+    "botanical_name": "Fortunella japonica",
+    "author_citation": "(Thunb.) Swingle",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "subfamily": "Aurantioideae",
+      "genus": "Fortunella",
+      "species": "japonica",
+      "family_description": "Citrus family; all citrus fruits",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 93,
+    "common_name": "Apple",
+    "botanical_name": "Malus domestica",
+    "author_citation": "Borkh.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Maloideae",
+      "genus": "Malus",
+      "species": "domestica",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 55
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 31,
+        "disease_name": "Crown Gall",
+        "pathogen_name": "Agrobacterium tumefaciens (Rhizobium radiobacter)",
+        "disease_type": "Bacterial",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, soft, round galls develop at crown (soil line) or on roots",
+          "late": "Galls enlarge to large rough, brown, corky tumors; reduced plant vigor, stunting, increased susceptibility to other diseases",
+          "affected_parts": "Crown, Roots, Stems"
+        },
+        "treatment": {
+          "organic": "Cut out galls; treat with Agrobacterium radiobacter strain K-84 (biocontrol) at planting",
+          "chemical": "No effective post-infection treatment; copper bactericides preventively",
+          "biological": "Agrobacterium radiobacter strain K-84 / K-1026 biocontrol (prevents infection)",
+          "preventive": "Avoid wounding, use K-84 dip on roots before planting, plant only certified gall-free material"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 6,
+        "pest_name": "Scale Insects",
+        "scientific_name": "Diaspidiotus perniciosus (San Jose Scale); Saissetia oleae (Olive Scale)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Dormant oil spray (petroleum oil 3-5%) at crawler stage; white summer oil (1-2%); brush off with stiff brush",
+          "chemical": "Buprofezin (at crawler stage), Chlorpyrifos + oil, Spirotetramat systemic; dormant oil during winter",
+          "biological": "Encarsia perniciosi (parasitoid of San Jose scale), Comperiella bifasciata, Aphytis melinus (red scale parasitoid)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 94,
+    "common_name": "Pear",
+    "botanical_name": "Pyrus communis",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Maloideae",
+      "genus": "Pyrus",
+      "species": "communis",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 87
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 6,
+        "pest_name": "Scale Insects",
+        "scientific_name": "Diaspidiotus perniciosus (San Jose Scale); Saissetia oleae (Olive Scale)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Dormant oil spray (petroleum oil 3-5%) at crawler stage; white summer oil (1-2%); brush off with stiff brush",
+          "chemical": "Buprofezin (at crawler stage), Chlorpyrifos + oil, Spirotetramat systemic; dormant oil during winter",
+          "biological": "Encarsia perniciosi (parasitoid of San Jose scale), Comperiella bifasciata, Aphytis melinus (red scale parasitoid)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 95,
+    "common_name": "Peach",
+    "botanical_name": "Prunus persica",
+    "author_citation": "(L.) Batsch",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Amygdaloideae",
+      "genus": "Prunus",
+      "species": "persica",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 430
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 96,
+    "common_name": "Plum",
+    "botanical_name": "Prunus domestica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Amygdaloideae",
+      "genus": "Prunus",
+      "species": "domestica",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 430
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 97,
+    "common_name": "Cherry (Sweet)",
+    "botanical_name": "Prunus avium",
+    "author_citation": "(L.) L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Amygdaloideae",
+      "genus": "Prunus",
+      "species": "avium",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 430
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 98,
+    "common_name": "Apricot",
+    "botanical_name": "Prunus armeniaca",
+    "author_citation": "L.",
+    "iucn_status": "NT",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Amygdaloideae",
+      "genus": "Prunus",
+      "species": "armeniaca",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 430
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 99,
+    "common_name": "Strawberry",
+    "botanical_name": "Fragaria x ananassa",
+    "author_citation": "Duchesne ex Rozier",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Rosoideae",
+      "genus": "Fragaria",
+      "species": "ananassa",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 20
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 32,
+        "disease_name": "Botrytis Gray Mold",
+        "pathogen_name": "Botrytis cinerea",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked, brown lesions on petals, leaves, and stems; soft rot",
+          "late": "Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (\"ghost spot\" on tomato)",
+          "affected_parts": "Flowers, Leaves, Stems, Fruit, Storage organs"
+        },
+        "treatment": {
+          "organic": "Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray",
+          "chemical": "Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.",
+          "biological": "Bacillus subtilis QST713 (Serenade), Trichoderma asperellum, Clonostachys rosea (Prestop)",
+          "preventive": "Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 100,
+    "common_name": "Grape",
+    "botanical_name": "Vitis vinifera",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Vitales",
+      "family": "Vitaceae",
+      "subfamily": "Vitoideae",
+      "genus": "Vitis",
+      "species": "vinifera",
+      "family_description": "Grape family",
+      "genus_species_count": 79
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 32,
+        "disease_name": "Botrytis Gray Mold",
+        "pathogen_name": "Botrytis cinerea",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked, brown lesions on petals, leaves, and stems; soft rot",
+          "late": "Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (\"ghost spot\" on tomato)",
+          "affected_parts": "Flowers, Leaves, Stems, Fruit, Storage organs"
+        },
+        "treatment": {
+          "organic": "Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray",
+          "chemical": "Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.",
+          "biological": "Bacillus subtilis QST713 (Serenade), Trichoderma asperellum, Clonostachys rosea (Prestop)",
+          "preventive": "Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity"
+        }
+      },
+      {
+        "id": 31,
+        "disease_name": "Crown Gall",
+        "pathogen_name": "Agrobacterium tumefaciens (Rhizobium radiobacter)",
+        "disease_type": "Bacterial",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, soft, round galls develop at crown (soil line) or on roots",
+          "late": "Galls enlarge to large rough, brown, corky tumors; reduced plant vigor, stunting, increased susceptibility to other diseases",
+          "affected_parts": "Crown, Roots, Stems"
+        },
+        "treatment": {
+          "organic": "Cut out galls; treat with Agrobacterium radiobacter strain K-84 (biocontrol) at planting",
+          "chemical": "No effective post-infection treatment; copper bactericides preventively",
+          "biological": "Agrobacterium radiobacter strain K-84 / K-1026 biocontrol (prevents infection)",
+          "preventive": "Avoid wounding, use K-84 dip on roots before planting, plant only certified gall-free material"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 5,
+        "pest_name": "Mealybugs",
+        "scientific_name": "Phenacoccus solenopsis (Cotton Mealybug); Planococcus citri (Citrus Mealybug)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Honeydew production; Virus vector",
+        "control": {
+          "organic": "Neem oil + soap spray; rubbing alcohol on cotton swabs; strong water spray; remove waxy coating first; Cryptolaemus montrouzieri release",
+          "chemical": "Imidacloprid soil drench (2ml/L), Buprofezin 25% WP (1g/L), Chlorpyrifos 20% EC (2.5ml/L), Acetamiprid + Chlorpyrifos",
+          "biological": "Cryptolaemus montrouzieri (mealybug destroyer beetle), Leptomastix dactylopii (parasitoid wasp), Anagyrus kamali, Acerophagus papayae"
+        }
+      },
+      {
+        "id": 7,
+        "pest_name": "Leafhoppers",
+        "scientific_name": "Amrasca biguttula biguttula (Cotton/Okra Leafhopper); Empoasca spp.",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Virus vector; Toxicogenic saliva",
+        "control": {
+          "organic": "Neem seed kernel extract 5%, neem oil; yellow sticky traps; Beauveria bassiana spray",
+          "chemical": "Imidacloprid 17.8% SL (0.3ml/L), Lambda-cyhalothrin 5% EC (1ml/L), Thiamethoxam, Dimethoate 30% EC (2ml/L)",
+          "biological": "Anagrus atomus (egg parasitoid in grapes), Gonatocerus ashmeadi, Stethorus ladybugs"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 101,
+    "common_name": "Blueberry",
+    "botanical_name": "Vaccinium corymbosum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Ericaceae",
+      "subfamily": "Vaccinioideae",
+      "genus": "Vaccinium",
+      "species": "corymbosum",
+      "family_description": "Heath family; blueberries, cranberries, rhododendron",
+      "genus_species_count": 450
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 102,
+    "common_name": "Raspberry",
+    "botanical_name": "Rubus idaeus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Rosoideae",
+      "genus": "Rubus",
+      "species": "idaeus",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 750
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 103,
+    "common_name": "Blackberry",
+    "botanical_name": "Rubus fruticosus",
+    "author_citation": "L. agg.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Rosoideae",
+      "genus": "Rubus",
+      "species": "fruticosus",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 750
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 104,
+    "common_name": "Cranberry",
+    "botanical_name": "Vaccinium macrocarpon",
+    "author_citation": "Aiton",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Ericaceae",
+      "subfamily": "Vaccinioideae",
+      "genus": "Vaccinium",
+      "species": "macrocarpon",
+      "family_description": "Heath family; blueberries, cranberries, rhododendron",
+      "genus_species_count": 450
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 105,
+    "common_name": "Gooseberry",
+    "botanical_name": "Ribes uva-crispa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Saxifragales",
+      "family": "Grossulariaceae",
+      "subfamily": "Grossularioideae",
+      "genus": "Ribes",
+      "species": "uva-crispa",
+      "family_description": "",
+      "genus_species_count": 150
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 106,
+    "common_name": "Persimmon",
+    "botanical_name": "Diospyros kaki",
+    "author_citation": "Thunb.",
+    "iucn_status": "LC",
+    "category": "Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Ericales",
+      "family": "Ebenaceae",
+      "subfamily": "Ebenoideae",
+      "genus": "Diospyros",
+      "species": "kaki",
+      "family_description": "Ebony/Persimmon family",
+      "genus_species_count": 700
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

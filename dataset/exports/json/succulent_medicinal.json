@@ -1,0 +1,143 @@
+[
+  {
+    "id": 175,
+    "common_name": "Aloe Vera",
+    "botanical_name": "Aloe vera",
+    "author_citation": "(L.) Burm.f.",
+    "iucn_status": "LC",
+    "category": "Succulent/Medicinal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Xanthorrhoeaceae",
+      "subfamily": "Alooideae",
+      "genus": "Aloe",
+      "species": "vera",
+      "family_description": "Aloe family (now classified here)",
+      "genus_species_count": 550
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Aloe Vera",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Ghritkumari (घृतकुमारी)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Aloe Vera (অ্যালোভেরা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Kalabanda (కలబంద)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Sotrukatralai (சோற்றுக் கற்றாழை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Lolesara (ಲೋಳೆ ಸಾರ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Kuthamb (കൂടം)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Korphad (कोरफड)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Aloe (ਐਲੋਵੇਰਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Kumari (કુંવાર)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Sabbar (صبار)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Lúhuì (芦荟)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Aloe (アロエ)",
+        "script": "Native"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Wan hang chorakhe (ว่านหางจระเข้)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Lidah buaya",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Pokok Aloe Vera",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Aloe",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Babosa",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Sábila",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Aloe",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Aloe",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Aloe vera",
+        "script": "Native"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 162,
+    "common_name": "Fennel",
+    "botanical_name": "Foeniculum vulgare",
+    "author_citation": "Mill.",
+    "iucn_status": "LC",
+    "category": "Spice/Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Apiales",
+      "family": "Apiaceae",
+      "subfamily": "Apioideae",
+      "genus": "Foeniculum",
+      "species": "vulgare",
+      "family_description": "Carrot/Parsley family; umbellifers",
+      "genus_species_count": 1
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

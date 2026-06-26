@@ -1,0 +1,32 @@
+[
+  {
+    "id": 132,
+    "common_name": "Bitter Gourd (Karela)",
+    "botanical_name": "Momordica charantia",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable/Medicinal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Momordica",
+      "species": "charantia",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 60
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

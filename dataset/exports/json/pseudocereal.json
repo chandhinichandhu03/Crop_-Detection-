@@ -1,0 +1,165 @@
+[
+  {
+    "id": 14,
+    "common_name": "Buckwheat",
+    "botanical_name": "Fagopyrum esculentum",
+    "author_citation": "Moench",
+    "iucn_status": "LC",
+    "category": "Pseudocereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Polygonaceae",
+      "subfamily": "Polygonoideae",
+      "genus": "Fagopyrum",
+      "species": "esculentum",
+      "family_description": "Buckwheat/Dock family",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 16,
+        "disease_name": "Stem Rust (Black Rust)",
+        "pathogen_name": "Puccinia graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Brick-red oval to elongated blisters (pustules) on stems and leaves that rupture releasing reddish-brown powdery spores",
+          "late": "Black teliospore pustules in late season, lodging of stems, shriveled grain",
+          "affected_parts": "Stems, Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur; remove barberry bushes from fields",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole (1ml/L), at first sign of infection",
+          "biological": "No effective biological control for field use",
+          "preventive": "Rust-resistant varieties, eradicate barberry, prophylactic fungicide in Ug99-risk areas"
+        }
+      },
+      {
+        "id": 18,
+        "disease_name": "Powdery Mildew (Wheat)",
+        "pathogen_name": "Blumeria graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "White fluffy powdery patches on upper leaf surface of lower leaves",
+          "late": "White-gray coating on all green parts, yellowing and drying of leaves, cleistothecia (black dots) visible in old patches",
+          "affected_parts": "Leaves, Stems, Leaf sheaths"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur (3g/L), potassium bicarbonate",
+          "chemical": "Propiconazole 25% EC (1ml/L), Triadimefon 25% WP (1g/L), Azoxystrobin",
+          "biological": "Ampelomyces quisqualis",
+          "preventive": "Resistant varieties, avoid dense planting, balanced nitrogen, timely fungicide sprays"
+        }
+      },
+      {
+        "id": 15,
+        "disease_name": "Stripe Rust (Yellow Rust)",
+        "pathogen_name": "Puccinia striiformis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Stripe of yellow-orange uredia arranged in rows along leaf veins on upper leaf surface",
+          "late": "Extensive yellowing of leaves, black teliospores in stripes, reduced grain fill, shriveled kernels",
+          "affected_parts": "Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur preventively; no effective organic cure",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole 250 EW (1ml/L), Azoxystrobin + Propiconazole",
+          "biological": "Limited; Trichoderma as preventive",
+          "preventive": "Plant resistant varieties (HD-3226, WH1105), timely sowing to escape high-risk period, prophylactic fungicide at flag leaf stage"
+        }
+      },
+      {
+        "id": 17,
+        "disease_name": "Loose Smut",
+        "pathogen_name": "Ustilago tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Diseased plants emerge earlier; infected ear with black spore mass instead of grain",
+          "late": "Complete head replaced by black teliospore mass that disperses, leaving bare rachis",
+          "affected_parts": "Ear/Panicle"
+        },
+        "treatment": {
+          "organic": "Hot water seed treatment (52°C for 10 minutes)",
+          "chemical": "Carboxin + Thiram seed treatment (2g/kg seed), Tebuconazole seed treatment",
+          "biological": "Trichoderma viride seed treatment",
+          "preventive": "Use certified smut-free seeds, systemic seed treatment fungicides, plant resistant varieties"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 15,
+    "common_name": "Quinoa",
+    "botanical_name": "Chenopodium quinoa",
+    "author_citation": "Willd.",
+    "iucn_status": "LC",
+    "category": "Pseudocereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Amaranthaceae",
+      "subfamily": "Chenopodioideae",
+      "genus": "Chenopodium",
+      "species": "quinoa",
+      "family_description": "Amaranth family; includes beet, spinach, quinoa",
+      "genus_species_count": 200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 16,
+    "common_name": "Amaranth Grain",
+    "botanical_name": "Amaranthus hypochondriacus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pseudocereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Amaranthaceae",
+      "subfamily": "Amaranthoideae",
+      "genus": "Amaranthus",
+      "species": "hypochondriacus",
+      "family_description": "Amaranth family; includes beet, spinach, quinoa",
+      "genus_species_count": 75
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

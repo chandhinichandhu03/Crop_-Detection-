@@ -1,0 +1,1383 @@
+[
+  {
+    "id": 1,
+    "common_name": "Rice",
+    "botanical_name": "Oryza sativa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Oryzoideae",
+      "genus": "Oryza",
+      "species": "sativa",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 24
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Rice",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Chawal / Dhan (धान)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Dhaan (ধান)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Vadlu (వరి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Arisi (அரிசி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Akki (ಅಕ್ಕಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Ari (അരി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Tandul (तांदूळ)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Jhona (ਝੋਨਾ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Chaval",
+        "script": "Native"
+      },
+      "or": {
+        "language_name": "Odia",
+        "local_name": "Dhana (ଧାନ)",
+        "script": "Native"
+      },
+      "as": {
+        "language_name": "Assamese",
+        "local_name": "Dhan (ধান)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Chawal (چاول)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Arz (أرز)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Dào (稻)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Kome (米)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Ssal (쌀)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Lúa gạo",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Khao (ข้าว)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Padi",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Padi",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Palay",
+        "script": "Latin"
+      },
+      "my": {
+        "language_name": "Burmese",
+        "local_name": "Hsainn",
+        "script": "Native"
+      },
+      "km": {
+        "language_name": "Khmer",
+        "local_name": "Srov (ស្រូវ)",
+        "script": "Native"
+      },
+      "si": {
+        "language_name": "Sinhala",
+        "local_name": "Hal (හාල්)",
+        "script": "Native"
+      },
+      "ne": {
+        "language_name": "Nepali",
+        "local_name": "Chamal (चामल)",
+        "script": "Native"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mchele",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Shinkafa",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Iresi",
+        "script": "Latin"
+      },
+      "ig": {
+        "language_name": "Igbo",
+        "local_name": "Osikapa",
+        "script": "Native"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Timhirt (ጤፍ)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Arroz",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Arroz",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Riz",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Reis",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Riso",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Ris (рис)",
+        "script": "Native"
+      },
+      "nl": {
+        "language_name": "Dutch",
+        "local_name": "Rijst",
+        "script": "Native"
+      },
+      "pl": {
+        "language_name": "Polish",
+        "local_name": "Ryż",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Pirinç",
+        "script": "Latin"
+      },
+      "fa": {
+        "language_name": "Persian (Farsi)",
+        "local_name": "Berenj (برنج)",
+        "script": "Native"
+      },
+      "kk": {
+        "language_name": "Kazakh",
+        "local_name": "Küriş",
+        "script": "Native"
+      },
+      "uz": {
+        "language_name": "Uzbek",
+        "local_name": "Sholi",
+        "script": "Native"
+      },
+      "tg": {
+        "language_name": "Tajik",
+        "local_name": "Birinj",
+        "script": "Native"
+      },
+      "ky": {
+        "language_name": "Kyrgyz",
+        "local_name": "Küröch",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Tropical and subtropical",
+        "temp_optimum": "21-37°C (germination 18-40°C)",
+        "rainfall": "1000-2000mm annual; most during growing season"
+      },
+      "soil": {
+        "type": "Heavy clay or clay-loam soils with good water retention",
+        "ph_range": "5.0-7.0 (optimal 6.0-6.5)",
+        "special_requirements": "Impermeable clay layer needed for paddy cultivation; good drainage for upland rice"
+      },
+      "planting": {
+        "seed_rate": "Transplanted: 25-30 kg/ha; Direct seeded: 80-100 kg/ha",
+        "spacing": "20×15 cm or 20×20 cm; 2-3 seedlings per hill"
+      },
+      "irrigation": {
+        "method": "Continuous flooding (5-7cm standing water) in paddy field",
+        "critical_stages": "Tillering, panicle initiation, and flowering",
+        "water_requirement_mm": "1000-2000mm total"
+      },
+      "fertilization": {
+        "npk": "N120-P60-K60 for irrigated HYV",
+        "schedule": "Basal: 50%N+100%P+50%K; Topdressing: 25%N at tillering + 25%N at PI"
+      },
+      "harvesting": {
+        "maturity_indicator": "85-90% grain golden yellow; moisture content 20-25%",
+        "method": "Reaping by sickle or combine harvester",
+        "yield_per_ha": "3-8 t/ha (irrigated HYV); 1-2 t/ha (rainfed)"
+      }
+    },
+    "diseases": [
+      {
+        "id": 13,
+        "disease_name": "Brown Spot",
+        "pathogen_name": "Helminthosporium oryzae (Bipolaris oryzae)",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, oval to circular spots on leaves with yellow halo; dark brown margins and lighter centers",
+          "late": "Spots enlarge to typical oval brown spots, leaves yellow and die; glume discoloration leading to pecky rice",
+          "affected_parts": "Leaves, Grain (glumes)"
+        },
+        "treatment": {
+          "organic": "Trichoderma seed treatment, adequate potassium nutrition",
+          "chemical": "Mancozeb 75% WP (2g/L), Propiconazole 25% EC (1ml/L), Iprodione (1.5g/L)",
+          "biological": "Trichoderma viride seed treatment",
+          "preventive": "Treat seeds with fungicide, correct soil nutrition (especially K and Si), use certified seeds, crop rotation"
+        }
+      },
+      {
+        "id": 10,
+        "disease_name": "Rice Blast",
+        "pathogen_name": "Pyricularia oryzae (Magnaporthe oryzae)",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Spindle-shaped (diamond) lesions on leaves with gray-white center and dark brown to reddish-brown margins",
+          "late": "Neck rot: lesion at panicle neck causes the head to break and hang down (Neck Blast). Grain blast: empty chaffy grains. Node blast: dark lesions at stem nodes.",
+          "affected_parts": "Leaves, Nodes, Panicle Neck, Grains"
+        },
+        "treatment": {
+          "organic": "Spray Pseudomonas fluorescens (1% w/v), seed treatment with Trichoderma, avoid excess nitrogen",
+          "chemical": "Tricyclazole 75% WP (0.6g/L), Isoprothiolane 40% EC (1.5ml/L), Kasugamycin 3% SL (1.5ml/L), Azoxystrobin",
+          "biological": "Pseudomonas fluorescens, Bacillus subtilis, Trichoderma harzianum",
+          "preventive": "Use blast-resistant varieties (BPT 5204, Swarna Sub1), balanced N fertilization, wider spacing for air circulation, destroy stubble"
+        }
+      },
+      {
+        "id": 14,
+        "disease_name": "False Smut",
+        "pathogen_name": "Ustilaginoidea virens",
+        "disease_type": "Fungal",
+        "risk_level": "Low",
+        "symptoms": {
+          "early": "Individual spikelets converted to small velvet-like greenish balls",
+          "late": "Balls enlarge to 10mm diameter, becoming orange-yellow then olive-green with black powdery spores, scattered through panicle",
+          "affected_parts": "Grain/Spikelets"
+        },
+        "treatment": {
+          "organic": "Propiconazole-based sprays at booting stage",
+          "chemical": "Propiconazole 25% EC (1ml/L) or Azoxystrobin at booting stage",
+          "biological": "No effective biological control",
+          "preventive": "Spray preventive fungicide at booting stage, avoid late planting, balanced nutrition"
+        }
+      },
+      {
+        "id": 11,
+        "disease_name": "Bacterial Leaf Blight (BLB)",
+        "pathogen_name": "Xanthomonas oryzae pv. oryzae",
+        "disease_type": "Bacterial",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked to yellowish stripes along leaf margins, turning white to grayish, 'Kresek' phase in young seedlings (complete wilting)",
+          "late": "Milky, opaque bacterial exudate (dried beads) visible in morning on leaf tips, pale yellow 'straw' leaves, withered diseased panicles",
+          "affected_parts": "Leaves, growing tips"
+        },
+        "treatment": {
+          "organic": "Drain fields; copper hydroxide (2g/L) as weak bactericide spray",
+          "chemical": "Streptomycin + Tetracycline combination (limited effectiveness); Copper oxychloride preventively",
+          "biological": "Pseudomonas fluorescens (preventive soil and foliar treatment)",
+          "preventive": "Plant resistant varieties (IR64, Swarna), avoid excessive nitrogen, drain infected fields, destroy stubble"
+        }
+      },
+      {
+        "id": 12,
+        "disease_name": "Sheath Blight",
+        "pathogen_name": "Rhizoctonia solani AG1-IA",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Oval to elliptical greenish-gray lesions with white-gray interior and brownish border on leaf sheaths at water level",
+          "late": "Lesions coalesce and extend to upper leaves, white mycelial growth and brown sclerotia visible, complete sheath and leaf death",
+          "affected_parts": "Leaf sheaths (primarily), Leaves, Stem"
+        },
+        "treatment": {
+          "organic": "Trichoderma harzianum or T. viride soil application (2.5 kg/ha), Pseudomonas fluorescens spray",
+          "chemical": "Hexaconazole 5% EC (1ml/L), Propiconazole 25% EC (1ml/L), Validamycin 3% L (2ml/L), Carbendazim (1g/L)",
+          "biological": "Trichoderma harzianum, Bacillus subtilis",
+          "preventive": "Reduce plant density, lower nitrogen, drain standing water, use resistant varieties"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 11,
+        "pest_name": "Yellow Stem Borer (Rice)",
+        "scientific_name": "Scirpophaga incertulas",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Stem boring",
+        "control": {
+          "organic": "Clip leaf tips of transplanted seedlings (removes egg masses); light traps; pheromone traps; release Trichogramma japonicum",
+          "chemical": "Cartap hydrochloride 4G granules (25 kg/ha in standing water), Chlorpyrifos 20% EC (2ml/L), Carbofuran 3G, Fipronil 0.3G",
+          "biological": "Trichogramma japonicum (egg parasitoid, 1 lakh/ha at 10-day intervals), Tetrastichus schoenobii, Telenomus rowani"
+        }
+      },
+      {
+        "id": 17,
+        "pest_name": "Lesser Grain Borer",
+        "scientific_name": "Rhyzopertha dominica",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring from outside",
+        "control": {
+          "organic": "Hermetic storage, diatomaceous earth, proper drying below 12% moisture",
+          "chemical": "Phosphine fumigation, Pirimiphos-methyl grain protectant",
+          "biological": "Limited; Theocolax elegans (ectoparasitoid wasp)"
+        }
+      },
+      {
+        "id": 16,
+        "pest_name": "Rice Weevil",
+        "scientific_name": "Sitophilus oryzae",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring",
+        "control": {
+          "organic": "Clean dry grain storage (< 14% moisture); diatomaceous earth 1.5g/kg mixed with grain; bay leaves in storage; neem leaf powder mixed with grain; hermetic storage (PICS bags, metal silos)",
+          "chemical": "Phosphine fumigation (Aluminium phosphide tablets 3 tablets/tonne); Pyrethrin spray on empty stores; Deltamethrin WP on wall surfaces; Pirimiphos-methyl admixture",
+          "biological": "No practical biological control for storage pests"
+        }
+      },
+      {
+        "id": 9,
+        "pest_name": "Fall Armyworm",
+        "scientific_name": "Spodoptera frugiperda",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf and whorl feeding; ear damage",
+        "control": {
+          "organic": "Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)",
+          "biological": "Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 2,
+    "common_name": "Wheat",
+    "botanical_name": "Triticum aestivum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Triticum",
+      "species": "aestivum",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 30
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Wheat",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Gehun (गेहूँ)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Gom (গম)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Godhuma (గోధుమ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Gothumai (கோதுமை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Godi (ಗೋಧಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Gothambu (ഗോതമ്പ്)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Gahu (गहू)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Kanak (ਕਣਕ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Ghaun (ઘઉ)",
+        "script": "Native"
+      },
+      "or": {
+        "language_name": "Odia",
+        "local_name": "Gahama (ଗହମ)",
+        "script": "Native"
+      },
+      "as": {
+        "language_name": "Assamese",
+        "local_name": "Gom (গম)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Gandum (گندم)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Qamh (قمح)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Xiǎomài (小麦)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Komugi (小麦)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Mil (밀)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Lúa mì",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Saalee (สาลี)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Gandum",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Gandum",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Trigo",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Ngano",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Alkama",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Alikama",
+        "script": "Latin"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Senafich (ስንዴ)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Trigo",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Trigo",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Blé",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Weizen",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Grano",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Pshenitsa (пшеница)",
+        "script": "Native"
+      },
+      "nl": {
+        "language_name": "Dutch",
+        "local_name": "Tarwe",
+        "script": "Native"
+      },
+      "pl": {
+        "language_name": "Polish",
+        "local_name": "Pszenica",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Buğday",
+        "script": "Latin"
+      },
+      "fa": {
+        "language_name": "Persian (Farsi)",
+        "local_name": "Gandom (گندم)",
+        "script": "Native"
+      },
+      "kk": {
+        "language_name": "Kazakh",
+        "local_name": "Buday",
+        "script": "Native"
+      },
+      "uz": {
+        "language_name": "Uzbek",
+        "local_name": "Bug'doy",
+        "script": "Native"
+      },
+      "ro": {
+        "language_name": "Romanian",
+        "local_name": "Grâu",
+        "script": "Native"
+      },
+      "uk": {
+        "language_name": "Ukrainian",
+        "local_name": "Pshenytsia (пшениця)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Cool temperate to sub-tropical",
+        "temp_optimum": "Germination 3-25°C; optimal growth 15-21°C; grain fill 20-25°C",
+        "rainfall": "375-875mm (rabi / winter crop; relies on residual moisture and irrigation)"
+      },
+      "soil": {
+        "type": "Well-drained fertile loam or clay-loam soils",
+        "ph_range": "6.0-7.5",
+        "special_requirements": "Good aeration; moderate to high organic matter"
+      },
+      "planting": {
+        "seed_rate": "100-125 kg/ha (timely sown); 125-150 kg/ha (late sown)",
+        "spacing": "22.5 cm row spacing (seed drill); broadcast is less preferred"
+      },
+      "irrigation": {
+        "method": "Flood/furrow; drip/sprinkler for water efficiency",
+        "critical_stages": "CRI (Crown Root Initiation at 21 DAS), Tillering, Jointing, Flowering, Grain filling",
+        "water_requirement_mm": "400-500mm total"
+      },
+      "fertilization": {
+        "npk": "N120-P60-K40 for HYV; N150 with S15 for better protein",
+        "schedule": "Basal: 50%N+100%P+100%K; Topdressing: 25%N at CRI + 25%N at tillering"
+      },
+      "harvesting": {
+        "maturity_indicator": "Straw golden yellow; grain hard and moisture 18-20%",
+        "method": "Combine harvester or manual harvesting + threshing",
+        "yield_per_ha": "3-6 t/ha irrigated; 1.5-2.5 t/ha rainfed"
+      }
+    },
+    "diseases": [
+      {
+        "id": 16,
+        "disease_name": "Stem Rust (Black Rust)",
+        "pathogen_name": "Puccinia graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Brick-red oval to elongated blisters (pustules) on stems and leaves that rupture releasing reddish-brown powdery spores",
+          "late": "Black teliospore pustules in late season, lodging of stems, shriveled grain",
+          "affected_parts": "Stems, Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur; remove barberry bushes from fields",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole (1ml/L), at first sign of infection",
+          "biological": "No effective biological control for field use",
+          "preventive": "Rust-resistant varieties, eradicate barberry, prophylactic fungicide in Ug99-risk areas"
+        }
+      },
+      {
+        "id": 18,
+        "disease_name": "Powdery Mildew (Wheat)",
+        "pathogen_name": "Blumeria graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "White fluffy powdery patches on upper leaf surface of lower leaves",
+          "late": "White-gray coating on all green parts, yellowing and drying of leaves, cleistothecia (black dots) visible in old patches",
+          "affected_parts": "Leaves, Stems, Leaf sheaths"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur (3g/L), potassium bicarbonate",
+          "chemical": "Propiconazole 25% EC (1ml/L), Triadimefon 25% WP (1g/L), Azoxystrobin",
+          "biological": "Ampelomyces quisqualis",
+          "preventive": "Resistant varieties, avoid dense planting, balanced nitrogen, timely fungicide sprays"
+        }
+      },
+      {
+        "id": 15,
+        "disease_name": "Stripe Rust (Yellow Rust)",
+        "pathogen_name": "Puccinia striiformis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Stripe of yellow-orange uredia arranged in rows along leaf veins on upper leaf surface",
+          "late": "Extensive yellowing of leaves, black teliospores in stripes, reduced grain fill, shriveled kernels",
+          "affected_parts": "Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur preventively; no effective organic cure",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole 250 EW (1ml/L), Azoxystrobin + Propiconazole",
+          "biological": "Limited; Trichoderma as preventive",
+          "preventive": "Plant resistant varieties (HD-3226, WH1105), timely sowing to escape high-risk period, prophylactic fungicide at flag leaf stage"
+        }
+      },
+      {
+        "id": 17,
+        "disease_name": "Loose Smut",
+        "pathogen_name": "Ustilago tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Diseased plants emerge earlier; infected ear with black spore mass instead of grain",
+          "late": "Complete head replaced by black teliospore mass that disperses, leaving bare rachis",
+          "affected_parts": "Ear/Panicle"
+        },
+        "treatment": {
+          "organic": "Hot water seed treatment (52°C for 10 minutes)",
+          "chemical": "Carboxin + Thiram seed treatment (2g/kg seed), Tebuconazole seed treatment",
+          "biological": "Trichoderma viride seed treatment",
+          "preventive": "Use certified smut-free seeds, systemic seed treatment fungicides, plant resistant varieties"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 16,
+        "pest_name": "Rice Weevil",
+        "scientific_name": "Sitophilus oryzae",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring",
+        "control": {
+          "organic": "Clean dry grain storage (< 14% moisture); diatomaceous earth 1.5g/kg mixed with grain; bay leaves in storage; neem leaf powder mixed with grain; hermetic storage (PICS bags, metal silos)",
+          "chemical": "Phosphine fumigation (Aluminium phosphide tablets 3 tablets/tonne); Pyrethrin spray on empty stores; Deltamethrin WP on wall surfaces; Pirimiphos-methyl admixture",
+          "biological": "No practical biological control for storage pests"
+        }
+      },
+      {
+        "id": 17,
+        "pest_name": "Lesser Grain Borer",
+        "scientific_name": "Rhyzopertha dominica",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring from outside",
+        "control": {
+          "organic": "Hermetic storage, diatomaceous earth, proper drying below 12% moisture",
+          "chemical": "Phosphine fumigation, Pirimiphos-methyl grain protectant",
+          "biological": "Limited; Theocolax elegans (ectoparasitoid wasp)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 3,
+    "common_name": "Maize (Corn)",
+    "botanical_name": "Zea mays",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Panicoideae",
+      "genus": "Zea",
+      "species": "mays",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 4
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Maize / Corn",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Makka / Bhuta (मक्का)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Bhutta (ভুট্টা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Makka jowar (మొక్కజొన్న)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Cholam (சோளம்)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Jawari (ಜೋಳ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Cholam (ചോളം)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Makai (मका)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Makki (ਮੱਕੀ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Makkai (મકાઈ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Makai (مکئی)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Dhura (ذرة)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Yùmǐ (玉米)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Tōmorokoshi (とうもろこし)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Oksusu (옥수수)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Ngô",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Khao Phot (ข้าวโพด)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Jagung",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Jagung",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Mais",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mahindi",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Masara",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Àgbàdo",
+        "script": "Latin"
+      },
+      "ig": {
+        "language_name": "Igbo",
+        "local_name": "Oka",
+        "script": "Native"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Masara (ማሳር)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Milho",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Maíz",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Maïs",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Mais",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Granoturco",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Kukuruza (кукуруза)",
+        "script": "Native"
+      },
+      "nl": {
+        "language_name": "Dutch",
+        "local_name": "Maïs",
+        "script": "Native"
+      },
+      "pl": {
+        "language_name": "Polish",
+        "local_name": "Kukurydza",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Mısır",
+        "script": "Latin"
+      },
+      "fa": {
+        "language_name": "Persian (Farsi)",
+        "local_name": "Zarat (ذرت)",
+        "script": "Native"
+      },
+      "ro": {
+        "language_name": "Romanian",
+        "local_name": "Porumb",
+        "script": "Native"
+      },
+      "uk": {
+        "language_name": "Ukrainian",
+        "local_name": "Kukurudza (кукурудза)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 20,
+        "disease_name": "Maize Lethal Necrosis (MLN)",
+        "pathogen_name": "Maize chlorotic mottle virus (MCMV) + Potyviruses",
+        "disease_type": "Viral",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Chlorotic (yellow) streaks and mottling on younger leaves; pale green to yellow leaf discoloration",
+          "late": "Complete necrosis of all leaves from leaf tip, brown papery leaves, ear rot, premature death",
+          "affected_parts": "All plant parts, especially leaves and ears"
+        },
+        "treatment": {
+          "organic": "No cure; control insect vectors with neem oil, reflective mulch",
+          "chemical": "No direct treatment; insecticides for vector control (Imidacloprid, Thiamethoxam)",
+          "biological": "No effective biological treatment",
+          "preventive": "Plant MLN-tolerant/resistant varieties, control thrips and aphids, crop rotation, early planting, remove infected plants"
+        }
+      },
+      {
+        "id": 21,
+        "disease_name": "Gray Leaf Spot",
+        "pathogen_name": "Cercospora zeae-maydis",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Small, irregular tan spots with yellow halos, mainly on lower leaves",
+          "late": "Elongated, rectangular, grayish-tan lesions limited by leaf veins, covering entire leaf",
+          "affected_parts": "Leaves"
+        },
+        "treatment": {
+          "organic": "Copper-based sprays preventively",
+          "chemical": "Azoxystrobin, Propiconazole, Pyraclostrobin at tasseling stage",
+          "biological": "Bacillus subtilis",
+          "preventive": "Hybrid resistance, crop rotation, tillage to bury debris, fungicide at VT/R1"
+        }
+      },
+      {
+        "id": 19,
+        "disease_name": "Northern Corn Leaf Blight (NCLB)",
+        "pathogen_name": "Exserohilum turcicum (Setosphaeria turcica)",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Long (5-15cm) elliptical tan to grayish-green lesions with wavy margins on lower leaves",
+          "late": "Extensive leaf blighting from bottom of plant upward, dark olive-green spore mass on lesions in humid conditions",
+          "affected_parts": "Leaves"
+        },
+        "treatment": {
+          "organic": "Copper-based fungicides preventively",
+          "chemical": "Azoxystrobin + Propiconazole (Quilt Xcel 1L/ha), Propiconazole alone (1ml/L)",
+          "biological": "Bacillus amyloliquefaciens",
+          "preventive": "Resistant hybrids, crop rotation, remove infected debris, timely planting"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 4,
+    "common_name": "Barley",
+    "botanical_name": "Hordeum vulgare",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Hordeum",
+      "species": "vulgare",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 32
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 16,
+        "pest_name": "Rice Weevil",
+        "scientific_name": "Sitophilus oryzae",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring",
+        "control": {
+          "organic": "Clean dry grain storage (< 14% moisture); diatomaceous earth 1.5g/kg mixed with grain; bay leaves in storage; neem leaf powder mixed with grain; hermetic storage (PICS bags, metal silos)",
+          "chemical": "Phosphine fumigation (Aluminium phosphide tablets 3 tablets/tonne); Pyrethrin spray on empty stores; Deltamethrin WP on wall surfaces; Pirimiphos-methyl admixture",
+          "biological": "No practical biological control for storage pests"
+        }
+      },
+      {
+        "id": 17,
+        "pest_name": "Lesser Grain Borer",
+        "scientific_name": "Rhyzopertha dominica",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring from outside",
+        "control": {
+          "organic": "Hermetic storage, diatomaceous earth, proper drying below 12% moisture",
+          "chemical": "Phosphine fumigation, Pirimiphos-methyl grain protectant",
+          "biological": "Limited; Theocolax elegans (ectoparasitoid wasp)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 5,
+    "common_name": "Oat",
+    "botanical_name": "Avena sativa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Avena",
+      "species": "sativa",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 29
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 6,
+    "common_name": "Sorghum",
+    "botanical_name": "Sorghum bicolor",
+    "author_citation": "(L.) Moench",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Panicoideae",
+      "genus": "Sorghum",
+      "species": "bicolor",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 31
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 17,
+        "pest_name": "Lesser Grain Borer",
+        "scientific_name": "Rhyzopertha dominica",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring from outside",
+        "control": {
+          "organic": "Hermetic storage, diatomaceous earth, proper drying below 12% moisture",
+          "chemical": "Phosphine fumigation, Pirimiphos-methyl grain protectant",
+          "biological": "Limited; Theocolax elegans (ectoparasitoid wasp)"
+        }
+      },
+      {
+        "id": 16,
+        "pest_name": "Rice Weevil",
+        "scientific_name": "Sitophilus oryzae",
+        "pest_category": "Storage_Pests",
+        "damage_type": "Grain boring",
+        "control": {
+          "organic": "Clean dry grain storage (< 14% moisture); diatomaceous earth 1.5g/kg mixed with grain; bay leaves in storage; neem leaf powder mixed with grain; hermetic storage (PICS bags, metal silos)",
+          "chemical": "Phosphine fumigation (Aluminium phosphide tablets 3 tablets/tonne); Pyrethrin spray on empty stores; Deltamethrin WP on wall surfaces; Pirimiphos-methyl admixture",
+          "biological": "No practical biological control for storage pests"
+        }
+      },
+      {
+        "id": 9,
+        "pest_name": "Fall Armyworm",
+        "scientific_name": "Spodoptera frugiperda",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf and whorl feeding; ear damage",
+        "control": {
+          "organic": "Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)",
+          "biological": "Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)"
+        }
+      },
+      {
+        "id": 10,
+        "pest_name": "Cotton Bollworm (Helicoverpa)",
+        "scientific_name": "Helicoverpa armigera",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Fruit, flower and seed feeding",
+        "control": {
+          "organic": "NPV spray (2×10¹² POB/ha); HaNPV + cotton Bt; pheromone traps (1/ha); neem seed kernel extract; Bt-k spray",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L), Chlorantraniliprole 18.5% SC (0.3ml/L), Indoxacarb, Flubendiamide, Thiodicarb",
+          "biological": "Trichogramma chilonis (egg parasitoid, 1 lakh/ha weekly), Habrobracon hebetor, Chrysoperla carnea, HaNPV"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 17,
+    "common_name": "Durum Wheat",
+    "botanical_name": "Triticum durum",
+    "author_citation": "Desf.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Triticum",
+      "species": "durum",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 30
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 16,
+        "disease_name": "Stem Rust (Black Rust)",
+        "pathogen_name": "Puccinia graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Brick-red oval to elongated blisters (pustules) on stems and leaves that rupture releasing reddish-brown powdery spores",
+          "late": "Black teliospore pustules in late season, lodging of stems, shriveled grain",
+          "affected_parts": "Stems, Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur; remove barberry bushes from fields",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole (1ml/L), at first sign of infection",
+          "biological": "No effective biological control for field use",
+          "preventive": "Rust-resistant varieties, eradicate barberry, prophylactic fungicide in Ug99-risk areas"
+        }
+      },
+      {
+        "id": 18,
+        "disease_name": "Powdery Mildew (Wheat)",
+        "pathogen_name": "Blumeria graminis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "White fluffy powdery patches on upper leaf surface of lower leaves",
+          "late": "White-gray coating on all green parts, yellowing and drying of leaves, cleistothecia (black dots) visible in old patches",
+          "affected_parts": "Leaves, Stems, Leaf sheaths"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur (3g/L), potassium bicarbonate",
+          "chemical": "Propiconazole 25% EC (1ml/L), Triadimefon 25% WP (1g/L), Azoxystrobin",
+          "biological": "Ampelomyces quisqualis",
+          "preventive": "Resistant varieties, avoid dense planting, balanced nitrogen, timely fungicide sprays"
+        }
+      },
+      {
+        "id": 15,
+        "disease_name": "Stripe Rust (Yellow Rust)",
+        "pathogen_name": "Puccinia striiformis f. sp. tritici",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Stripe of yellow-orange uredia arranged in rows along leaf veins on upper leaf surface",
+          "late": "Extensive yellowing of leaves, black teliospores in stripes, reduced grain fill, shriveled kernels",
+          "affected_parts": "Leaves, Leaf sheaths, Glumes"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur preventively; no effective organic cure",
+          "chemical": "Propiconazole 25% EC (1ml/L), Tebuconazole 250 EW (1ml/L), Azoxystrobin + Propiconazole",
+          "biological": "Limited; Trichoderma as preventive",
+          "preventive": "Plant resistant varieties (HD-3226, WH1105), timely sowing to escape high-risk period, prophylactic fungicide at flag leaf stage"
+        }
+      },
+      {
+        "id": 17,
+        "disease_name": "Loose Smut",
+        "pathogen_name": "Ustilago tritici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Diseased plants emerge earlier; infected ear with black spore mass instead of grain",
+          "late": "Complete head replaced by black teliospore mass that disperses, leaving bare rachis",
+          "affected_parts": "Ear/Panicle"
+        },
+        "treatment": {
+          "organic": "Hot water seed treatment (52°C for 10 minutes)",
+          "chemical": "Carboxin + Thiram seed treatment (2g/kg seed), Tebuconazole seed treatment",
+          "biological": "Trichoderma viride seed treatment",
+          "preventive": "Use certified smut-free seeds, systemic seed treatment fungicides, plant resistant varieties"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 18,
+    "common_name": "Rye",
+    "botanical_name": "Secale cereale",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Secale",
+      "species": "cereale",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 19,
+    "common_name": "Triticale",
+    "botanical_name": "Triticosecale rimpaui",
+    "author_citation": "Wittm.",
+    "iucn_status": "LC",
+    "category": "Cereal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Pooideae",
+      "genus": "Triticosecale",
+      "species": "rimpaui",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

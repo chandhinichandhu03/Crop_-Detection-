@@ -1,0 +1,32 @@
+[
+  {
+    "id": 218,
+    "common_name": "Spirulina (Blue-Green Algae)",
+    "botanical_name": "Arthrospira platensis",
+    "author_citation": "(Nordstedt) Gomont",
+    "iucn_status": "LC",
+    "category": "Algae/Superfood",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Cyanobacteria",
+      "division": "Cyanophyta",
+      "subdivision": null,
+      "class": "Cyanophyceae",
+      "subclass": "Oscillatoriophycideae",
+      "order": "Oscillatoriales",
+      "family": "Microcoleaceae",
+      "subfamily": "Microcoleaceae",
+      "genus": "Arthrospira",
+      "species": "platensis",
+      "family_description": "",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

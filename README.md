@@ -6,35 +6,29 @@ Agro Doctor is a premium, full-stack digital ecosystem designed to transform Ind
 
 ## ⚡ Quick Start (Run Locally)
 
-To get the entire ecosystem running, you need to start three services in separate terminal windows:
+To get the entire ecosystem running (both the Next.js frontend and the FastAPI Python backend), execute the single startup runner script at the root directory:
 
-### 1. AI Inference Service (Python/FastAPI)
-The brain of the system, responsible for neural network inference on crop images.
+### 🍎 For macOS & Linux:
 ```bash
-cd ai_service
-# If venv is already created:
-source venv/bin/activate
-python main.py
+python3 run.py
 ```
-*Runs on: `http://localhost:8000`*
 
-### 2. Backend API (Node.js/Express)
-Manages the marketplace, product inventory, and user data.
-```bash
-cd backend
-npm install  # (First time only)
-node server.js
+### 🪟 For Windows:
+```cmd
+python run.py
 ```
-*Runs on: `http://localhost:5000`*
 
-### 3. Frontend Web App (Next.js 15)
-The premium, interactive user interface.
+*Or alternatively, run using npm:*
 ```bash
-cd agro-doctor-app/frontend
-npm install  # (First time only)
-npm run dev
+npm start
 ```
-*Runs on: `http://localhost:3000`*
+
+This single command automatically performs the following:
+- Creates a virtual environment in `backend/venv` (if missing).
+- Installs all backend Python packages from `backend/requirements.txt`.
+- Installs all frontend node packages in `frontend/` (if missing).
+- Clears existing processes on ports 3000 and 8000.
+- Launches the Next.js App (`http://localhost:3000`) and the FastAPI backend (`http://localhost:8000`) concurrently.
 
 ---
 

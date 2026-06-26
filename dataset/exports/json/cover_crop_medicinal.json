@@ -1,0 +1,32 @@
+[
+  {
+    "id": 222,
+    "common_name": "Velvet Bean (Mucuna)",
+    "botanical_name": "Mucuna pruriens",
+    "author_citation": "(L.) DC.",
+    "iucn_status": "LC",
+    "category": "Cover Crop/Medicinal",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Mucuna",
+      "species": "pruriens",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 105
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

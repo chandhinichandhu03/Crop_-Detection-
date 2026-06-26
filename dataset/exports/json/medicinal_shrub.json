@@ -1,0 +1,32 @@
+[
+  {
+    "id": 182,
+    "common_name": "Sarpagandha (Indian Snakeroot)",
+    "botanical_name": "Rauwolfia serpentina",
+    "author_citation": "(L.) Benth. ex Kurz",
+    "iucn_status": "EN",
+    "category": "Medicinal Shrub",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Gentianales",
+      "family": "Apocynaceae",
+      "subfamily": "Rauvolfioideae",
+      "genus": "Rauwolfia",
+      "species": "serpentina",
+      "family_description": "Dogbane family; includes oleander, periwinkle",
+      "genus_species_count": 90
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

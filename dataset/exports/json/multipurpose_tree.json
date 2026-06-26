@@ -1,0 +1,32 @@
+[
+  {
+    "id": 188,
+    "common_name": "Babool (Acacia)",
+    "botanical_name": "Vachellia nilotica",
+    "author_citation": "(L.) P.J.H.Hurter & Mabb.",
+    "iucn_status": "LC",
+    "category": "Multipurpose Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Caesalpinioideae",
+      "genus": "Vachellia",
+      "species": "nilotica",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

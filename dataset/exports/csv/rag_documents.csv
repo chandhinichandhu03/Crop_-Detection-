@@ -1,0 +1,722 @@
+id,document_type,title,content,source_module,plant_name,tags,tfidf_vector,created_at,updated_at
+1,disease,Early Blight in Tomato,"Disease: Early Blight
+Pathogen: Alternaria solani
+Type: Fungal
+Affected Plant: Tomato
+Host Range: Tomato, Potato, Eggplant
+Symptoms: Small, dark brown circular spots with concentric rings (target board pattern) on older lower leaves. Leaf yellowing, premature leaf drop, dark sunken lesions at stem-ends of fruit, stem collar rot
+Treatment: Neem oil (4ml/L + 2ml soap), Copper oxychloride 50% WP (3g/L), Trichoderma harzianum soil drench, Baking soda spray (5g/L). Mancozeb 75% WP (2g/L), Azoxystrobin 23% SC (1ml/L), Chlorothalonil 75% WP (2g/L), Propiconazole 25% EC (1ml/L)
+Prevention: Use certified disease-free seeds, crop rotation (3 years), remove infected debris, avoid overhead irrigation, stake plants for air circulation",diseases_db,Tomato,"Fungal,Tomato,Alternaria solani",,2026-06-26 15:47:47.241455,2026-06-26 15:47:47.241456
+2,disease,Late Blight in Tomato,"Disease: Late Blight
+Pathogen: Phytophthora infestans
+Type: Oomycete
+Affected Plant: Tomato
+Host Range: Tomato, Potato
+Symptoms: Water-soaked irregular grayish-green patches on leaves, usually starting from leaf tips and edges. Fuzzy white sporulating lesions on underside of leaves in humid conditions, greasy dark green-black patches on fruit, entire plant collapse with putrid smell
+Treatment: Copper hydroxide (3g/L) as protective spray, Bordeaux mixture (1%), maintain dry conditions. Metalaxyl-M + Mancozeb (Ridomil Gold) 2.5g/L, Cymoxanil + Famoxadone 0.5g/L, Dimethomorph 0.5g/L
+Prevention: Plant resistant varieties, ensure good drainage, avoid overhead irrigation, scout regularly during cool wet weather, destroy volunteer plants",diseases_db,Tomato,"Oomycete,Tomato,Phytophthora infestans",,2026-06-26 15:47:47.241456,2026-06-26 15:47:47.241457
+3,disease,Tomato Yellow Leaf Curl Virus (TYLCV) in Tomato,"Disease: Tomato Yellow Leaf Curl Virus (TYLCV)
+Pathogen: Tomato yellow leaf curl virus
+Type: Viral
+Affected Plant: Tomato
+Host Range: Tomato, Pepper, Bean, Eggplant
+Symptoms: Upward and inward curling of leaflets, yellowing at leaf margins. Severe stunting, complete yellowing, flower drop, no fruit set or deformed fruits
+Treatment: No cure once infected; control whitefly vector with neem oil, yellow sticky traps, reflective mulch. Imidacloprid or Thiamethoxam for whitefly control. Mineral oil sprays to reduce whitefly transmission
+Prevention: Plant TYLCV-resistant varieties, use insect-proof netting in nursery, roguing infected plants immediately, control whiteflies",diseases_db,Tomato,"Viral,Tomato,Tomato yellow leaf curl virus",,2026-06-26 15:47:47.241457,2026-06-26 15:47:47.241457
+4,disease,Fusarium Wilt in Tomato,"Disease: Fusarium Wilt
+Pathogen: Fusarium oxysporum f. sp. lycopersici
+Type: Fungal
+Affected Plant: Tomato
+Host Range: Tomato (host-specific)
+Symptoms: Yellowing and wilting of lower leaves starting on one side of the plant, often one branch first. Complete wilting and death, brown internal vascular discoloration visible when stem is cut crosswise
+Treatment: Trichoderma harzianum soil treatment, Solarization (clear polyethylene film over moist soil for 4-6 weeks). No effective chemical cure; soil fumigation with Metam sodium before planting as preventive
+Prevention: Plant resistant varieties (race-specific), crop rotation (4+ years), avoid wounding roots, soil solarization",diseases_db,Tomato,"Fungal,Tomato,Fusarium oxysporum f. sp. lycopersici",,2026-06-26 15:47:47.241458,2026-06-26 15:47:47.241458
+5,disease,Bacterial Wilt in Tomato,"Disease: Bacterial Wilt
+Pathogen: Ralstonia solanacearum
+Type: Bacterial
+Affected Plant: Tomato
+Host Range: Tomato, Potato, Pepper, Eggplant, Banana, Tobacco, Ginger
+Symptoms: Sudden wilting of top leaves during hottest part of the day, recovery at night. Permanent wilting even at night, water-soaked stem interior, oozing of bacterial slime (white to gray) from cut stems dipped in water
+Treatment: No effective cure. Copper-based bactericides as weak suppressants. No effective chemical treatment available
+Prevention: Plant resistant varieties, crop rotation (minimum 3 years), soil solarization, avoid waterlogging, remove infected plants and soil, use clean tools",diseases_db,Tomato,"Bacterial,Tomato,Ralstonia solanacearum",,2026-06-26 15:47:47.241458,2026-06-26 15:47:47.241459
+6,disease,Septoria Leaf Spot in Tomato,"Disease: Septoria Leaf Spot
+Pathogen: Septoria lycopersici
+Type: Fungal
+Affected Plant: Tomato
+Host Range: Tomato, Potato (limited)
+Symptoms: Small, circular water-soaked spots on lower leaves with dark brown margins and lighter gray-white centers with tiny black dots (pycnidia). Extensive defoliation starting from bottom of plant upward, sun-scalded fruits exposed to direct sun
+Treatment: Copper oxychloride 50% WP (3g/L), neem oil spray, remove infected lower leaves. Chlorothalonil (2g/L), Mancozeb (2g/L), Azoxystrobin (0.5ml/L)
+Prevention: Crop rotation, remove infected plant debris, avoid overhead irrigation, stake and prune for air circulation",diseases_db,Tomato,"Fungal,Tomato,Septoria lycopersici",,2026-06-26 15:47:47.241459,2026-06-26 15:47:47.241459
+7,disease,Powdery Mildew (Tomato) in Tomato,"Disease: Powdery Mildew (Tomato)
+Pathogen: Leveillula taurica
+Type: Fungal
+Affected Plant: Tomato
+Host Range: Tomato, Pepper, Eggplant
+Symptoms: Pale yellow spots on upper leaf surface, white powdery growth visible on underside. Entire leaf covered with white powder, premature defoliation
+Treatment: Wettable sulfur (3g/L), potassium bicarbonate (5g/L), neem oil, diluted milk (1:9). Hexaconazole (1ml/L), Propiconazole (1ml/L), Tebuconazole (1ml/L)
+Prevention: Good air circulation, avoid dense planting, resistant varieties",diseases_db,Tomato,"Fungal,Tomato,Leveillula taurica",,2026-06-26 15:47:47.241460,2026-06-26 15:47:47.241460
+8,disease,Blossom End Rot in Tomato,"Disease: Blossom End Rot
+Pathogen: Calcium deficiency (Physiological)
+Type: Physiological Disorder
+Affected Plant: Tomato
+Host Range: Tomato, Pepper, Eggplant, Watermelon, Squash
+Symptoms: Light brown water-soaked area at blossom end of green fruit. Expanding dark brown to black leathery sunken patch at fruit base, secondary fungal colonization
+Treatment: Foliar calcium chloride spray (4g/L), consistent irrigation, mulching, agricultural lime in soil. Calcium nitrate foliar spray (2g/L), drip application of calcium chelate
+Prevention: Consistent irrigation schedule, mulch to retain soil moisture, soil pH 6.2-6.8, avoid excess ammonium nitrogen",diseases_db,Tomato,"Physiological Disorder,Tomato,Calcium deficiency (Physiological)",,2026-06-26 15:47:47.241460,2026-06-26 15:47:47.241461
+9,disease,Root Knot Nematode in Tomato,"Disease: Root Knot Nematode
+Pathogen: Meloidogyne incognita, M. javanica
+Type: Nematode
+Affected Plant: Tomato
+Host Range: Tomato, Pepper, Cucumber, Beans, and 2,000+ other plant species
+Symptoms: Wilting during hot hours, poor plant vigor, chlorosis resembling nutrient deficiency. Typical galls (root knots) on roots when pulled, stunted growth, reduced yield
+Treatment: Marigold intercropping (Tagetes sp.), neem cake soil application, Paecilomyces lilacinus, Pochonia chlamydosporia. Carbofuran 3G (33kg/ha soil application), Ethoprophos 10G granules, Oxamyl
+Prevention: Crop rotation with non-host crops (maize, cereals), soil solarization, use resistant varieties (Mi-gene)",diseases_db,Tomato,"Nematode,Tomato,Meloidogyne incognita, M. javanica",,2026-06-26 15:47:47.241461,2026-06-26 15:47:47.241461
+10,disease,Rice Blast in Rice,"Disease: Rice Blast
+Pathogen: Pyricularia oryzae (Magnaporthe oryzae)
+Type: Fungal
+Affected Plant: Rice
+Host Range: Rice, Barley, Wheat, Foxtail millet
+Symptoms: Spindle-shaped (diamond) lesions on leaves with gray-white center and dark brown to reddish-brown margins. Neck rot: lesion at panicle neck causes the head to break and hang down (Neck Blast). Grain blast: empty chaffy grains. Node blast: dark lesions at stem nodes.
+Treatment: Spray Pseudomonas fluorescens (1% w/v), seed treatment with Trichoderma, avoid excess nitrogen. Tricyclazole 75% WP (0.6g/L), Isoprothiolane 40% EC (1.5ml/L), Kasugamycin 3% SL (1.5ml/L), Azoxystrobin
+Prevention: Use blast-resistant varieties (BPT 5204, Swarna Sub1), balanced N fertilization, wider spacing for air circulation, destroy stubble",diseases_db,Rice,"Fungal,Rice,Pyricularia oryzae (Magnaporthe oryzae)",,2026-06-26 15:47:47.241461,2026-06-26 15:47:47.241462
+11,disease,Bacterial Leaf Blight (BLB) in Rice,"Disease: Bacterial Leaf Blight (BLB)
+Pathogen: Xanthomonas oryzae pv. oryzae
+Type: Bacterial
+Affected Plant: Rice
+Host Range: Rice (primary), wild Oryza species
+Symptoms: Water-soaked to yellowish stripes along leaf margins, turning white to grayish, 'Kresek' phase in young seedlings (complete wilting). Milky, opaque bacterial exudate (dried beads) visible in morning on leaf tips, pale yellow 'straw' leaves, withered diseased panicles
+Treatment: Drain fields; copper hydroxide (2g/L) as weak bactericide spray. Streptomycin + Tetracycline combination (limited effectiveness); Copper oxychloride preventively
+Prevention: Plant resistant varieties (IR64, Swarna), avoid excessive nitrogen, drain infected fields, destroy stubble",diseases_db,Rice,"Bacterial,Rice,Xanthomonas oryzae pv. oryzae",,2026-06-26 15:47:47.241462,2026-06-26 15:47:47.241462
+12,disease,Sheath Blight in Rice,"Disease: Sheath Blight
+Pathogen: Rhizoctonia solani AG1-IA
+Type: Fungal
+Affected Plant: Rice
+Host Range: Rice, Maize, Soybean, Sugarcane, and many other crops
+Symptoms: Oval to elliptical greenish-gray lesions with white-gray interior and brownish border on leaf sheaths at water level. Lesions coalesce and extend to upper leaves, white mycelial growth and brown sclerotia visible, complete sheath and leaf death
+Treatment: Trichoderma harzianum or T. viride soil application (2.5 kg/ha), Pseudomonas fluorescens spray. Hexaconazole 5% EC (1ml/L), Propiconazole 25% EC (1ml/L), Validamycin 3% L (2ml/L), Carbendazim (1g/L)
+Prevention: Reduce plant density, lower nitrogen, drain standing water, use resistant varieties",diseases_db,Rice,"Fungal,Rice,Rhizoctonia solani AG1-IA",,2026-06-26 15:47:47.241463,2026-06-26 15:47:47.241463
+13,disease,Brown Spot in Rice,"Disease: Brown Spot
+Pathogen: Helminthosporium oryzae (Bipolaris oryzae)
+Type: Fungal
+Affected Plant: Rice
+Host Range: Rice, Corn, Sorghum, Sugarcane
+Symptoms: Small, oval to circular spots on leaves with yellow halo; dark brown margins and lighter centers. Spots enlarge to typical oval brown spots, leaves yellow and die; glume discoloration leading to pecky rice
+Treatment: Trichoderma seed treatment, adequate potassium nutrition. Mancozeb 75% WP (2g/L), Propiconazole 25% EC (1ml/L), Iprodione (1.5g/L)
+Prevention: Treat seeds with fungicide, correct soil nutrition (especially K and Si), use certified seeds, crop rotation",diseases_db,Rice,"Fungal,Rice,Helminthosporium oryzae (Bipolaris oryzae)",,2026-06-26 15:47:47.241463,2026-06-26 15:47:47.241464
+14,disease,False Smut in Rice,"Disease: False Smut
+Pathogen: Ustilaginoidea virens
+Type: Fungal
+Affected Plant: Rice
+Host Range: Rice
+Symptoms: Individual spikelets converted to small velvet-like greenish balls. Balls enlarge to 10mm diameter, becoming orange-yellow then olive-green with black powdery spores, scattered through panicle
+Treatment: Propiconazole-based sprays at booting stage. Propiconazole 25% EC (1ml/L) or Azoxystrobin at booting stage
+Prevention: Spray preventive fungicide at booting stage, avoid late planting, balanced nutrition",diseases_db,Rice,"Fungal,Rice,Ustilaginoidea virens",,2026-06-26 15:47:47.241464,2026-06-26 15:47:47.241464
+15,disease,Stripe Rust (Yellow Rust) in Wheat,"Disease: Stripe Rust (Yellow Rust)
+Pathogen: Puccinia striiformis f. sp. tritici
+Type: Fungal
+Affected Plant: Wheat
+Host Range: Wheat, Barley, Triticale, wild grasses
+Symptoms: Stripe of yellow-orange uredia arranged in rows along leaf veins on upper leaf surface. Extensive yellowing of leaves, black teliospores in stripes, reduced grain fill, shriveled kernels
+Treatment: Wettable sulfur preventively; no effective organic cure. Propiconazole 25% EC (1ml/L), Tebuconazole 250 EW (1ml/L), Azoxystrobin + Propiconazole
+Prevention: Plant resistant varieties (HD-3226, WH1105), timely sowing to escape high-risk period, prophylactic fungicide at flag leaf stage",diseases_db,Wheat,"Fungal,Wheat,Puccinia striiformis f. sp. tritici",,2026-06-26 15:47:47.241465,2026-06-26 15:47:47.241465
+16,disease,Stem Rust (Black Rust) in Wheat,"Disease: Stem Rust (Black Rust)
+Pathogen: Puccinia graminis f. sp. tritici
+Type: Fungal
+Affected Plant: Wheat
+Host Range: Wheat, Barley, Rye, many grasses
+Symptoms: Brick-red oval to elongated blisters (pustules) on stems and leaves that rupture releasing reddish-brown powdery spores. Black teliospore pustules in late season, lodging of stems, shriveled grain
+Treatment: Wettable sulfur; remove barberry bushes from fields. Propiconazole 25% EC (1ml/L), Tebuconazole (1ml/L), at first sign of infection
+Prevention: Rust-resistant varieties, eradicate barberry, prophylactic fungicide in Ug99-risk areas",diseases_db,Wheat,"Fungal,Wheat,Puccinia graminis f. sp. tritici",,2026-06-26 15:47:47.241465,2026-06-26 15:47:47.241466
+17,disease,Loose Smut in Wheat,"Disease: Loose Smut
+Pathogen: Ustilago tritici
+Type: Fungal
+Affected Plant: Wheat
+Host Range: Wheat
+Symptoms: Diseased plants emerge earlier; infected ear with black spore mass instead of grain. Complete head replaced by black teliospore mass that disperses, leaving bare rachis
+Treatment: Hot water seed treatment (52°C for 10 minutes). Carboxin + Thiram seed treatment (2g/kg seed), Tebuconazole seed treatment
+Prevention: Use certified smut-free seeds, systemic seed treatment fungicides, plant resistant varieties",diseases_db,Wheat,"Fungal,Wheat,Ustilago tritici",,2026-06-26 15:47:47.241466,2026-06-26 15:47:47.241466
+18,disease,Powdery Mildew (Wheat) in Wheat,"Disease: Powdery Mildew (Wheat)
+Pathogen: Blumeria graminis f. sp. tritici
+Type: Fungal
+Affected Plant: Wheat
+Host Range: Wheat (host-specific)
+Symptoms: White fluffy powdery patches on upper leaf surface of lower leaves. White-gray coating on all green parts, yellowing and drying of leaves, cleistothecia (black dots) visible in old patches
+Treatment: Wettable sulfur (3g/L), potassium bicarbonate. Propiconazole 25% EC (1ml/L), Triadimefon 25% WP (1g/L), Azoxystrobin
+Prevention: Resistant varieties, avoid dense planting, balanced nitrogen, timely fungicide sprays",diseases_db,Wheat,"Fungal,Wheat,Blumeria graminis f. sp. tritici",,2026-06-26 15:47:47.241467,2026-06-26 15:47:47.241467
+19,disease,Northern Corn Leaf Blight (NCLB) in Maize,"Disease: Northern Corn Leaf Blight (NCLB)
+Pathogen: Exserohilum turcicum (Setosphaeria turcica)
+Type: Fungal
+Affected Plant: Maize
+Host Range: Maize, Sorghum, Sudan grass
+Symptoms: Long (5-15cm) elliptical tan to grayish-green lesions with wavy margins on lower leaves. Extensive leaf blighting from bottom of plant upward, dark olive-green spore mass on lesions in humid conditions
+Treatment: Copper-based fungicides preventively. Azoxystrobin + Propiconazole (Quilt Xcel 1L/ha), Propiconazole alone (1ml/L)
+Prevention: Resistant hybrids, crop rotation, remove infected debris, timely planting",diseases_db,Maize,"Fungal,Maize,Exserohilum turcicum (Setosphaeria turcica)",,2026-06-26 15:47:47.241467,2026-06-26 15:47:47.241467
+20,disease,Maize Lethal Necrosis (MLN) in Maize,"Disease: Maize Lethal Necrosis (MLN)
+Pathogen: Maize chlorotic mottle virus (MCMV) + Potyviruses
+Type: Viral
+Affected Plant: Maize
+Host Range: Maize, Sorghum, some grasses
+Symptoms: Chlorotic (yellow) streaks and mottling on younger leaves; pale green to yellow leaf discoloration. Complete necrosis of all leaves from leaf tip, brown papery leaves, ear rot, premature death
+Treatment: No cure; control insect vectors with neem oil, reflective mulch. No direct treatment; insecticides for vector control (Imidacloprid, Thiamethoxam)
+Prevention: Plant MLN-tolerant/resistant varieties, control thrips and aphids, crop rotation, early planting, remove infected plants",diseases_db,Maize,"Viral,Maize,Maize chlorotic mottle virus (MCMV) + Potyviruses",,2026-06-26 15:47:47.241468,2026-06-26 15:47:47.241468
+21,disease,Gray Leaf Spot in Maize,"Disease: Gray Leaf Spot
+Pathogen: Cercospora zeae-maydis
+Type: Fungal
+Affected Plant: Maize
+Host Range: Maize
+Symptoms: Small, irregular tan spots with yellow halos, mainly on lower leaves. Elongated, rectangular, grayish-tan lesions limited by leaf veins, covering entire leaf
+Treatment: Copper-based sprays preventively. Azoxystrobin, Propiconazole, Pyraclostrobin at tasseling stage
+Prevention: Hybrid resistance, crop rotation, tillage to bury debris, fungicide at VT/R1",diseases_db,Maize,"Fungal,Maize,Cercospora zeae-maydis",,2026-06-26 15:47:47.241468,2026-06-26 15:47:47.241469
+22,disease,Late Blight (Potato) in Potato,"Disease: Late Blight (Potato)
+Pathogen: Phytophthora infestans
+Type: Oomycete
+Affected Plant: Potato
+Host Range: Potato, Tomato
+Symptoms: Water-soaked pale green spots on leaves, white sporulation on underside in humid conditions. Dark brown-black lesions on leaves, brown rots on stems, rapid spread of entire field collapse, tuber rot (brown-red internal)
+Treatment: Copper hydroxide (2.5-3g/L) preventively, Bordeaux mixture, avoid excessive irrigation. Metalaxyl-M + Mancozeb 2.5g/L, Dimethomorph + Mancozeb, Cymoxanil + Famoxadone, Fluopicolide
+Prevention: Plant resistant varieties (Kufri Bahar, Jyoti), use certified disease-free seed tubers, apply fungicide before first rains, destroy volunteer plants",diseases_db,Potato,"Oomycete,Potato,Phytophthora infestans",,2026-06-26 15:47:47.241469,2026-06-26 15:47:47.241469
+23,disease,Common Scab in Potato,"Disease: Common Scab
+Pathogen: Streptomyces scabies
+Type: Bacterial (Actinomycete)
+Affected Plant: Potato
+Host Range: Potato, Beet, Radish, Carrot
+Symptoms: No visible early symptoms on foliage. Brown corky scab lesions (raised, sunken, or russeted) on tuber surface; external quality defect only
+Treatment: Soil acidification (sulfur), crop rotation, adequate irrigation during tuber formation. Quintozene PCNB seed treatment (limited), Flutolanil seed treatment
+Prevention: Lower soil pH to 5.0-5.5, maintain soil moisture during tuber initiation, rotate with non-susceptible crops (cereals), use scab-resistant varieties",diseases_db,Potato,"Bacterial (Actinomycete),Potato,Streptomyces scabies",,2026-06-26 15:47:47.241470,2026-06-26 15:47:47.241470
+24,disease,Anthracnose in Mango,"Disease: Anthracnose
+Pathogen: Colletotrichum gloeosporioides
+Type: Fungal
+Affected Plant: Mango
+Host Range: Mango, Papaya, Avocado, many tropical fruits
+Symptoms: Dark brown to black spots on young leaves, flowers, and immature fruits; 'blossom blight' killing flower clusters. Sunken, dark brown lesions on mature fruits that expand rapidly post-harvest; fruit rot; complete flower destruction
+Treatment: Copper oxychloride 3g/L, neem oil + copper, hot water dip 52°C for 5 minutes (post-harvest). Carbendazim 0.1% + Mancozeb 0.25% spray, Azoxystrobin + Difenoconazole, Propiconazole 0.1%
+Prevention: Prune dead wood, copper spray before flowering, proper post-harvest handling (hot water), waxing, cold chain",diseases_db,Mango,"Fungal,Mango,Colletotrichum gloeosporioides",,2026-06-26 15:47:47.241470,2026-06-26 15:47:47.241471
+25,disease,Powdery Mildew (Mango) in Mango,"Disease: Powdery Mildew (Mango)
+Pathogen: Oidium mangiferae
+Type: Fungal
+Affected Plant: Mango
+Host Range: Mango
+Symptoms: White powdery coating on young leaves, flower clusters, and young fruits. Complete whitening of panicles, flower drop, young fruit drop, malformed surviving fruits
+Treatment: Wettable sulfur 3g/L at bud break; diluted milk spray (1:5); potassium bicarbonate. Triadimefon 25% WP (1g/L), Hexaconazole 5% EC (2ml/L), Propiconazole 25% EC (1ml/L), Myclobutanil
+Prevention: First spray at bud emergence, second at fruit set; avoid overhead irrigation; morning sprays",diseases_db,Mango,"Fungal,Mango,Oidium mangiferae",,2026-06-26 15:47:47.241471,2026-06-26 15:47:47.241471
+26,disease,Mango Malformation Disease (MMD) in Mango,"Disease: Mango Malformation Disease (MMD)
+Pathogen: Fusarium mangiferae
+Type: Fungal
+Affected Plant: Mango
+Host Range: Mango
+Symptoms: Vegetative malformation: bunchy top appearance with compacted proliferation of shoots ('mango witches' broom'). Floral malformation: panicle conversion to compact, sterile, green vegetative structure; no fruits formed
+Treatment: Remove and burn malformed parts; control mites with acaricides. NAA (Naphthaleneacetic acid) 200ppm spray + Carbendazim (0.1%) at panicle emergence
+Prevention: Use disease-free planting material, certified nursery plants, deinfest cutting tools, control mite vectors",diseases_db,Mango,"Fungal,Mango,Fusarium mangiferae",,2026-06-26 15:47:47.241472,2026-06-26 15:47:47.241472
+27,disease,Panama Wilt (Fusarium Wilt of Banana) in Banana,"Disease: Panama Wilt (Fusarium Wilt of Banana)
+Pathogen: Fusarium oxysporum f. sp. cubense (TR4)
+Type: Fungal
+Affected Plant: Banana
+Host Range: Banana, Plantain
+Symptoms: Yellowing of older outer leaves, leaf collapse, starting from leaf margins; brown streaking in pseudostem when cut. Complete plant collapse, pseudostem brown-red internal discoloration from base upward, no fruit production
+Treatment: No cure. Soil solarization, biological soil amendments (Trichoderma, compost). No effective chemical treatment
+Prevention: Strict quarantine, plant resistant varieties (GCTCV-218 for TR4), clean tools with bleach, avoid infected soil movement",diseases_db,Banana,"Fungal,Banana,Fusarium oxysporum f. sp. cubense (TR4)",,2026-06-26 15:47:47.241472,2026-06-26 15:47:47.241473
+28,disease,Black Sigatoka (Black Leaf Streak) in Banana,"Disease: Black Sigatoka (Black Leaf Streak)
+Pathogen: Pseudocercospora fijiensis
+Type: Fungal
+Affected Plant: Banana
+Host Range: Banana, Plantain
+Symptoms: Tiny pale yellow flecks on lower leaf surface that elongate into brown streaks. Brown-black elongated lesions with yellow halo on upper leaf surface; premature defoliation; green fruit ripening prematurely
+Treatment: Copper oxychloride (2-3g/L) sprays, oil-based copper formulations; remove infected leaves. Systemic fungicides on rotation: Propiconazole, Tebuconazole, Fenbuconazole, Chlorothalonil; resistance management essential
+Prevention: Resistant varieties, remove lower infected leaves (deleafing), reduce humidity with good drainage and canopy management",diseases_db,Banana,"Fungal,Banana,Pseudocercospora fijiensis",,2026-06-26 15:47:47.241473,2026-06-26 15:47:47.241473
+29,disease,Cotton Leaf Curl Virus Disease (CLCuD) in Cotton,"Disease: Cotton Leaf Curl Virus Disease (CLCuD)
+Pathogen: Cotton leaf curl Multan virus (CLCuMV) + betasatellite
+Type: Viral
+Affected Plant: Cotton
+Host Range: Cotton, Okra, Hibiscus, Tomato
+Symptoms: Upward curling of leaves, vein thickening, enations (leaf-like outgrowths) on underside of leaves. Severe stunting, dark green thickened curled leaves, no boll formation, plant death
+Treatment: Control whiteflies with neem extract, reflective mulch, remove infected plants. Imidacloprid/Thiamethoxam soil application for whitefly control; Acetamiprid foliar spray
+Prevention: Resistant varieties (NIAB 846, CIM-499), control whiteflies strictly, remove infected plants, use insect-proof nets in nursery",diseases_db,Cotton,"Viral,Cotton,Cotton leaf curl Multan virus (CLCuMV) + betasatellite",,2026-06-26 15:47:47.241474,2026-06-26 15:47:47.241474
+30,disease,Damping Off in General,"Disease: Damping Off
+Pathogen: Pythium spp., Rhizoctonia solani, Fusarium spp.
+Type: Fungal / Oomycete
+Affected Plant: General
+Host Range: All vegetable and field crops in seedling stage
+Symptoms: Seeds fail to germinate (pre-emergence damping off), or seedlings collapse just below soil level (post-emergence). Water-soaked 'pinched' stem at soil level, seedling falls over, dark discoloration at base
+Treatment: Chilled neem cake in soil, well-drained media, Trichoderma seed treatment, chamomile tea drench. Metalaxyl 35% DS seed treatment, Captan 50% WP seed treatment (2g/kg), copper sulfate soil drench
+Prevention: Use sterile nursery media, avoid overwatering, thin seedlings, use well-drained trays, treat seeds before sowing",diseases_db,General,"Fungal / Oomycete,General,Pythium spp., Rhizoctonia solani, Fusarium spp.",,2026-06-26 15:47:47.241474,2026-06-26 15:47:47.241475
+31,disease,Crown Gall in General,"Disease: Crown Gall
+Pathogen: Agrobacterium tumefaciens (Rhizobium radiobacter)
+Type: Bacterial
+Affected Plant: General
+Host Range: Rose, Fruit trees (apple, cherry, walnut), Grapes, more than 600 species
+Symptoms: Small, soft, round galls develop at crown (soil line) or on roots. Galls enlarge to large rough, brown, corky tumors; reduced plant vigor, stunting, increased susceptibility to other diseases
+Treatment: Cut out galls; treat with Agrobacterium radiobacter strain K-84 (biocontrol) at planting. No effective post-infection treatment; copper bactericides preventively
+Prevention: Avoid wounding, use K-84 dip on roots before planting, plant only certified gall-free material",diseases_db,General,"Bacterial,General,Agrobacterium tumefaciens (Rhizobium radiobacter)",,2026-06-26 15:47:47.241475,2026-06-26 15:47:47.241475
+32,disease,Botrytis Gray Mold in General,"Disease: Botrytis Gray Mold
+Pathogen: Botrytis cinerea
+Type: Fungal
+Affected Plant: General
+Host Range: > 1000 plant species including grapes, strawberry, rose, tomato, lettuce, onion
+Symptoms: Water-soaked, brown lesions on petals, leaves, and stems; soft rot. Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (""ghost spot"" on tomato)
+Treatment: Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray. Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.
+Prevention: Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity",diseases_db,General,"Fungal,General,Botrytis cinerea",,2026-06-26 15:47:47.241475,2026-06-26 15:47:47.241476
+33,disease,Sclerotinia Stem Rot (White Mold) in General,"Disease: Sclerotinia Stem Rot (White Mold)
+Pathogen: Sclerotinia sclerotiorum
+Type: Fungal
+Affected Plant: General
+Host Range: > 400 species: Canola, Soybean, Sunflower, Bean, Carrot, Celery
+Symptoms: Water-soaked lesions on lower stems and branches; bleached, straw-colored stem tissue. White cottony mycelial growth inside and outside infected tissue, large hard black sclerotia (2-10mm) inside stem
+Treatment: Thiram-treated seeds, adequate plant spacing, crop rotation. Thiophanate-methyl (1g/L), Boscalid (0.5g/L), Iprodione, Fluazinam at early flowering
+Prevention: Crop rotation (non-host crops for 3+ years), avoid dense planting, improve drainage",diseases_db,General,"Fungal,General,Sclerotinia sclerotiorum",,2026-06-26 15:47:47.241476,2026-06-26 15:47:47.241476
+34,pest,Whitefly - Sucking_Pests,"Pest: Whitefly (Bemisia tabaci)
+Category: Sucking_Pests
+Host Plants: Tomato, Cotton, Pepper, Cucumber, Cassava, Sweet Potato, Bean
+Damage: Yellowing leaves, sticky honeydew, sooty mold (secondary), vector of 200+ plant viruses (TYLCV, CLCuD, CBSD, cassava mosaic)
+Identification: Tiny (1-1.5mm) white-winged insects; fly in clouds when disturbed; yellowish oval nymphs on leaf underside
+Organic Control: Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana
+Chemical Control: Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)
+Biological Control: Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana
+IPM Notes: Rotate between chemical classes to manage resistance; use systemic at transplanting, contact at adult stage; banker plant system in greenhouses",pests_db,"Tomato, Cotton, Pepper, Cucumber, Cassava, Sweet Potato, Bean","Sucking_Pests,Bemisia tabaci",,2026-06-26 15:47:47.245838,2026-06-26 15:47:47.245838
+35,pest,Aphids - Sucking_Pests,"Pest: Aphids (Myzus persicae (Green Peach Aphid); multiple species)
+Category: Sucking_Pests
+Host Plants: Universal — thousands of plant species (vegetables, fruits, ornamentals, cereals)
+Damage: Leaf curling, distortion, yellowing; sticky honeydew with black sooty mold; severe infestations stunt plants; vectors of 200+ plant viruses (CMV, PVY, BYDV)
+Identification: Soft-bodied 1-3mm insects, green/yellow/black/pink depending on species; winged and wingless forms; two cornicles (tail tubes) on abdomen
+Organic Control: Strong water spray to dislodge; insecticidal soap (1%); neem oil (3-5ml/L); garlic-pepper spray; encourage natural enemies
+Chemical Control: Imidacloprid 17.8% SL (0.3ml/L), Dimethoate 30% EC (2ml/L), Flonicamid, Pymetrozine, Spirotetramat
+Biological Control: Coccinella septempunctata (ladybug), Chrysoperla carnea (lacewing), Aphidius colemani and A. ervi (parasitic wasps), Syrphid fly larvae
+IPM Notes: Banker plant systems (cereal aphid + parasitoid) used in greenhouses; avoid broad-spectrum insecticides that kill natural enemies",pests_db,"Universal — thousands of plant species (vegetables, fruits, ornamentals, cereals)","Sucking_Pests,Myzus persicae (Green Peach Aphid); multiple species",,2026-06-26 15:47:47.245839,2026-06-26 15:47:47.245839
+36,pest,Thrips - Sucking_Pests,"Pest: Thrips (Thrips palmi (Melon Thrips); Frankliniella occidentalis (Western Flower Thrips))
+Category: Sucking_Pests
+Host Plants: Virtually all vegetables, ornamentals, fruits, cotton, onion, cereal crops
+Damage: Silvery streaks/scarring on leaves and fruits (from feeding); distorted growth; 'ghost spots' on petals; TSWV virus symptoms (wilting, bronzing, ring spots)
+Identification: Very small (0.5-1.5mm); slender, fringed wings; yellow to dark brown depending on species; move fast
+Organic Control: Blue sticky traps (most attractive to thrips), spinosad spray, neem oil, kaolin clay, predatory mites (Neoseiulus cucumeris)
+Chemical Control: Spinosad 45% SC (0.3ml/L), Imidacloprid, Abamectin 1.9% EC (0.5ml/L), Cyantraniliprole, Tolfenpyrad
+Biological Control: Neoseiulus cucumeris, Amblyseius swirskii (predatory mites); Orius insidiosus (pirate bug); Steinernema feltiae (entomopathogenic nematode) for soil pupae
+IPM Notes: Hard to control due to hidden feeding in flowers and leaf tissue; soil pupae require soil drenches; rotate chemical classes",pests_db,"Virtually all vegetables, ornamentals, fruits, cotton, onion, cereal crops","Sucking_Pests,Thrips palmi (Melon Thrips); Frankliniella occidentalis (Western Flower Thrips)",,2026-06-26 15:47:47.245840,2026-06-26 15:47:47.245840
+37,pest,Spider Mite (Two-Spotted) - Sucking_Pests,"Pest: Spider Mite (Two-Spotted) (Tetranychus urticae)
+Category: Sucking_Pests
+Host Plants: Over 1,100 plant species: all vegetables, ornamentals, fruits, cotton, soybean
+Damage: Stippled (tiny pale dots/punctures) on leaves from below; leaves turn bronze/yellow and dry; fine silk webbing; premature defoliation
+Identification: Tiny (< 0.5mm); two dark spots on pale greenish-yellow body; spin fine silk webbing on leaf underside; visible under hand lens
+Organic Control: Water spray to wash off; neem oil 5ml/L; wettable sulfur 3g/L; insecticidal soap; predatory mites release; soap solution sprays
+Chemical Control: Abamectin 1.9% EC (0.5ml/L), Spiromesifen 22.9% SC (1ml/L), Hexythiazox 5% EC (1ml/L), Bifenazate, Clofentezine, Fenpyroximate
+Biological Control: Phytoseiulus persimilis (excellent predator), Amblyseius californicus, Neoseiulus californicus, Feltiella acarisuga (gall midge)
+IPM Notes: Rotate acaricides by chemical class; preserve natural enemies; increase irrigation in dry weather to reduce mite-favorable conditions; do NOT use broad-spectrum insecticides that kill predatory mites",pests_db,"Over 1,100 plant species: all vegetables, ornamentals, fruits, cotton, soybean","Sucking_Pests,Tetranychus urticae",,2026-06-26 15:47:47.245840,2026-06-26 15:47:47.245840
+38,pest,Mealybugs - Sucking_Pests,"Pest: Mealybugs (Phenacoccus solenopsis (Cotton Mealybug); Planococcus citri (Citrus Mealybug))
+Category: Sucking_Pests
+Host Plants: Cotton, Grapes, Citrus, Mango, Cassava, ornamentals, vegetables
+Damage: Yellowing, leaf drop, honeydew + sooty mold; cotton twisting; mango malformation spread; overall plant decline and death in severe infestations
+Identification: Soft, oval, covered with white mealy wax; pink body visible through wax; waxy filaments around body; colonies in leaf axils and stem crevices
+Organic Control: Neem oil + soap spray; rubbing alcohol on cotton swabs; strong water spray; remove waxy coating first; Cryptolaemus montrouzieri release
+Chemical Control: Imidacloprid soil drench (2ml/L), Buprofezin 25% WP (1g/L), Chlorpyrifos 20% EC (2.5ml/L), Acetamiprid + Chlorpyrifos
+Biological Control: Cryptolaemus montrouzieri (mealybug destroyer beetle), Leptomastix dactylopii (parasitoid wasp), Anagyrus kamali, Acerophagus papayae
+IPM Notes: Control ants (which protect mealybugs from predators); reach under waxy coating with oil-based sprays; ant management improves biocontrol effectiveness",pests_db,"Cotton, Grapes, Citrus, Mango, Cassava, ornamentals, vegetables","Sucking_Pests,Phenacoccus solenopsis (Cotton Mealybug); Planococcus citri (Citrus Mealybug)",,2026-06-26 15:47:47.245841,2026-06-26 15:47:47.245841
+39,pest,Scale Insects - Sucking_Pests,"Pest: Scale Insects (Diaspidiotus perniciosus (San Jose Scale); Saissetia oleae (Olive Scale))
+Category: Sucking_Pests
+Host Plants: Fruit trees (apple, pear, citrus, mango), olives, ornamentals
+Damage: Yellowing, twig and branch death, reduced fruit quality, bark encrustation; honeydew (soft scales) leading to sooty mold
+Identification: Round to oyster-shaped waxy armor covering body; armored scales (Diaspididae) - armor separable from body; soft scales (Coccidae) - armor inseparable
+Organic Control: Dormant oil spray (petroleum oil 3-5%) at crawler stage; white summer oil (1-2%); brush off with stiff brush
+Chemical Control: Buprofezin (at crawler stage), Chlorpyrifos + oil, Spirotetramat systemic; dormant oil during winter
+Biological Control: Encarsia perniciosi (parasitoid of San Jose scale), Comperiella bifasciata, Aphytis melinus (red scale parasitoid)
+IPM Notes: Timing at crawler stage is critical; inspect bark regularly; monitor with sticky tape to detect crawlers",pests_db,"Fruit trees (apple, pear, citrus, mango), olives, ornamentals","Sucking_Pests,Diaspidiotus perniciosus (San Jose Scale); Saissetia oleae (Olive Scale)",,2026-06-26 15:47:47.245841,2026-06-26 15:47:47.245842
+40,pest,Leafhoppers - Sucking_Pests,"Pest: Leafhoppers (Amrasca biguttula biguttula (Cotton/Okra Leafhopper); Empoasca spp.)
+Category: Sucking_Pests
+Host Plants: Cotton, Okra, Brinjal, Potato, Grape, Legumes
+Damage: Cotton: 'Cotton leaf curl' or 'Jassid damage' — leaf edge curling upward, reddening; Potato/Brinjal: leaf hopper burn (hopperburn) — marginal leaf scorch and curling
+Identification: Wedge-shaped, 3-4mm; green/yellow; jump sideways when disturbed; run diagonally on plants
+Organic Control: Neem seed kernel extract 5%, neem oil; yellow sticky traps; Beauveria bassiana spray
+Chemical Control: Imidacloprid 17.8% SL (0.3ml/L), Lambda-cyhalothrin 5% EC (1ml/L), Thiamethoxam, Dimethoate 30% EC (2ml/L)
+Biological Control: Anagrus atomus (egg parasitoid in grapes), Gonatocerus ashmeadi, Stethorus ladybugs
+IPM Notes: Spray lower leaf surface; morning sprays most effective; hairy-leaved cultivars are less susceptible",pests_db,"Cotton, Okra, Brinjal, Potato, Grape, Legumes","Sucking_Pests,Amrasca biguttula biguttula (Cotton/Okra Leafhopper); Empoasca spp.",,2026-06-26 15:47:47.245842,2026-06-26 15:47:47.245842
+41,pest,Diamondback Moth - Chewing_Caterpillars,"Pest: Diamondback Moth (Plutella xylostella)
+Category: Chewing_Caterpillars
+Host Plants: Cabbage, Cauliflower, Broccoli, Kale, Mustard, Turnip — all Brassica crops
+Damage: Windowing: larvae eat leaf tissue from below, leaving translucent papery epidermis on upper surface; total leaf skeletonization in heavy infestations; head borer
+Identification: Adult: 8mm, gray-brown moth with diamond pattern on back when wings folded; Larva: pale green, 10mm, wriggle violently when disturbed, dangle from silk thread
+Organic Control: Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring
+Chemical Control: Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide
+Biological Control: Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis
+IPM Notes: World's most insecticide-resistant insect pest. Resistance management is critical. Rotate between Bt, spinosad, indoxacarb, and diamide insecticides.",pests_db,"Cabbage, Cauliflower, Broccoli, Kale, Mustard, Turnip — all Brassica crops","Chewing_Caterpillars,Plutella xylostella",,2026-06-26 15:47:47.245843,2026-06-26 15:47:47.245843
+42,pest,Fall Armyworm - Chewing_Caterpillars,"Pest: Fall Armyworm (Spodoptera frugiperda)
+Category: Chewing_Caterpillars
+Host Plants: Maize (primary), Sorghum, Rice, Sugarcane, Cotton, Tomato, 350+ plant species
+Damage: Ragged windows in leaves; characteristic 'shot hole' damage in whorl; frass in leaf whorl; direct ear damage (in maize); can completely defoliate young plants
+Identification: Adult: 38mm wingspan, mottled gray-brown moths; Larva: greenish to brown, inverted 'Y' mark on head, 4 square black dots on 8th abdominal segment, up to 40mm
+Organic Control: Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection
+Chemical Control: Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)
+Biological Control: Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)
+IPM Notes: Scouting critical: check whorls for frass and larvae early. Early stage intervention most effective. Avoid broad-spectrum insecticides to preserve natural enemies.",pests_db,"Maize (primary), Sorghum, Rice, Sugarcane, Cotton, Tomato, 350+ plant species","Chewing_Caterpillars,Spodoptera frugiperda",,2026-06-26 15:47:47.245843,2026-06-26 15:47:47.245844
+43,pest,Cotton Bollworm (Helicoverpa) - Chewing_Caterpillars,"Pest: Cotton Bollworm (Helicoverpa) (Helicoverpa armigera)
+Category: Chewing_Caterpillars
+Host Plants: Cotton, Chickpea, Tomato, Maize, Pigeonpea, Sorghum — polyphagous pest of 200+ species
+Damage: Entry holes in cotton bolls (with frass-filled tunnels), tomato fruit damage, chickpea pod damage with grain loss, maize kernel damage
+Identification: Adult: 35-40mm wingspan, yellowish-brown with dark spot; Larva: variable color (green/brown/pinkish), microspines on body, up to 40mm
+Organic Control: NPV spray (2×10¹² POB/ha); HaNPV + cotton Bt; pheromone traps (1/ha); neem seed kernel extract; Bt-k spray
+Chemical Control: Emamectin benzoate 5% SG (0.4g/L), Chlorantraniliprole 18.5% SC (0.3ml/L), Indoxacarb, Flubendiamide, Thiodicarb
+Biological Control: Trichogramma chilonis (egg parasitoid, 1 lakh/ha weekly), Habrobracon hebetor, Chrysoperla carnea, HaNPV
+IPM Notes: Bt crops (Bt cotton, Bt chickpea) used widely; pyrethroid resistance widespread; refuge strategy essential with Bt crops; pheromone trap-based monitoring",pests_db,"Cotton, Chickpea, Tomato, Maize, Pigeonpea, Sorghum — polyphagous pest of 200+ species","Chewing_Caterpillars,Helicoverpa armigera",,2026-06-26 15:47:47.245844,2026-06-26 15:47:47.245844
+44,pest,Yellow Stem Borer (Rice) - Chewing_Caterpillars,"Pest: Yellow Stem Borer (Rice) (Scirpophaga incertulas)
+Category: Chewing_Caterpillars
+Host Plants: Rice (primary), Sugarcane, Wild grasses
+Damage: Deadheart: young plants central leaf whorl dies and turns brown (easy to pull out) — vegetative stage; Whitehead: panicle turns white and empty — reproductive stage
+Identification: Adult: white moth, 25-30mm wingspan; female has black spot; Larva: creamy white, dark head, up to 20mm
+Organic Control: Clip leaf tips of transplanted seedlings (removes egg masses); light traps; pheromone traps; release Trichogramma japonicum
+Chemical Control: Cartap hydrochloride 4G granules (25 kg/ha in standing water), Chlorpyrifos 20% EC (2ml/L), Carbofuran 3G, Fipronil 0.3G
+Biological Control: Trichogramma japonicum (egg parasitoid, 1 lakh/ha at 10-day intervals), Tetrastichus schoenobii, Telenomus rowani
+IPM Notes: Clipping transplant seedlings to remove egg masses is highly effective low-cost management; light traps help reduce adult populations; timing of Trichogramma release is key",pests_db,"Rice (primary), Sugarcane, Wild grasses","Chewing_Caterpillars,Scirpophaga incertulas",,2026-06-26 15:47:47.245844,2026-06-26 15:47:47.245845
+45,pest,Fruit Fly (Oriental) - Fruit_Pests,"Pest: Fruit Fly (Oriental) (Bactrocera dorsalis)
+Category: Fruit_Pests
+Host Plants: Mango, Guava, Banana, Papaya, Star Fruit, Citrus — 150+ fruit species
+Damage: Pin-hole entry with sap/gum oozing; fruit surface discoloration, premature fruit drop; soft rotting interior with white maggots; secondary bacterial and fungal infections
+Identification: Adult: 8mm, yellowish with dark dorsal stripes; distinctive pointed ovipositor in females; red-brown eyes; Larvae: white maggots inside fruit
+Organic Control: Male attractant traps (Methyl eugenol + malathion or GF-120); fruit bagging with paper or plastic bags; Protein bait sprays; pick and destroy infested fallen fruit
+Chemical Control: Protein bait spray (GF-120 bait + Spinosad); Cover sprays Malathion 50% EC (2ml/L), Dimethoate (2ml/L); only during non-harvest period
+Biological Control: Fopius arisanus (egg-larval parasitoid), Diachasmimorpha longicaudata, Fopius vandenboschi, mass rearing and release of sterile males (SIT)
+IPM Notes: Bactrocera dorsalis is a major quarantine pest affecting trade. Use of Methyl eugenol + insecticide traps for mass trapping is most effective. Combination: MAT traps + fruit bagging + protein bait + biocontrol",pests_db,"Mango, Guava, Banana, Papaya, Star Fruit, Citrus — 150+ fruit species","Fruit_Pests,Bactrocera dorsalis",,2026-06-26 15:47:47.245845,2026-06-26 15:47:47.245845
+46,pest,Mango Stone Weevil - Fruit_Pests,"Pest: Mango Stone Weevil (Sternochetus mangiferae)
+Category: Fruit_Pests
+Host Plants: Mango (specific to mango seed/stone)
+Damage: No external fruit damage visible; seed destroyed; premature fruit drop; larvae tunnel through cotyledons; affects seed viability for propagation
+Identification: Adult: 7-9mm, brown-black mottled weevil; Larva: white, legless grub inside mango seed
+Organic Control: Collect and destroy fallen infested fruits; tree hygiene — remove old bark; hot water seed treatment for nursery use (52°C for 15 min)
+Chemical Control: Chlorpyrifos 20% EC (2ml/L) spray when adults are active (Feb-March); trunk banding with insecticide strips
+Biological Control: No effective commercial biological control
+IPM Notes: Major quarantine pest affecting mango export. Fumigation (Methyl Bromide or Phosphine) required for export. SIT being explored.",pests_db,Mango (specific to mango seed/stone),"Fruit_Pests,Sternochetus mangiferae",,2026-06-26 15:47:47.245846,2026-06-26 15:47:47.245846
+47,pest,White Grubs (Chafer Beetles) - Soil_Pests,"Pest: White Grubs (Chafer Beetles) (Holotrichia consanguinea, Leucopholis lepidophora (multiple spp.))
+Category: Soil_Pests
+Host Plants: Sugarcane, Groundnut, Maize, Potato, Soybean, Turf grasses, Tree nurseries
+Damage: Plants wilt suddenly (root destruction by grubs); patches of dead plants in field; soil becomes soft and easy to pull plants (roots eaten); adult beetles feed on tree leaves at night
+Identification: Grubs: creamy white C-shaped, up to 30-50mm, brown head; Adults: brown to black beetles 15-35mm with lamellate antennae
+Organic Control: Metarhizium anisopliae fungus (1×10⁹ spores/ml) soil application; ploughing to expose and destroy grubs; light traps for adults; neem cake 250 kg/ha
+Chemical Control: Chlorpyrifos 20% EC (5L/ha) soil incorporation before planting; Carbofuran 3G (25 kg/ha); Phorate 10G; Imidacloprid seed treatment
+Biological Control: Metarhizium anisopliae, Beauveria bassiana soil inoculants; Heterorhabditis bacteriophora (entomopathogenic nematode)
+IPM Notes: Ploughing before monsoon onset exposes grubs to heat and predators; synchronize light trap monitoring with adult emergence; grub management is season-long",pests_db,"Sugarcane, Groundnut, Maize, Potato, Soybean, Turf grasses, Tree nurseries","Soil_Pests,Holotrichia consanguinea, Leucopholis lepidophora (multiple spp.)",,2026-06-26 15:47:47.245846,2026-06-26 15:47:47.245847
+48,pest,Root Knot Nematode - Soil_Pests,"Pest: Root Knot Nematode (Meloidogyne incognita, M. javanica, M. arenaria, M. hapla)
+Category: Soil_Pests
+Host Plants: Over 2,000 plant species; especially vegetables, tobacco, cotton, legumes
+Damage: Above ground: wilting, chlorosis, stunting resembling nutrient deficiency; Below ground: characteristic root galls (knots), reduced and brown root system, secondary root pathogens
+Identification: Microscopic (0.5-1mm); females become sedentary, pear-shaped inside galls; second-stage juveniles (J2) infectious stage; galls visible on roots as swellings
+Organic Control: Marigold (Tagetes spp.) intercropping; neem cake 250kg/ha soil application; Paecilomyces lilacinus inoculant; castor cake; mustard cake; crop rotation with cereals
+Chemical Control: Carbofuran 3G (33 kg/ha), Phorate 10G, Ethoprophos 10G at planting; soil fumigation with Dazomet or Metam sodium (pre-plant)
+Biological Control: Purpureocillium lilacinum (formerly Paecilomyces lilacinus), Pochonia chlamydosporia, Trichoderma harzianum, Bacillus firmus (VOTiVO), Steinernema carpocapsae
+IPM Notes: Soil solarization (polyethylene film on moist soil for 6-8 weeks) highly effective; Mi-1.2 gene resistance in tomato; grafting onto resistant rootstocks effective in cucurbits",pests_db,"Over 2,000 plant species; especially vegetables, tobacco, cotton, legumes","Soil_Pests,Meloidogyne incognita, M. javanica, M. arenaria, M. hapla",,2026-06-26 15:47:47.245847,2026-06-26 15:47:47.245847
+49,pest,Rice Weevil - Storage_Pests,"Pest: Rice Weevil (Sitophilus oryzae)
+Category: Storage_Pests
+Host Plants: Rice, Wheat, Maize, Barley, Sorghum — stored grains
+Damage: Grain kernels hollowed out; dust and frass in stored grain; characteristic exit holes; grain losses 20-40%; quality deterioration
+Identification: Adult: 2.5-3.5mm, reddish-brown with 4 pale red-yellow spots on elytra; long snout (rostrum); Larvae: white, legless grub inside grain
+Organic Control: Clean dry grain storage (< 14% moisture); diatomaceous earth 1.5g/kg mixed with grain; bay leaves in storage; neem leaf powder mixed with grain; hermetic storage (PICS bags, metal silos)
+Chemical Control: Phosphine fumigation (Aluminium phosphide tablets 3 tablets/tonne); Pyrethrin spray on empty stores; Deltamethrin WP on wall surfaces; Pirimiphos-methyl admixture
+Biological Control: No practical biological control for storage pests
+IPM Notes: Clean storage is the most important preventive measure. Never store wet grain. Use hermetic bags (PICS/GrainPro) for smallholder storage. Monitor with traps regularly.",pests_db,"Rice, Wheat, Maize, Barley, Sorghum — stored grains","Storage_Pests,Sitophilus oryzae",,2026-06-26 15:47:47.245847,2026-06-26 15:47:47.245848
+50,pest,Lesser Grain Borer - Storage_Pests,"Pest: Lesser Grain Borer (Rhyzopertha dominica)
+Category: Storage_Pests
+Host Plants: Wheat, Rice, Maize, Barley, Sorghum — stored grains
+Damage: Flour dust from feeding activity; grain kernels bored from outside; 'rice dust'; severe infestations cause 30-50% losses; heat generation from infested grain
+Identification: Adult: 2.5-3mm, dark brown, elongated with head underneath pronotum; cylindrical shape; Larvae: white grub in grain or debris
+Organic Control: Hermetic storage, diatomaceous earth, proper drying below 12% moisture
+Chemical Control: Phosphine fumigation, Pirimiphos-methyl grain protectant
+Biological Control: Limited; Theocolax elegans (ectoparasitoid wasp)
+IPM Notes: More damaging than rice weevil because it attacks hard grain; thrives in lower moisture conditions",pests_db,"Wheat, Rice, Maize, Barley, Sorghum — stored grains","Storage_Pests,Rhyzopertha dominica",,2026-06-26 15:47:47.245848,2026-06-26 15:47:47.245848
+51,nutrient,Carbon (C) - Plant Nutrition,"Nutrient: Carbon (C)
+Type: Non-mineral macronutrient
+Functions: Primary component of all organic molecules, Photosynthesis (CO2 fixation), Structural component of plant body
+Deficiency Name: 
+Deficiency Signs: None (CO2 naturally available)
+Affected Leaf Position: 
+Toxicity: 
+Fertilizer Sources: CO2 enrichment in greenhouses
+Critical Crops: All crops",nutrients_db,All crops,"nutrition,Carbon,C",,2026-06-26 15:48:13.611651,2026-06-26 15:48:13.611652
+52,nutrient,Hydrogen (H) - Plant Nutrition,"Nutrient: Hydrogen (H)
+Type: Non-mineral macronutrient
+Functions: Component of all organic molecules, Water transport, pH regulation in cells
+Deficiency Name: 
+Deficiency Signs: Wilting, leaf roll
+Affected Leaf Position: 
+Toxicity: 
+Fertilizer Sources: Irrigation water
+Critical Crops: All crops",nutrients_db,All crops,"nutrition,Hydrogen,H",,2026-06-26 15:48:13.611652,2026-06-26 15:48:13.611653
+53,nutrient,Oxygen (O) - Plant Nutrition,"Nutrient: Oxygen (O)
+Type: Non-mineral macronutrient
+Functions: Aerobic respiration, Component of all organic molecules, Root aeration
+Deficiency Name: 
+Deficiency Signs: Yellow leaves, root browning, sulfide smell
+Affected Leaf Position: 
+Toxicity: 
+Fertilizer Sources: Drainage improvement, Raised beds
+Critical Crops: All crops, especially in waterlogged areas",nutrients_db,All crops,"nutrition,Oxygen,O",,2026-06-26 15:48:13.611653,2026-06-26 15:48:13.611653
+54,nutrient,Nitrogen (N) - Plant Nutrition,"Nutrient: Nitrogen (N)
+Type: Primary Macronutrient
+Functions: Component of amino acids, proteins, enzymes, Chlorophyll synthesis (green color), Nucleic acid component (DNA, RNA), Promotes vegetative growth, Enzyme activation
+Deficiency Name: Nitrogen Deficiency (Chlorosis)
+Deficiency Signs: Pale yellow-green color starting from older leaves (lower); progresses upward; stunted growth; thin spindly stems; early maturity
+Affected Leaf Position: Older/Lower leaves first (N is mobile, remobilized to young leaves)
+Toxicity: Dark green, lodging, delayed maturity, reduced grain quality, excessive vegetative growth, hollow stems
+Fertilizer Sources: Urea (46% N) — most common, Ammonium Nitrate (34% N), Ammonium Sulphate (21% N, 24% S), Calcium Ammonium Nitrate (25% N), DAP (18% N, 46% P2O5), Legume green manure (biological fixation), FYM (0.5-1.5% N)
+Critical Crops: Rice, Wheat, Maize, Vegetables, Cotton",nutrients_db,All crops,"nutrition,Nitrogen,N",,2026-06-26 15:48:13.611654,2026-06-26 15:48:13.611654
+55,nutrient,Phosphorus (P) - Plant Nutrition,"Nutrient: Phosphorus (P)
+Type: Primary Macronutrient
+Functions: Root development and growth, Energy transfer (ATP, ADP), Nucleic acid component (DNA, RNA), Cell membrane phospholipids, Early plant establishment and tillering, Seed and fruit development
+Deficiency Name: Phosphorus Deficiency (Purpling)
+Deficiency Signs: Dark green to purple/red color on older leaves and stems (anthocyanin accumulation); thin, weak roots; delayed maturity; small seeds
+Affected Leaf Position: Older leaves first (P is mobile)
+Toxicity: Zinc and iron deficiency symptoms (P-induced micronutrient deficiency); stunted growth when soil P very high
+Fertilizer Sources: DAP — Diammonium Phosphate (46% P2O5, 18% N), SSP — Single Super Phosphate (16% P2O5, 11% S, 20% Ca), TSP — Triple Super Phosphate (46% P2O5), Rock Phosphate (28-35% P2O5) — slow release in acid soils, Ammonium Polyphosphate, Bone meal (20-25% P2O5)
+Critical Crops: All crops; especially legumes, root crops, cereals",nutrients_db,All crops,"nutrition,Phosphorus,P",,2026-06-26 15:48:13.611654,2026-06-26 15:48:13.611655
+56,nutrient,Potassium (K) - Plant Nutrition,"Nutrient: Potassium (K)
+Type: Primary Macronutrient
+Functions: Stomatal regulation (drought resistance), Enzyme activation (>60 enzymes), Protein synthesis, Disease resistance and strong cell walls, Transport of sugars and nutrients in phloem, Quality improvement (sugar content, fruit firmness, starch)
+Deficiency Name: Potassium Deficiency (Potash Starvation)
+Deficiency Signs: Brown scorching and curling of leaf tips and margins (leaf scorch/marginal necrosis) starting on older leaves; brown spots inside leaf margin; weak stems; lodging in cereals
+Affected Leaf Position: Older/Lower leaves first (K is mobile)
+Toxicity: Calcium and magnesium deficiency symptoms (K antagonism); salt effects in sandy soils
+Fertilizer Sources: Muriate of Potash / MOP (60% K2O) — most common, Sulphate of Potash / SOP (50% K2O, 18% S) — premium for Cl-sensitive crops, Potassium Nitrate (44% K2O, 13% N) — for fertigation, Potassium Chloride (KCl), Wood ash (5-10% K2O) — organic source
+Critical Crops: Potato, Banana, Sugarcane, Tobacco, Cotton, Tomato",nutrients_db,All crops,"nutrition,Potassium,K",,2026-06-26 15:48:13.611655,2026-06-26 15:48:13.611655
+57,nutrient,Calcium (Ca) - Plant Nutrition,"Nutrient: Calcium (Ca)
+Type: Secondary Macronutrient
+Functions: Cell wall structure (calcium pectate in middle lamella), Cell membrane integrity, Signal transduction, Enzyme activation, Root tip and young leaf development
+Deficiency Name: Calcium Deficiency
+Deficiency Signs: Affects only new/young leaves and growing points (Ca is immobile); tip burn (leaf tips die), blossom end rot in tomato/pepper, bitter pit in apple, tip burn in lettuce and cabbage, hollow heart in brassica
+Affected Leaf Position: Young/new leaves and growing points (Ca is IMMOBILE — not remobilized)
+Toxicity: Rare; reduces Mg, K, Zn uptake at very high Ca
+Fertilizer Sources: Agricultural Lime CaCO3 (36-40% Ca) — pH correction, Dolomitic Lime — CaMg(CO3)2 — provides Ca + Mg, Gypsum CaSO4 (23% Ca, 18% S) — for sodic soils; doesn't raise pH, Calcium Nitrate (19% Ca, 15.5% N) — for fertigation, SSP (20% Ca, 16% P2O5)
+Critical Crops: Tomato, Pepper, Apple, Celery, Lettuce, Brassicas",nutrients_db,All crops,"nutrition,Calcium,Ca",,2026-06-26 15:48:13.611656,2026-06-26 15:48:13.611656
+58,nutrient,Magnesium (Mg) - Plant Nutrition,"Nutrient: Magnesium (Mg)
+Type: Secondary Macronutrient
+Functions: Central atom of chlorophyll molecule, Enzyme activation (100+ enzymes), Phosphate transport within plant, Sugar and protein synthesis, Activates photosynthesis
+Deficiency Name: Magnesium Deficiency (Interveinal Chlorosis)
+Deficiency Signs: Interveinal chlorosis on older leaves — yellowing between the veins while veins remain green; often starts as pale green, then yellow, then reddish-purple margins; leaves may curl upward
+Affected Leaf Position: Older/Lower leaves first (Mg is mobile)
+Toxicity: Rare outdoors; possible in greenhouse soils; reduces Ca uptake at very high Mg
+Fertilizer Sources: Kieserite — Magnesium Sulphate (16% Mg, 22% S), Magnesium Sulphate (Epsom Salt) — (10% Mg) for foliar spray, Dolomitic Lime — CaMg(CO3)2, Magnesia (MgO), Langbeinite (K2Mg2(SO4)3)
+Critical Crops: Apple, Maize, Potato, Tomato, Grapes",nutrients_db,All crops,"nutrition,Magnesium,Mg",,2026-06-26 15:48:13.611656,2026-06-26 15:48:13.611656
+59,nutrient,Sulfur (S) - Plant Nutrition,"Nutrient: Sulfur (S)
+Type: Secondary Macronutrient
+Functions: Component of amino acids (cysteine, methionine), Protein synthesis, Enzyme cofactor, Glucosinolate synthesis (brassicas), Chlorophyll synthesis support, Flavor compounds in Alliums
+Deficiency Name: Sulfur Deficiency
+Deficiency Signs: Interveinal chlorosis of YOUNG/NEW leaves (unlike Mg which affects old leaves) — pale yellow-green color of new leaves while old leaves remain green; stunted growth
+Affected Leaf Position: Young/New leaves first (S is relatively immobile)
+Toxicity: Sulfur toxicity rare in soils; atmospheric SO2 damage shows as leaf spots and margin burn
+Fertilizer Sources: Ammonium Sulphate (24% S, 21% N), SSP (11% S), Kieserite (22% S, 16% Mg), Sulphate of Potash (18% S, 50% K2O), Gypsum CaSO4 (18% S), Wettable Sulfur (90-98% S) — fungicide + nutrient, Elemental Sulfur (90-100% S) — acidifier, slow release
+Critical Crops: Onion, Garlic, Mustard, Canola, Sunflower, Sugarcane",nutrients_db,All crops,"nutrition,Sulfur,S",,2026-06-26 15:48:13.611657,2026-06-26 15:48:13.611657
+60,nutrient,Iron (Fe) - Plant Nutrition,"Nutrient: Iron (Fe)
+Type: Micronutrient
+Functions: Chlorophyll synthesis (not structural), Electron carrier in photosynthesis and respiration, Enzyme cofactor (catalase, peroxidase), Nitrogen fixation in legumes, Nitrate reduction
+Deficiency Name: Iron Chlorosis (Lime-induced Chlorosis)
+Deficiency Signs: Interveinal chlorosis on YOUNG leaves — bright yellow leaves with dark green veins; in severe cases entire leaf turns yellow then white; known as 'lime-induced chlorosis' on calcareous soils
+Affected Leaf Position: Young/New leaves first (Fe is immobile)
+Toxicity: In waterlogged rice soils: bronze-brown speckling of leaf surface starting from tips; 'bronzing'; roots become brown and rotten; Reduced tillering
+Fertilizer Sources: FeSO4 (Iron Sulphate) — soil application 25-50 kg/ha, Fe-EDTA, Fe-DTPA, Fe-EDDHA — chelated iron (most effective, especially at high pH), Fe-EDDHA — most stable in high pH soils (most expensive), Foliar spray: FeSO4 0.5-1% (5-10g/L)
+Critical Crops: Soybean, Groundnut, Citrus, Grapes, Sorghum (in calcareous soils)",nutrients_db,All crops,"nutrition,Iron,Fe",,2026-06-26 15:48:13.611657,2026-06-26 15:48:13.611658
+61,nutrient,Zinc (Zn) - Plant Nutrition,"Nutrient: Zinc (Zn)
+Type: Micronutrient
+Functions: Enzyme activation (300+ enzymes), Auxin synthesis (growth hormone), Protein synthesis, Chlorophyll formation, Carbohydrate metabolism, Pollen viability
+Deficiency Name: Zinc Deficiency (Khaira Disease in Rice; Little Leaf in Fruits)
+Deficiency Signs: In cereals: pale brown spots on mid-leaf, interveinal chlorosis; In fruits: small leaves (little leaf), shortened internodes (rosetting); In maize: broad white/yellow bands (white bud); Rice: 'khaira disease' — pale orange-brown blotching of older leaves
+Affected Leaf Position: Older to young leaves depending on crop
+Toxicity: Root growth inhibition; interveinal chlorosis (Fe/Mn deficiency induced); common on contaminated soils
+Fertilizer Sources: Zinc Sulphate Monohydrate (35% Zn) — most common; soil application 25 kg/ha, Zinc Sulphate Heptahydrate (21% Zn), Zinc Oxide (80% Zn) — slow release, Zinc Chelate (EDTA) — for fertigation, Foliar spray: ZnSO4 0.5% + lime 0.25%, Seed treatment: ZnSO4 solution soaking
+Critical Crops: Rice (Khaira), Maize (white bud), Citrus, Apple, Cotton, Legumes",nutrients_db,All crops,"nutrition,Zinc,Zn",,2026-06-26 15:48:13.611658,2026-06-26 15:48:13.611658
+62,nutrient,Manganese (Mn) - Plant Nutrition,"Nutrient: Manganese (Mn)
+Type: Micronutrient
+Functions: Photosystem II water splitting (oxygen evolution), Enzyme activation (Mn-SOD), Nitrogen assimilation, Shikimate pathway (phenol synthesis)
+Deficiency Name: Manganese Deficiency (Grey Speck in Oat; Pahala Blight in Sugarcane)
+Deficiency Signs: Interveinal chlorosis of younger leaves; grey-green patches between veins; tissue may remain light green with distinct green veins; eventually necrosis; oat: 'grey speck'; cereals: stripe patterns; sugarcane: 'pahala blight'
+Affected Leaf Position: Young/New leaves first (Mn is immobile)
+Toxicity: Brown speckling of older leaves, irregular brown spots; marginal necrosis; symptoms of Fe and Ca deficiency (Mn-induced); common in acid soils
+Fertilizer Sources: MnSO4 (32% Mn) — soil or foliar, Mn chelates — for high pH soils, Foliar spray: MnSO4 0.5% (5g/L)
+Critical Crops: Oat, Sugar Beet, Soybean, Legumes, Fruit trees",nutrients_db,All crops,"nutrition,Manganese,Mn",,2026-06-26 15:48:13.611659,2026-06-26 15:48:13.611659
+63,nutrient,Boron (B) - Plant Nutrition,"Nutrient: Boron (B)
+Type: Micronutrient
+Functions: Cell wall structure (cross-links pectins), Reproduction (pollen tube growth, fertilization), Sugar translocation, Calcium utilization, Membrane integrity
+Deficiency Name: Boron Deficiency (Hollow Heart, Heart Rot)
+Deficiency Signs: Death of growing points (apical meristem); distorted, thick, brittle, curled young leaves; hollow heart in beet/turnip; sunflower head sterility; poor fruit set; corky/cracked fruits; hollow stem in brassica
+Affected Leaf Position: Young leaves and growing points (B is immobile)
+Toxicity: Marginal leaf burn of older leaves; yellow tips and margins; root damage; B has very narrow range between deficiency and toxicity
+Fertilizer Sources: Borax Na2B4O7.10H2O (11% B) — soil application 0.5-1 kg/ha, Boric acid H3BO3 (17% B) — foliar spray 0.2-0.3%, Solubor (20% B) — soluble for spraying, Boron fertilizer granules — for mixed fertilizers
+Critical Crops: Sunflower, Brassicas, Sugar Beet, Apple, Groundnut, Cotton",nutrients_db,All crops,"nutrition,Boron,B",,2026-06-26 15:48:13.611659,2026-06-26 15:48:13.611660
+64,nutrient,Copper (Cu) - Plant Nutrition,"Nutrient: Copper (Cu)
+Type: Micronutrient
+Functions: Photosynthesis (plastocyanin), Enzyme activation (polyphenol oxidase, ascorbate oxidase), Lignin synthesis (cell wall strength), Pollen tube growth
+Deficiency Name: Copper Deficiency (Reclamation Disease)
+Deficiency Signs: Wilting and dieback of growing tips ('die-back'); young leaves twisted, cup-shaped; pale blue-green color; in cereals: 'blind ear' — twisted leaf sheaths preventing ear emergence; bluish-green hue
+Affected Leaf Position: Young leaves and growing tips
+Toxicity: Brown root discoloration; inhibited root growth; chlorosis; Fe deficiency symptoms
+Fertilizer Sources: CuSO4 (25% Cu) — soil application 5-10 kg/ha, Cu chelates, Copper oxychloride (fungicide + nutrient), Foliar CuSO4 0.2% spray
+Critical Crops: Wheat, Oat, Rye, Spinach, Onion, Fruit trees on organic soils",nutrients_db,All crops,"nutrition,Copper,Cu",,2026-06-26 15:48:13.611660,2026-06-26 15:48:13.611660
+65,nutrient,Molybdenum (Mo) - Plant Nutrition,"Nutrient: Molybdenum (Mo)
+Type: Micronutrient
+Functions: Nitrate reductase (NO3 to NH4 conversion), Nitrogen fixation in legumes (nitrogenase), Sulfite oxidase activity
+Deficiency Name: Molybdenum Deficiency (Whiptail in Cauliflower)
+Deficiency Signs: Interveinal chlorosis of older leaves; 'whiptail' in cauliflower/broccoli — leaves fail to unfurl properly, look like a whip; marginal scorch; in legumes: poor nodulation and N fixation
+Affected Leaf Position: Young leaves in brassica; older leaves in other crops
+Toxicity: Very rare; excess Mo causes Cu deficiency; plants may appear Cu-deficient
+Fertilizer Sources: Ammonium Molybdate (54% Mo) — tiny amounts needed 0.1-0.5 g/L foliar spray or seed treatment
+Critical Crops: Cauliflower, Broccoli, Legumes (for N fixation), Maize",nutrients_db,All crops,"nutrition,Molybdenum,Mo",,2026-06-26 15:48:13.611660,2026-06-26 15:48:13.611661
+66,nutrient,Chlorine (Cl) - Plant Nutrition,"Nutrient: Chlorine (Cl)
+Type: Micronutrient
+Functions: Photosystem II water splitting, Stomatal regulation, Osmotic adjustment, Disease suppression
+Deficiency Name: Chlorine Deficiency (Very Rare)
+Deficiency Signs: Wilting; leaf bronzing; chlorosis; reduced growth — rarely seen in field crops as Cl is ubiquitous
+Affected Leaf Position: Young leaves
+Toxicity: Marginal leaf burn; bronze patches; premature leaf drop; salt stress symptoms
+Fertilizer Sources: 
+Critical Crops: Coconut (Cl responsive crop), Banana, Sugar Beet; Tobacco, Potato sensitive to Cl excess",nutrients_db,All crops,"nutrition,Chlorine,Cl",,2026-06-26 15:48:13.611661,2026-06-26 15:48:13.611661
+67,nutrient,Nickel (Ni) - Plant Nutrition,"Nutrient: Nickel (Ni)
+Type: Micronutrient
+Functions: Urease enzyme component (urea breakdown), Nitrogen metabolism, Seed germination and early vigor
+Deficiency Name: Nickel Deficiency (Mouse Ear Disease in Pecan)
+Deficiency Signs: Accumulation of urea in leaf tips (tissue damage); 'mouse ear' in pecan (small stunted rounded leaflets); leaf tip necrosis; poor seed viability
+Affected Leaf Position: 
+Toxicity: Chlorosis; stunted growth; Fe deficiency induction; very toxic in acid soils
+Fertilizer Sources: Nickel sulphate (very small amounts)
+Critical Crops: Pecan, Wheat, Legumes",nutrients_db,All crops,"nutrition,Nickel,Ni",,2026-06-26 15:48:13.611662,2026-06-26 15:48:13.611662
+68,nutrient,Cobalt (Co) - Plant Nutrition,"Nutrient: Cobalt (Co)
+Type: Beneficial Micronutrient (Legumes)
+Functions: Component of vitamin B12 in Rhizobium bacteria, Essential for nitrogen fixation in legumes (indirect), Drought resistance
+Deficiency Name: Cobalt Deficiency (affects legume N fixation)
+Deficiency Signs: Legumes: poor nodulation and N fixation; symptoms mimic N deficiency; pale green plants; mostly on severely leached or coarse-textured soils
+Affected Leaf Position: 
+Toxicity: 
+Fertilizer Sources: CoSO4 at 0.1-0.2 kg/ha very small dose
+Critical Crops: Soybean, Clover, Alfalfa, Peanut (through Rhizobium)",nutrients_db,All crops,"nutrition,Cobalt,Co",,2026-06-26 15:48:13.611662,2026-06-26 15:48:13.611663
+69,fertilizer_recommendation,Rice Fertilizer Recommendation,"Crop: Rice
+Fertilizer Recommendation:
+General NPK: N120-P60-K60 kg/ha for irrigated; N60-P30-K30 for rainfed
+N Application: Split: 50% basal + 25% active tillering + 25% panicle initiation
+Special Notes: Urea use efficiency improved by LCC (Leaf Color Chart) monitoring; split N avoids luxury N and BLB risk
+Critical Deficiencies: Zinc (Khaira), Iron toxicity in acid soils, Potassium in sandy soils",nutrients_db,Rice,"fertilizer,Rice,nutrition",,2026-06-26 15:48:13.611663,2026-06-26 15:48:13.611663
+70,fertilizer_recommendation,Wheat Fertilizer Recommendation,"Crop: Wheat
+Fertilizer Recommendation:
+General NPK: N120-P60-K40 kg/ha for HYV; N60-P30-K20 for local varieties
+N Application: 50% basal + 25% CRI (crown root initiation) + 25% ear emergence
+Special Notes: 
+Critical Deficiencies: Zinc, Sulfur, Iron (in calcareous soils)",nutrients_db,Wheat,"fertilizer,Wheat,nutrition",,2026-06-26 15:48:13.611663,2026-06-26 15:48:13.611664
+71,fertilizer_recommendation,Maize Fertilizer Recommendation,"Crop: Maize
+Fertilizer Recommendation:
+General NPK: N180-P80-K60 kg/ha for high-yielding hybrids
+N Application: 33% basal + 33% V6 (knee high) + 33% tasseling
+Special Notes: 
+Critical Deficiencies: Zinc (white bud), Nitrogen (main limiter)",nutrients_db,Maize,"fertilizer,Maize,nutrition",,2026-06-26 15:48:13.611664,2026-06-26 15:48:13.611664
+72,fertilizer_recommendation,Tomato Fertilizer Recommendation,"Crop: Tomato
+Fertilizer Recommendation:
+General NPK: N180-P120-K180 kg/ha typical for greenhouse/high-yield
+N Application: Split through fertigation: 20% at transplanting, 30% vegetative, 30% fruiting, 20% late
+Special Notes: EC of fertigation solution: 1.5-3.5 dS/m; balanced Ca:K ratio in fertigation crucial for quality
+Critical Deficiencies: Calcium (BER), Magnesium, Potassium",nutrients_db,Tomato,"fertilizer,Tomato,nutrition",,2026-06-26 15:48:13.611665,2026-06-26 15:48:13.611665
+73,fertilizer_recommendation,Potato Fertilizer Recommendation,"Crop: Potato
+Fertilizer Recommendation:
+General NPK: N180-P100-K200 kg/ha — high K requirement for starch quality
+N Application: 50% basal + 50% at hilling; avoid late N (reduces specific gravity)
+Special Notes: Chloride (MOP) acceptable, but SOP preferred for better specific gravity and taste; use sulfate forms
+Critical Deficiencies: Calcium, Magnesium, Boron",nutrients_db,Potato,"fertilizer,Potato,nutrition",,2026-06-26 15:48:13.611665,2026-06-26 15:48:13.611666
+74,fertilizer_recommendation,Cotton Fertilizer Recommendation,"Crop: Cotton
+Fertilizer Recommendation:
+General NPK: N150-P60-K60 kg/ha for irrigated; N100-P40-K40 for rainfed
+N Application: 1/3 basal + 1/3 at first square + 1/3 at first flower
+Special Notes: 
+Critical Deficiencies: Potassium (fiber quality), Boron (boll setting), Zinc",nutrients_db,Cotton,"fertilizer,Cotton,nutrition",,2026-06-26 15:48:13.611666,2026-06-26 15:48:13.611666
+75,fertilizer_recommendation,Sugarcane Fertilizer Recommendation,"Crop: Sugarcane
+Fertilizer Recommendation:
+General NPK: N280-P120-K160 kg/ha planted crop; ratoon: N240-P80-K140
+N Application: Split every 45-60 days; last application before 150 days
+Special Notes: 
+Critical Deficiencies: Zinc, Iron, Sulfur, Silicon",nutrients_db,Sugarcane,"fertilizer,Sugarcane,nutrition",,2026-06-26 15:48:13.611666,2026-06-26 15:48:13.611667
+76,fertilizer_recommendation,Mango Fertilizer Recommendation,"Crop: Mango
+Fertilizer Recommendation:
+General NPK: 
+N Application: 
+Special Notes: 
+Critical Deficiencies: Zinc, Boron, Potassium",nutrients_db,Mango,"fertilizer,Mango,nutrition",,2026-06-26 15:48:13.611667,2026-06-26 15:48:13.611667
+77,fertilizer_recommendation,Banana Fertilizer Recommendation,"Crop: Banana
+Fertilizer Recommendation:
+General NPK: N200-P100-K300 g/plant/year (high K crops)
+N Application: Monthly split applications: 50g N every 2 months from planting
+Special Notes: 
+Critical Deficiencies: Potassium (most critical), Magnesium, Zinc, Boron",nutrients_db,Banana,"fertilizer,Banana,nutrition",,2026-06-26 15:48:13.611668,2026-06-26 15:48:13.611668
+78,cultivation,Rice Cultivation Guide,"Crop: Rice (Oryza sativa)
+Origin: Southeast Asia (China-India border region)
+Climate: Tropical and subtropical — Temperature: 21-37°C (germination 18-40°C); Rainfall: 1000-2000mm annual; most during growing season
+Soil: Heavy clay or clay-loam soils with good water retention; pH: 5.0-7.0 (optimal 6.0-6.5)
+Seed Rate: Transplanted: 25-30 kg/ha; Direct seeded: 80-100 kg/ha; Spacing: 20×15 cm or 20×20 cm; 2-3 seedlings per hill
+Irrigation: Continuous flooding (5-7cm standing water) in paddy field; Water Requirement: 1000-2000mm total
+Fertilizer: N120-P60-K60 for irrigated HYV
+Harvest: Reaping by sickle or combine harvester; Yield: 3-8 t/ha (irrigated HYV); 1-2 t/ha (rainfed) t/ha",cultivation_db,Rice,"cultivation,Rice,Oryza sativa",,2026-06-26 15:48:13.699835,2026-06-26 15:48:13.699836
+79,cultivation,Wheat Cultivation Guide,"Crop: Wheat (Triticum aestivum)
+Origin: Fertile Crescent (Middle East)
+Climate: Cool temperate to sub-tropical — Temperature: Germination 3-25°C; optimal growth 15-21°C; grain fill 20-25°C; Rainfall: 375-875mm (rabi / winter crop; relies on residual moisture and irrigation)
+Soil: Well-drained fertile loam or clay-loam soils; pH: 6.0-7.5
+Seed Rate: 100-125 kg/ha (timely sown); 125-150 kg/ha (late sown); Spacing: 22.5 cm row spacing (seed drill); broadcast is less preferred
+Irrigation: Flood/furrow; drip/sprinkler for water efficiency; Water Requirement: 400-500mm total
+Fertilizer: N120-P60-K40 for HYV; N150 with S15 for better protein
+Harvest: Combine harvester or manual harvesting + threshing; Yield: 3-6 t/ha irrigated; 1.5-2.5 t/ha rainfed t/ha",cultivation_db,Wheat,"cultivation,Wheat,Triticum aestivum",,2026-06-26 15:48:13.699836,2026-06-26 15:48:13.699837
+80,cultivation,Tomato Cultivation Guide,"Crop: Tomato (Solanum lycopersicum)
+Origin: South America (Peru-Ecuador region)
+Climate: Warm sub-tropical to temperate — Temperature: Optimal 20-24°C day; 13-17°C night; no frost tolerance; Rainfall: 600-1500mm; avoid during fruiting; ideal with irrigation
+Soil: Well-drained sandy loam to clay loam with good organic matter; pH: 6.0-7.0
+Seed Rate: ; Spacing: 75×60cm for indeterminate; 75×45cm for determinate varieties
+Irrigation: Drip irrigation preferred; avoid overhead (disease); furrow if drip unavailable; Water Requirement: 600-1200mm total
+Fertilizer: N150-200, P75-100, K150-200
+Harvest: ; Yield: 25-40 t/ha (open-pollinated); 60-100 t/ha (hybrids, drip, greenhouse) t/ha",cultivation_db,Tomato,"cultivation,Tomato,Solanum lycopersicum",,2026-06-26 15:48:13.699837,2026-06-26 15:48:13.699837
+81,cultivation,Potato Cultivation Guide,"Crop: Potato (Solanum tuberosum)
+Origin: Andes Mountains, South America
+Climate: Cool temperate — Temperature: 15-20°C for tuber initiation; growth 18-25°C; Rainfall: 500-700mm
+Soil: Well-drained sandy loam or loam; deep friable soils; pH: 5.2-6.4 (avoids scab at lower pH)
+Seed Rate: ; Spacing: 60-75 cm × 15-20 cm (rows × plants)
+Irrigation: Furrow or drip irrigation; Water Requirement: 500-700mm
+Fertilizer: N180-P100-K200 (high K for quality)
+Harvest: Mechanical digger or manual fork; avoid damage; Yield: 20-40 t/ha t/ha",cultivation_db,Potato,"cultivation,Potato,Solanum tuberosum",,2026-06-26 15:48:13.699838,2026-06-26 15:48:13.699838
+82,cultivation,Mango Cultivation Guide,"Crop: Mango (Mangifera indica)
+Origin: Northeast India, Bangladesh, Myanmar
+Climate: Tropical and subtropical — Temperature: 24-30°C during vegetative growth; cool dry period needed for flowering; Rainfall: 750-2500mm; dry period during flowering and fruiting essential
+Soil: Deep well-drained alluvial/loamy soils; pH: 5.5-7.5
+Seed Rate: ; Spacing: 
+Irrigation: Drip irrigation preferred for bearing orchards; Water Requirement: 
+Fertilizer: 
+Harvest: Hand-pick with harvesting poles; 2cm stalk retained to prevent sap burn; Yield:  t/ha",cultivation_db,Mango,"cultivation,Mango,Mangifera indica",,2026-06-26 15:48:13.699838,2026-06-26 15:48:13.699839
+83,cultivation,Cotton Cultivation Guide,"Crop: Cotton (Gossypium hirsutum)
+Origin: Mesoamerica (Mexico-Central America region)
+Climate: Warm tropical and subtropical — Temperature: 21-30°C; minimum 15°C for germination; Rainfall: 500-1500mm; distributed throughout growing season
+Soil: Deep loamy or clay-loam 'black cotton soil' (vertisol) preferred; pH: 5.5-7.0
+Seed Rate: ; Spacing: 
+Irrigation: Furrow or drip; Water Requirement: 
+Fertilizer: N150-P60-K60 for irrigated hybrid Bt cotton
+Harvest: Repeated hand-pickings (3-4 pickings as bolls open); mechanical picking in USA; Yield:  t/ha",cultivation_db,Cotton,"cultivation,Cotton,Gossypium hirsutum",,2026-06-26 15:48:13.699839,2026-06-26 15:48:13.699839
+84,cultivation,Sugarcane Cultivation Guide,"Crop: Sugarcane (Saccharum officinarum and hybrids)
+Origin: New Guinea (Pacific Islands)
+Climate: Tropical and subtropical — Temperature: 27-38°C growing season; 12-20°C for maturation and sucrose accumulation; Rainfall: 1500-2500mm; needs dry period for sucrose accumulation
+Soil: Deep, well-drained alluvial or loamy soil; pH: 6.0-8.0
+Seed Rate: ; Spacing: 
+Irrigation: Drip irrigation most efficient; furrow also used; Water Requirement: 1500-2500mm total
+Fertilizer: N280-P120-K160 planted crop; N240-P80-K140 ratoon
+Harvest: Manual harvesting (topped and detrashed) or mechanical harvester; Yield: 70-100 t/ha cane; 8-11 t/ha sugar t/ha",cultivation_db,Sugarcane,"cultivation,Sugarcane,Saccharum officinarum and hybrids",,2026-06-26 15:48:13.699840,2026-06-26 15:48:13.699840
+85,cultivation,Banana Cultivation Guide,"Crop: Banana (Musa spp. (acuminata, balbisiana and hybrids))
+Origin: Southeast Asia (Papua New Guinea region)
+Climate: Humid tropical — Temperature: 26-30°C; growth stops below 15°C and above 38°C; Rainfall: 2000-2500mm; well distributed throughout year; critical to avoid dry spells
+Soil: Deep, fertile, well-drained loam; pH: 5.5-7.0
+Seed Rate: ; Spacing: 
+Irrigation: Drip irrigation (most efficient); micro-sprinkler; Water Requirement: 2000-2500mm total
+Fertilizer: 
+Harvest: Whole bunch harvested at once by cutting bunch stalk; Yield: 40-60 t/ha (good management); 25-35 t/ha normal t/ha",cultivation_db,Banana,"cultivation,Banana,Musa spp. (acuminata, balbisiana and hybrids)",,2026-06-26 15:48:13.699840,2026-06-26 15:48:13.699841
+86,cultivation,Soybean Cultivation Guide,"Crop: Soybean (Glycine max)
+Origin: Northern China
+Climate: Warm temperate to tropical — Temperature: 20-30°C; frost-sensitive; Rainfall: 600-1000mm
+Soil: Well-drained loam to clay loam; pH: 6.0-7.0
+Seed Rate: 80-100 kg/ha; Spacing: 45×5cm or 30×5cm depending on fertility
+Irrigation: ; Water Requirement: 500-700mm
+Fertilizer: N20-P80-K40 (minimal N needed with good Rhizobium inoculation)
+Harvest: Combine harvester or manual; Yield: 1.5-3.0 t/ha t/ha",cultivation_db,Soybean,"cultivation,Soybean,Glycine max",,2026-06-26 15:48:13.699841,2026-06-26 15:48:13.699841
+87,cultivation,Chickpea Cultivation Guide,"Crop: Chickpea (Cicer arietinum)
+Origin: Turkey and Middle East
+Climate: Cool dry conditions — Temperature: 15-25°C; tolerates light frost at vegetative stage; Rainfall: 400-1000mm; sensitive to excess moisture
+Soil: Well-drained sandy loam to clay loam; pH: 6.0-9.0 (wide tolerance)
+Seed Rate: 60-80 kg/ha (desi); 100-120 kg/ha (kabuli); Spacing: 
+Irrigation: ; Water Requirement: 
+Fertilizer: 
+Harvest: Manual or combine; threshing by power thresher; Yield: 1.5-2.5 t/ha t/ha",cultivation_db,Chickpea,"cultivation,Chickpea,Cicer arietinum",,2026-06-26 15:48:13.699841,2026-06-26 15:48:13.699842
+88,cultivation,Coconut Cultivation Guide,"Crop: Coconut (Cocos nucifera)
+Origin: Pacific/Southeast Asia (disputed)
+Climate: Humid tropical — Temperature: 27-32°C; minimum 15°C; no frost tolerance; Rainfall: 1500-2500mm; well-distributed
+Soil: Sandy loam to loamy soils; alluvial soils; pH: 5.5-8.0
+Seed Rate: ; Spacing: 
+Irrigation: Drip, basin, or flood; Water Requirement: 
+Fertilizer: 
+Harvest: ; Yield:  t/ha",cultivation_db,Coconut,"cultivation,Coconut,Cocos nucifera",,2026-06-26 15:48:13.699842,2026-06-26 15:48:13.699842

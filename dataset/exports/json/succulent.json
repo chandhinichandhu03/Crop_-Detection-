@@ -1,0 +1,32 @@
+[
+  {
+    "id": 215,
+    "common_name": "Agave (Century Plant)",
+    "botanical_name": "Agave americana",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Succulent",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "subfamily": "Agavoideae",
+      "genus": "Agave",
+      "species": "americana",
+      "family_description": "Asparagus family; includes agave, yucca",
+      "genus_species_count": 208
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

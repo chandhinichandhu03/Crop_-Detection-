@@ -1,0 +1,32 @@
+[
+  {
+    "id": 196,
+    "common_name": "Mangrove (Red)",
+    "botanical_name": "Rhizophora mangle",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Mangrove",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Rhizophoraceae",
+      "subfamily": "Rhizophoroideae",
+      "genus": "Rhizophora",
+      "species": "mangle",
+      "family_description": "Mangrove family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

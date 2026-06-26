@@ -1,0 +1,32 @@
+[
+  {
+    "id": 219,
+    "common_name": "Kelp Seaweed",
+    "botanical_name": "Saccharina latissima",
+    "author_citation": "(L.) C.E.Lane, C.Mayes, Druehl & G.W.Saunders",
+    "iucn_status": "LC",
+    "category": "Seaweed/Algae",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Chromalveolata",
+      "division": "Phaeophyta",
+      "subdivision": null,
+      "class": "Phaeophyceae",
+      "subclass": "Fucidae",
+      "order": "Laminariales",
+      "family": "Laminariaceae",
+      "subfamily": "Laminarioideae",
+      "genus": "Saccharina",
+      "species": "latissima",
+      "family_description": "",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

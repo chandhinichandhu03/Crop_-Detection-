@@ -1,0 +1,32 @@
+[
+  {
+    "id": 178,
+    "common_name": "Giloy (Tinospora)",
+    "botanical_name": "Tinospora cordifolia",
+    "author_citation": "(Willd.) Miers",
+    "iucn_status": "LC",
+    "category": "Medicinal Climber",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Ranunculidae",
+      "order": "Ranunculales",
+      "family": "Menispermaceae",
+      "subfamily": "Tinosporoideae",
+      "genus": "Tinospora",
+      "species": "cordifolia",
+      "family_description": "",
+      "genus_species_count": 32
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

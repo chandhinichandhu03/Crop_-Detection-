@@ -1,0 +1,62 @@
+[
+  {
+    "id": 109,
+    "common_name": "Watermelon",
+    "botanical_name": "Citrullus lanatus",
+    "author_citation": "(Thunb.) Matsum. & Nakai",
+    "iucn_status": "LC",
+    "category": "Fruit/Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Citrullus",
+      "species": "lanatus",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 4
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 110,
+    "common_name": "Muskmelon / Cantaloupe",
+    "botanical_name": "Cucumis melo",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Fruit/Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Cucumis",
+      "species": "melo",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 52
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

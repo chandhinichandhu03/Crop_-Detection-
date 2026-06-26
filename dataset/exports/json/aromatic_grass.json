@@ -1,0 +1,32 @@
+[
+  {
+    "id": 180,
+    "common_name": "Vetiver (Khus)",
+    "botanical_name": "Chrysopogon zizanioides",
+    "author_citation": "(L.) Roberty",
+    "iucn_status": "LC",
+    "category": "Aromatic Grass",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Poales",
+      "family": "Poaceae",
+      "subfamily": "Panicoideae",
+      "genus": "Chrysopogon",
+      "species": "zizanioides",
+      "family_description": "Grass family; cereals and grains - most economically important plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

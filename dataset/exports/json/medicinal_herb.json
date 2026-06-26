@@ -1,0 +1,319 @@
+[
+  {
+    "id": 165,
+    "common_name": "Tulsi (Holy Basil)",
+    "botanical_name": "Ocimum tenuiflorum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Lamiales",
+      "family": "Lamiaceae",
+      "subfamily": "Ocimeae",
+      "genus": "Ocimum",
+      "species": "tenuiflorum",
+      "family_description": "Mint/Sage family; aromatic herbs",
+      "genus_species_count": 65
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Tulsi / Holy Basil",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Tulsi (तुलसी)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Tulsi (তুলসী)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Tulasi (తులసి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Thulasi (துளசி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Tulasi (ತುಳಸಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Thulasi (തുളസി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Tulashi (तुळस)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Tulsi (ਤੁਲਸੀ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Tulsi (તુલસી)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Tulsi (تلسی)",
+        "script": "Native"
+      },
+      "si": {
+        "language_name": "Sinhala",
+        "local_name": "Tulasi (තුළසි)",
+        "script": "Native"
+      },
+      "ne": {
+        "language_name": "Nepali",
+        "local_name": "Tulsi (तुलसी)",
+        "script": "Native"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Kraphao (กะเพรา)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kemangi",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Selasih",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 176,
+    "common_name": "Ashwagandha",
+    "botanical_name": "Withania somnifera",
+    "author_citation": "(L.) Dunal",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Withania",
+      "species": "somnifera",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 10
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Ashwagandha / Indian Ginseng",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Ashwagandha (अश्वगंधा)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Ashwagandha (অশ্বগন্ধা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Aswagandha (అశ్వగంధ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Amukkara (அமுக்கரா)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Ashwagandha (ಅಶ್ವಗಂಧ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Amukkuram (അമുക്കുരം)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Ashwagandha (अश्वगंधा)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Asgandh (اشواگندھ)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Ashwagandha (أشواغاندا)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Nan fei zui qie (南非醉茄)",
+        "script": "Native"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 177,
+    "common_name": "Brahmi (Water Hyssop)",
+    "botanical_name": "Bacopa monnieri",
+    "author_citation": "(L.) Wettst.",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Lamiales",
+      "family": "Plantaginaceae",
+      "subfamily": "Gratioleae",
+      "genus": "Bacopa",
+      "species": "monnieri",
+      "family_description": "Plantain family; snapdragons, foxgloves",
+      "genus_species_count": 70
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 181,
+    "common_name": "Gotu Kola",
+    "botanical_name": "Centella asiatica",
+    "author_citation": "(L.) Urb.",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Apiales",
+      "family": "Apiaceae",
+      "subfamily": "Mackinlayoideae",
+      "genus": "Centella",
+      "species": "asiatica",
+      "family_description": "Carrot/Parsley family; umbellifers",
+      "genus_species_count": 50
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 183,
+    "common_name": "Periwinkle (Sadabahar)",
+    "botanical_name": "Catharanthus roseus",
+    "author_citation": "(L.) G.Don",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Gentianales",
+      "family": "Apocynaceae",
+      "subfamily": "Rauvolfioideae",
+      "genus": "Catharanthus",
+      "species": "roseus",
+      "family_description": "Dogbane family; includes oleander, periwinkle",
+      "genus_species_count": 8
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 184,
+    "common_name": "Andrographis (Kalmegh)",
+    "botanical_name": "Andrographis paniculata",
+    "author_citation": "(Burm.f.) Nees",
+    "iucn_status": "LC",
+    "category": "Medicinal Herb",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Lamiales",
+      "family": "Acanthaceae",
+      "subfamily": "Andrographideae",
+      "genus": "Andrographis",
+      "species": "paniculata",
+      "family_description": "",
+      "genus_species_count": 28
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 223,
+    "common_name": "Gliricidia",
+    "botanical_name": "Gliricidia sepium",
+    "author_citation": "(Jacq.) Kunth ex Walp.",
+    "iucn_status": "LC",
+    "category": "Agroforestry/Fodder",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Gliricidia",
+      "species": "sepium",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

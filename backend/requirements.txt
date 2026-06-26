@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+sqlalchemy
+bcrypt
+pyjwt
+opencv-python-headless
+scikit-learn
+python-dotenv
+torch
+torchvision

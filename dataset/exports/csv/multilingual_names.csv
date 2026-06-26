@@ -1,0 +1,893 @@
+id,botanical_name,language_code,language_name,local_name,script,created_at
+1,Oryza sativa,en,English,Rice,Latin,2026-06-26 15:48:13.689068
+2,Oryza sativa,hi,Hindi,Chawal / Dhan (धान),Native,2026-06-26 15:48:13.689071
+3,Oryza sativa,bn,Bengali,Dhaan (ধান),Native,2026-06-26 15:48:13.689071
+4,Oryza sativa,te,Telugu,Vadlu (వరి),Native,2026-06-26 15:48:13.689072
+5,Oryza sativa,ta,Tamil,Arisi (அரிசி),Native,2026-06-26 15:48:13.689072
+6,Oryza sativa,kn,Kannada,Akki (ಅಕ್ಕಿ),Native,2026-06-26 15:48:13.689073
+7,Oryza sativa,ml,Malayalam,Ari (അരി),Native,2026-06-26 15:48:13.689073
+8,Oryza sativa,mr,Marathi,Tandul (तांदूळ),Native,2026-06-26 15:48:13.689074
+9,Oryza sativa,pa,Punjabi,Jhona (ਝੋਨਾ),Native,2026-06-26 15:48:13.689074
+10,Oryza sativa,gu,Gujarati,Chaval,Native,2026-06-26 15:48:13.689074
+11,Oryza sativa,or,Odia,Dhana (ଧାନ),Native,2026-06-26 15:48:13.689075
+12,Oryza sativa,as,Assamese,Dhan (ধান),Native,2026-06-26 15:48:13.689075
+13,Oryza sativa,ur,Urdu,Chawal (چاول),Native,2026-06-26 15:48:13.689075
+14,Oryza sativa,ar,Arabic,Arz (أرز),Native,2026-06-26 15:48:13.689076
+15,Oryza sativa,zh,Chinese (Mandarin),Dào (稻),Native,2026-06-26 15:48:13.689076
+16,Oryza sativa,ja,Japanese,Kome (米),Native,2026-06-26 15:48:13.689076
+17,Oryza sativa,ko,Korean,Ssal (쌀),Native,2026-06-26 15:48:13.689077
+18,Oryza sativa,vi,Vietnamese,Lúa gạo,Latin,2026-06-26 15:48:13.689077
+19,Oryza sativa,th,Thai,Khao (ข้าว),Native,2026-06-26 15:48:13.689077
+20,Oryza sativa,id,Indonesian,Padi,Latin,2026-06-26 15:48:13.689078
+21,Oryza sativa,ms,Malay,Padi,Latin,2026-06-26 15:48:13.689078
+22,Oryza sativa,tl,Filipino (Tagalog),Palay,Latin,2026-06-26 15:48:13.689078
+23,Oryza sativa,my,Burmese,Hsainn,Native,2026-06-26 15:48:13.689078
+24,Oryza sativa,km,Khmer,Srov (ស្រូវ),Native,2026-06-26 15:48:13.689079
+25,Oryza sativa,si,Sinhala,Hal (හාල්),Native,2026-06-26 15:48:13.689079
+26,Oryza sativa,ne,Nepali,Chamal (चामल),Native,2026-06-26 15:48:13.689079
+27,Oryza sativa,sw,Swahili,Mchele,Latin,2026-06-26 15:48:13.689080
+28,Oryza sativa,ha,Hausa,Shinkafa,Latin,2026-06-26 15:48:13.689080
+29,Oryza sativa,yo,Yoruba,Iresi,Latin,2026-06-26 15:48:13.689080
+30,Oryza sativa,ig,Igbo,Osikapa,Native,2026-06-26 15:48:13.689081
+31,Oryza sativa,am,Amharic,Timhirt (ጤፍ),Native,2026-06-26 15:48:13.689081
+32,Oryza sativa,pt,Portuguese,Arroz,Latin,2026-06-26 15:48:13.689081
+33,Oryza sativa,es,Spanish,Arroz,Latin,2026-06-26 15:48:13.689082
+34,Oryza sativa,fr,French,Riz,Latin,2026-06-26 15:48:13.689082
+35,Oryza sativa,de,German,Reis,Latin,2026-06-26 15:48:13.689082
+36,Oryza sativa,it,Italian,Riso,Native,2026-06-26 15:48:13.689083
+37,Oryza sativa,ru,Russian,Ris (рис),Native,2026-06-26 15:48:13.689083
+38,Oryza sativa,nl,Dutch,Rijst,Native,2026-06-26 15:48:13.689083
+39,Oryza sativa,pl,Polish,Ryż,Native,2026-06-26 15:48:13.689084
+40,Oryza sativa,tr,Turkish,Pirinç,Latin,2026-06-26 15:48:13.689084
+41,Oryza sativa,fa,Persian (Farsi),Berenj (برنج),Native,2026-06-26 15:48:13.689084
+42,Oryza sativa,kk,Kazakh,Küriş,Native,2026-06-26 15:48:13.689085
+43,Oryza sativa,uz,Uzbek,Sholi,Native,2026-06-26 15:48:13.689085
+44,Oryza sativa,tg,Tajik,Birinj,Native,2026-06-26 15:48:13.689085
+45,Oryza sativa,ky,Kyrgyz,Küröch,Native,2026-06-26 15:48:13.689086
+46,Triticum aestivum,en,English,Wheat,Latin,2026-06-26 15:48:13.689086
+47,Triticum aestivum,hi,Hindi,Gehun (गेहूँ),Native,2026-06-26 15:48:13.689086
+48,Triticum aestivum,bn,Bengali,Gom (গম),Native,2026-06-26 15:48:13.689087
+49,Triticum aestivum,te,Telugu,Godhuma (గోధుమ),Native,2026-06-26 15:48:13.689087
+50,Triticum aestivum,ta,Tamil,Gothumai (கோதுமை),Native,2026-06-26 15:48:13.689087
+51,Triticum aestivum,kn,Kannada,Godi (ಗೋಧಿ),Native,2026-06-26 15:48:13.689088
+52,Triticum aestivum,ml,Malayalam,Gothambu (ഗോതമ്പ്),Native,2026-06-26 15:48:13.689088
+53,Triticum aestivum,mr,Marathi,Gahu (गहू),Native,2026-06-26 15:48:13.689088
+54,Triticum aestivum,pa,Punjabi,Kanak (ਕਣਕ),Native,2026-06-26 15:48:13.689089
+55,Triticum aestivum,gu,Gujarati,Ghaun (ઘઉ),Native,2026-06-26 15:48:13.689089
+56,Triticum aestivum,or,Odia,Gahama (ଗହମ),Native,2026-06-26 15:48:13.689089
+57,Triticum aestivum,as,Assamese,Gom (গম),Native,2026-06-26 15:48:13.689090
+58,Triticum aestivum,ur,Urdu,Gandum (گندم),Native,2026-06-26 15:48:13.689090
+59,Triticum aestivum,ar,Arabic,Qamh (قمح),Native,2026-06-26 15:48:13.689090
+60,Triticum aestivum,zh,Chinese (Mandarin),Xiǎomài (小麦),Native,2026-06-26 15:48:13.689090
+61,Triticum aestivum,ja,Japanese,Komugi (小麦),Native,2026-06-26 15:48:13.689091
+62,Triticum aestivum,ko,Korean,Mil (밀),Native,2026-06-26 15:48:13.689091
+63,Triticum aestivum,vi,Vietnamese,Lúa mì,Latin,2026-06-26 15:48:13.689091
+64,Triticum aestivum,th,Thai,Saalee (สาลี),Native,2026-06-26 15:48:13.689092
+65,Triticum aestivum,id,Indonesian,Gandum,Latin,2026-06-26 15:48:13.689092
+66,Triticum aestivum,ms,Malay,Gandum,Latin,2026-06-26 15:48:13.689092
+67,Triticum aestivum,tl,Filipino (Tagalog),Trigo,Latin,2026-06-26 15:48:13.689093
+68,Triticum aestivum,sw,Swahili,Ngano,Latin,2026-06-26 15:48:13.689093
+69,Triticum aestivum,ha,Hausa,Alkama,Latin,2026-06-26 15:48:13.689093
+70,Triticum aestivum,yo,Yoruba,Alikama,Latin,2026-06-26 15:48:13.689094
+71,Triticum aestivum,am,Amharic,Senafich (ስንዴ),Native,2026-06-26 15:48:13.689094
+72,Triticum aestivum,pt,Portuguese,Trigo,Latin,2026-06-26 15:48:13.689094
+73,Triticum aestivum,es,Spanish,Trigo,Latin,2026-06-26 15:48:13.689094
+74,Triticum aestivum,fr,French,Blé,Latin,2026-06-26 15:48:13.689095
+75,Triticum aestivum,de,German,Weizen,Latin,2026-06-26 15:48:13.689095
+76,Triticum aestivum,it,Italian,Grano,Native,2026-06-26 15:48:13.689095
+77,Triticum aestivum,ru,Russian,Pshenitsa (пшеница),Native,2026-06-26 15:48:13.689096
+78,Triticum aestivum,nl,Dutch,Tarwe,Native,2026-06-26 15:48:13.689096
+79,Triticum aestivum,pl,Polish,Pszenica,Native,2026-06-26 15:48:13.689096
+80,Triticum aestivum,tr,Turkish,Buğday,Latin,2026-06-26 15:48:13.689097
+81,Triticum aestivum,fa,Persian (Farsi),Gandom (گندم),Native,2026-06-26 15:48:13.689097
+82,Triticum aestivum,kk,Kazakh,Buday,Native,2026-06-26 15:48:13.689097
+83,Triticum aestivum,uz,Uzbek,Bug'doy,Native,2026-06-26 15:48:13.689098
+84,Triticum aestivum,ro,Romanian,Grâu,Native,2026-06-26 15:48:13.689098
+85,Triticum aestivum,uk,Ukrainian,Pshenytsia (пшениця),Native,2026-06-26 15:48:13.689098
+86,Zea mays,en,English,Maize / Corn,Latin,2026-06-26 15:48:13.689098
+87,Zea mays,hi,Hindi,Makka / Bhuta (मक्का),Native,2026-06-26 15:48:13.689099
+88,Zea mays,bn,Bengali,Bhutta (ভুট্টা),Native,2026-06-26 15:48:13.689099
+89,Zea mays,te,Telugu,Makka jowar (మొక్కజొన్న),Native,2026-06-26 15:48:13.689099
+90,Zea mays,ta,Tamil,Cholam (சோளம்),Native,2026-06-26 15:48:13.689100
+91,Zea mays,kn,Kannada,Jawari (ಜೋಳ),Native,2026-06-26 15:48:13.689100
+92,Zea mays,ml,Malayalam,Cholam (ചോളം),Native,2026-06-26 15:48:13.689100
+93,Zea mays,mr,Marathi,Makai (मका),Native,2026-06-26 15:48:13.689101
+94,Zea mays,pa,Punjabi,Makki (ਮੱਕੀ),Native,2026-06-26 15:48:13.689101
+95,Zea mays,gu,Gujarati,Makkai (મકાઈ),Native,2026-06-26 15:48:13.689101
+96,Zea mays,ur,Urdu,Makai (مکئی),Native,2026-06-26 15:48:13.689102
+97,Zea mays,ar,Arabic,Dhura (ذرة),Native,2026-06-26 15:48:13.689102
+98,Zea mays,zh,Chinese (Mandarin),Yùmǐ (玉米),Native,2026-06-26 15:48:13.689102
+99,Zea mays,ja,Japanese,Tōmorokoshi (とうもろこし),Native,2026-06-26 15:48:13.689103
+100,Zea mays,ko,Korean,Oksusu (옥수수),Native,2026-06-26 15:48:13.689103
+101,Zea mays,vi,Vietnamese,Ngô,Latin,2026-06-26 15:48:13.689103
+102,Zea mays,th,Thai,Khao Phot (ข้าวโพด),Native,2026-06-26 15:48:13.689103
+103,Zea mays,id,Indonesian,Jagung,Latin,2026-06-26 15:48:13.689104
+104,Zea mays,ms,Malay,Jagung,Latin,2026-06-26 15:48:13.689104
+105,Zea mays,tl,Filipino (Tagalog),Mais,Latin,2026-06-26 15:48:13.689104
+106,Zea mays,sw,Swahili,Mahindi,Latin,2026-06-26 15:48:13.689105
+107,Zea mays,ha,Hausa,Masara,Latin,2026-06-26 15:48:13.689105
+108,Zea mays,yo,Yoruba,Àgbàdo,Latin,2026-06-26 15:48:13.689105
+109,Zea mays,ig,Igbo,Oka,Native,2026-06-26 15:48:13.689106
+110,Zea mays,am,Amharic,Masara (ማሳር),Native,2026-06-26 15:48:13.689106
+111,Zea mays,pt,Portuguese,Milho,Latin,2026-06-26 15:48:13.689106
+112,Zea mays,es,Spanish,Maíz,Latin,2026-06-26 15:48:13.689107
+113,Zea mays,fr,French,Maïs,Latin,2026-06-26 15:48:13.689107
+114,Zea mays,de,German,Mais,Latin,2026-06-26 15:48:13.689107
+115,Zea mays,it,Italian,Granoturco,Native,2026-06-26 15:48:13.689108
+116,Zea mays,ru,Russian,Kukuruza (кукуруза),Native,2026-06-26 15:48:13.689108
+117,Zea mays,nl,Dutch,Maïs,Native,2026-06-26 15:48:13.689108
+118,Zea mays,pl,Polish,Kukurydza,Native,2026-06-26 15:48:13.689109
+119,Zea mays,tr,Turkish,Mısır,Latin,2026-06-26 15:48:13.689109
+120,Zea mays,fa,Persian (Farsi),Zarat (ذرت),Native,2026-06-26 15:48:13.689109
+121,Zea mays,ro,Romanian,Porumb,Native,2026-06-26 15:48:13.689109
+122,Zea mays,uk,Ukrainian,Kukurudza (кукурудза),Native,2026-06-26 15:48:13.689110
+123,Mangifera indica,en,English,Mango,Latin,2026-06-26 15:48:13.689110
+124,Mangifera indica,hi,Hindi,Aam (आम),Native,2026-06-26 15:48:13.689110
+125,Mangifera indica,bn,Bengali,Aam (আম),Native,2026-06-26 15:48:13.689111
+126,Mangifera indica,te,Telugu,Mamidi (మామిడి),Native,2026-06-26 15:48:13.689111
+127,Mangifera indica,ta,Tamil,Maambalam (மாம்பழம்),Native,2026-06-26 15:48:13.689111
+128,Mangifera indica,kn,Kannada,Mavina Hannu (ಮಾವಿನ ಹಣ್ಣು),Native,2026-06-26 15:48:13.689112
+129,Mangifera indica,ml,Malayalam,Mampazham (മാമ്പഴം),Native,2026-06-26 15:48:13.689112
+130,Mangifera indica,mr,Marathi,Amba (आंबा),Native,2026-06-26 15:48:13.689112
+131,Mangifera indica,pa,Punjabi,Aam (ਅੰਬ),Native,2026-06-26 15:48:13.689113
+132,Mangifera indica,gu,Gujarati,Keri (કેરી),Native,2026-06-26 15:48:13.689113
+133,Mangifera indica,ur,Urdu,Aam (آم),Native,2026-06-26 15:48:13.689113
+134,Mangifera indica,ar,Arabic,Manga (مانجو),Native,2026-06-26 15:48:13.689113
+135,Mangifera indica,zh,Chinese (Mandarin),Mángguǒ (芒果),Native,2026-06-26 15:48:13.689114
+136,Mangifera indica,ja,Japanese,Mango (マンゴー),Native,2026-06-26 15:48:13.689114
+137,Mangifera indica,ko,Korean,Manggo (망고),Native,2026-06-26 15:48:13.689114
+138,Mangifera indica,vi,Vietnamese,Xoài,Latin,2026-06-26 15:48:13.689115
+139,Mangifera indica,th,Thai,Mamuang (มะม่วง),Native,2026-06-26 15:48:13.689115
+140,Mangifera indica,id,Indonesian,Mangga,Latin,2026-06-26 15:48:13.689115
+141,Mangifera indica,ms,Malay,Mangga,Latin,2026-06-26 15:48:13.689116
+142,Mangifera indica,tl,Filipino (Tagalog),Mangga,Latin,2026-06-26 15:48:13.689116
+143,Mangifera indica,my,Burmese,Thayet,Native,2026-06-26 15:48:13.689116
+144,Mangifera indica,sw,Swahili,Embe,Latin,2026-06-26 15:48:13.689117
+145,Mangifera indica,ha,Hausa,Mangwaro,Latin,2026-06-26 15:48:13.689117
+146,Mangifera indica,pt,Portuguese,Manga,Latin,2026-06-26 15:48:13.689117
+147,Mangifera indica,es,Spanish,Mango,Latin,2026-06-26 15:48:13.689117
+148,Mangifera indica,fr,French,Mangue,Latin,2026-06-26 15:48:13.689118
+149,Mangifera indica,de,German,Mango,Latin,2026-06-26 15:48:13.689118
+150,Mangifera indica,it,Italian,Mango,Native,2026-06-26 15:48:13.689118
+151,Mangifera indica,ru,Russian,Mango (манго),Native,2026-06-26 15:48:13.689119
+152,Mangifera indica,tr,Turkish,Mango,Latin,2026-06-26 15:48:13.689119
+153,Musa acuminata,en,English,Banana,Latin,2026-06-26 15:48:13.689119
+154,Musa acuminata,hi,Hindi,Kela (केला),Native,2026-06-26 15:48:13.689120
+155,Musa acuminata,bn,Bengali,Kola (কলা),Native,2026-06-26 15:48:13.689120
+156,Musa acuminata,te,Telugu,Arati Pandu (అరటిపండు),Native,2026-06-26 15:48:13.689120
+157,Musa acuminata,ta,Tamil,Vazhai Pazham (வாழைப்பழம்),Native,2026-06-26 15:48:13.689122
+158,Musa acuminata,kn,Kannada,Bale Hannu (ಬಾಳೆ ಹಣ್ಣು),Native,2026-06-26 15:48:13.689122
+159,Musa acuminata,ml,Malayalam,Vazha Pazham (വാഴ്ചഫലം),Native,2026-06-26 15:48:13.689122
+160,Musa acuminata,mr,Marathi,Keli (केळी),Native,2026-06-26 15:48:13.689123
+161,Musa acuminata,pa,Punjabi,Kela (ਕੇਲਾ),Native,2026-06-26 15:48:13.689123
+162,Musa acuminata,gu,Gujarati,Kela (કેળ),Native,2026-06-26 15:48:13.689123
+163,Musa acuminata,ur,Urdu,Kela (کیلا),Native,2026-06-26 15:48:13.689124
+164,Musa acuminata,ar,Arabic,Mouz (موز),Native,2026-06-26 15:48:13.689124
+165,Musa acuminata,zh,Chinese (Mandarin),Xiāngjiāo (香蕉),Native,2026-06-26 15:48:13.689124
+166,Musa acuminata,ja,Japanese,Banana (バナナ),Native,2026-06-26 15:48:13.689125
+167,Musa acuminata,ko,Korean,Banana (바나나),Native,2026-06-26 15:48:13.689125
+168,Musa acuminata,vi,Vietnamese,Chuối,Latin,2026-06-26 15:48:13.689125
+169,Musa acuminata,th,Thai,Kluai (กล้วย),Native,2026-06-26 15:48:13.689126
+170,Musa acuminata,id,Indonesian,Pisang,Latin,2026-06-26 15:48:13.689126
+171,Musa acuminata,ms,Malay,Pisang,Latin,2026-06-26 15:48:13.689126
+172,Musa acuminata,tl,Filipino (Tagalog),Saging,Latin,2026-06-26 15:48:13.689126
+173,Musa acuminata,sw,Swahili,Ndizi,Latin,2026-06-26 15:48:13.689127
+174,Musa acuminata,ha,Hausa,Ayaba,Latin,2026-06-26 15:48:13.689127
+175,Musa acuminata,yo,Yoruba,Ọgẹdẹ,Latin,2026-06-26 15:48:13.689127
+176,Musa acuminata,pt,Portuguese,Banana,Latin,2026-06-26 15:48:13.689128
+177,Musa acuminata,es,Spanish,Banana/Plátano,Latin,2026-06-26 15:48:13.689128
+178,Musa acuminata,fr,French,Banane,Latin,2026-06-26 15:48:13.689128
+179,Musa acuminata,de,German,Banane,Latin,2026-06-26 15:48:13.689129
+180,Musa acuminata,it,Italian,Banana,Native,2026-06-26 15:48:13.689129
+181,Musa acuminata,ru,Russian,Banan (банан),Native,2026-06-26 15:48:13.689129
+182,Solanum lycopersicum,en,English,Tomato,Latin,2026-06-26 15:48:13.689129
+183,Solanum lycopersicum,hi,Hindi,Tamatar (टमाटर),Native,2026-06-26 15:48:13.689130
+184,Solanum lycopersicum,bn,Bengali,Tomato (টমেটো),Native,2026-06-26 15:48:13.689130
+185,Solanum lycopersicum,te,Telugu,Tomato (టమాటా),Native,2026-06-26 15:48:13.689130
+186,Solanum lycopersicum,ta,Tamil,Thakkali (தக்காளி),Native,2026-06-26 15:48:13.689131
+187,Solanum lycopersicum,kn,Kannada,Tomato (ಟಮೇಟ),Native,2026-06-26 15:48:13.689131
+188,Solanum lycopersicum,ml,Malayalam,Thakkali (തക്കാളി),Native,2026-06-26 15:48:13.689131
+189,Solanum lycopersicum,mr,Marathi,Tomato (टोमॅटो),Native,2026-06-26 15:48:13.689132
+190,Solanum lycopersicum,pa,Punjabi,Tamater (ਟਮਾਟਰ),Native,2026-06-26 15:48:13.689132
+191,Solanum lycopersicum,gu,Gujarati,Tameta (ટામેટું),Native,2026-06-26 15:48:13.689132
+192,Solanum lycopersicum,ur,Urdu,Tamatar (ٹماٹر),Native,2026-06-26 15:48:13.689133
+193,Solanum lycopersicum,ar,Arabic,Tamatim (طماطم),Native,2026-06-26 15:48:13.689133
+194,Solanum lycopersicum,zh,Chinese (Mandarin),Xīhóngshì (西红柿),Native,2026-06-26 15:48:13.689133
+195,Solanum lycopersicum,ja,Japanese,Tomato (トマト),Native,2026-06-26 15:48:13.689134
+196,Solanum lycopersicum,ko,Korean,Tomato (토마토),Native,2026-06-26 15:48:13.689134
+197,Solanum lycopersicum,vi,Vietnamese,Cà chua,Latin,2026-06-26 15:48:13.689134
+198,Solanum lycopersicum,th,Thai,Makhua thet (มะเขือเทศ),Native,2026-06-26 15:48:13.689135
+199,Solanum lycopersicum,id,Indonesian,Tomat,Latin,2026-06-26 15:48:13.689135
+200,Solanum lycopersicum,ms,Malay,Tomato,Latin,2026-06-26 15:48:13.689135
+201,Solanum lycopersicum,tl,Filipino (Tagalog),Kamatis,Latin,2026-06-26 15:48:13.689135
+202,Solanum lycopersicum,sw,Swahili,Nyanya,Latin,2026-06-26 15:48:13.689136
+203,Solanum lycopersicum,ha,Hausa,Tumatir,Latin,2026-06-26 15:48:13.689136
+204,Solanum lycopersicum,yo,Yoruba,Tomáti,Latin,2026-06-26 15:48:13.689136
+205,Solanum lycopersicum,pt,Portuguese,Tomate,Latin,2026-06-26 15:48:13.689137
+206,Solanum lycopersicum,es,Spanish,Tomate,Latin,2026-06-26 15:48:13.689137
+207,Solanum lycopersicum,fr,French,Tomate,Latin,2026-06-26 15:48:13.689137
+208,Solanum lycopersicum,de,German,Tomate,Latin,2026-06-26 15:48:13.689138
+209,Solanum lycopersicum,it,Italian,Pomodoro,Native,2026-06-26 15:48:13.689138
+210,Solanum lycopersicum,ru,Russian,Pomidor (помидор),Native,2026-06-26 15:48:13.689138
+211,Solanum lycopersicum,tr,Turkish,Domates,Latin,2026-06-26 15:48:13.689139
+212,Solanum lycopersicum,nl,Dutch,Tomaat,Native,2026-06-26 15:48:13.689139
+213,Solanum lycopersicum,pl,Polish,Pomidor,Native,2026-06-26 15:48:13.689139
+214,Solanum lycopersicum,ro,Romanian,Roșie,Native,2026-06-26 15:48:13.689139
+215,Solanum tuberosum,en,English,Potato,Latin,2026-06-26 15:48:13.689140
+216,Solanum tuberosum,hi,Hindi,Aloo (आलू),Native,2026-06-26 15:48:13.689140
+217,Solanum tuberosum,bn,Bengali,Aloo (আলু),Native,2026-06-26 15:48:13.689140
+218,Solanum tuberosum,te,Telugu,Uralagedda (ఉరుళగడ్డ),Native,2026-06-26 15:48:13.689141
+219,Solanum tuberosum,ta,Tamil,Urulaikizhangu (உருளைக்கிழங்கு),Native,2026-06-26 15:48:13.689141
+220,Solanum tuberosum,kn,Kannada,Alu Gedde (ಆಲೂ ಗಡ್ಡೆ),Native,2026-06-26 15:48:13.689141
+221,Solanum tuberosum,ml,Malayalam,Urulakkizhangu (ഉരുളക്കിഴങ്ങ്),Native,2026-06-26 15:48:13.689142
+222,Solanum tuberosum,mr,Marathi,Batata (बटाटा),Native,2026-06-26 15:48:13.689142
+223,Solanum tuberosum,pa,Punjabi,Aloo (ਆਲੂ),Native,2026-06-26 15:48:13.689142
+224,Solanum tuberosum,gu,Gujarati,Bataka (બટેટા),Native,2026-06-26 15:48:13.689142
+225,Solanum tuberosum,ur,Urdu,Aloo (آلو),Native,2026-06-26 15:48:13.689143
+226,Solanum tuberosum,ar,Arabic,Batata (بطاطس),Native,2026-06-26 15:48:13.689143
+227,Solanum tuberosum,zh,Chinese (Mandarin),Tǔdòu (土豆),Native,2026-06-26 15:48:13.689143
+228,Solanum tuberosum,ja,Japanese,Jagaimo (じゃがいも),Native,2026-06-26 15:48:13.689144
+229,Solanum tuberosum,ko,Korean,Gamja (감자),Native,2026-06-26 15:48:13.689144
+230,Solanum tuberosum,vi,Vietnamese,Khoai tây,Latin,2026-06-26 15:48:13.689144
+231,Solanum tuberosum,th,Thai,Man farang (มันฝรั่ง),Native,2026-06-26 15:48:13.689145
+232,Solanum tuberosum,id,Indonesian,Kentang,Latin,2026-06-26 15:48:13.689145
+233,Solanum tuberosum,ms,Malay,Kentang,Latin,2026-06-26 15:48:13.689145
+234,Solanum tuberosum,tl,Filipino (Tagalog),Patatas,Latin,2026-06-26 15:48:13.689146
+235,Solanum tuberosum,sw,Swahili,Kiazi,Latin,2026-06-26 15:48:13.689146
+236,Solanum tuberosum,ha,Hausa,Dankali,Latin,2026-06-26 15:48:13.689146
+237,Solanum tuberosum,yo,Yoruba,Ànàmò,Latin,2026-06-26 15:48:13.689146
+238,Solanum tuberosum,pt,Portuguese,Batata,Latin,2026-06-26 15:48:13.689147
+239,Solanum tuberosum,es,Spanish,Patata/Papa,Latin,2026-06-26 15:48:13.689147
+240,Solanum tuberosum,fr,French,Pomme de terre,Latin,2026-06-26 15:48:13.689147
+241,Solanum tuberosum,de,German,Kartoffel,Latin,2026-06-26 15:48:13.689148
+242,Solanum tuberosum,it,Italian,Patata,Native,2026-06-26 15:48:13.689148
+243,Solanum tuberosum,ru,Russian,Kartofel (картофель),Native,2026-06-26 15:48:13.689148
+244,Solanum tuberosum,nl,Dutch,Aardappel,Native,2026-06-26 15:48:13.689149
+245,Solanum tuberosum,pl,Polish,Ziemniak,Native,2026-06-26 15:48:13.689149
+246,Solanum tuberosum,tr,Turkish,Patates,Latin,2026-06-26 15:48:13.689149
+247,Allium cepa,en,English,Onion,Latin,2026-06-26 15:48:13.689150
+248,Allium cepa,hi,Hindi,Pyaz (प्याज),Native,2026-06-26 15:48:13.689150
+249,Allium cepa,bn,Bengali,Peyaj (পেঁয়াজ),Native,2026-06-26 15:48:13.689150
+250,Allium cepa,te,Telugu,Nirulli (నిరుల్లి),Native,2026-06-26 15:48:13.689150
+251,Allium cepa,ta,Tamil,Vengayam (வெங்காயம்),Native,2026-06-26 15:48:13.689151
+252,Allium cepa,kn,Kannada,Irulli (ಈರುಳ್ಳಿ),Native,2026-06-26 15:48:13.689151
+253,Allium cepa,ml,Malayalam,Ulli (ഉള്ളി),Native,2026-06-26 15:48:13.689151
+254,Allium cepa,mr,Marathi,Kanda (कांदा),Native,2026-06-26 15:48:13.689152
+255,Allium cepa,pa,Punjabi,Piyaz (ਪਿਆਜ਼),Native,2026-06-26 15:48:13.689152
+256,Allium cepa,gu,Gujarati,Dungri (ડુંગળી),Native,2026-06-26 15:48:13.689152
+257,Allium cepa,ur,Urdu,Piyaz (پیاز),Native,2026-06-26 15:48:13.689153
+258,Allium cepa,ar,Arabic,Basal (بصل),Native,2026-06-26 15:48:13.689153
+259,Allium cepa,zh,Chinese (Mandarin),Yángcōng (洋葱),Native,2026-06-26 15:48:13.689153
+260,Allium cepa,ja,Japanese,Tamanegi (玉ねぎ),Native,2026-06-26 15:48:13.689154
+261,Allium cepa,ko,Korean,Yangpa (양파),Native,2026-06-26 15:48:13.689154
+262,Allium cepa,vi,Vietnamese,Hành tây,Latin,2026-06-26 15:48:13.689154
+263,Allium cepa,th,Thai,Hua hom (หัวหอม),Native,2026-06-26 15:48:13.689154
+264,Allium cepa,id,Indonesian,Bawang merah,Latin,2026-06-26 15:48:13.689155
+265,Allium cepa,ms,Malay,Bawang,Latin,2026-06-26 15:48:13.689155
+266,Allium cepa,tl,Filipino (Tagalog),Sibuyas,Latin,2026-06-26 15:48:13.689155
+267,Allium cepa,sw,Swahili,Kitunguu,Latin,2026-06-26 15:48:13.689156
+268,Allium cepa,ha,Hausa,Albasa,Latin,2026-06-26 15:48:13.689156
+269,Allium cepa,yo,Yoruba,Àlùbọ́sà,Latin,2026-06-26 15:48:13.689156
+270,Allium cepa,pt,Portuguese,Cebola,Latin,2026-06-26 15:48:13.689157
+271,Allium cepa,es,Spanish,Cebolla,Latin,2026-06-26 15:48:13.689157
+272,Allium cepa,fr,French,Oignon,Latin,2026-06-26 15:48:13.689157
+273,Allium cepa,de,German,Zwiebel,Latin,2026-06-26 15:48:13.689158
+274,Allium cepa,it,Italian,Cipolla,Native,2026-06-26 15:48:13.689158
+275,Allium cepa,ru,Russian,Luk (лук),Native,2026-06-26 15:48:13.689158
+276,Allium cepa,tr,Turkish,Soğan,Latin,2026-06-26 15:48:13.689158
+277,Allium sativum,en,English,Garlic,Latin,2026-06-26 15:48:13.689159
+278,Allium sativum,hi,Hindi,Lahsun (लहसुन),Native,2026-06-26 15:48:13.689159
+279,Allium sativum,bn,Bengali,Rasun (রসুন),Native,2026-06-26 15:48:13.689159
+280,Allium sativum,te,Telugu,Vellulli (వెల్లుల్లి),Native,2026-06-26 15:48:13.689160
+281,Allium sativum,ta,Tamil,Poondu (பூண்டு),Native,2026-06-26 15:48:13.689160
+282,Allium sativum,kn,Kannada,Bellulli (ಬೆಳ್ಳುಳ್ಳಿ),Native,2026-06-26 15:48:13.689160
+283,Allium sativum,ml,Malayalam,Veluthulli (വെളുത്തുള്ളി),Native,2026-06-26 15:48:13.689161
+284,Allium sativum,mr,Marathi,Lasun (लसूण),Native,2026-06-26 15:48:13.689161
+285,Allium sativum,pa,Punjabi,Thum (ਥੁੰਮ),Native,2026-06-26 15:48:13.689161
+286,Allium sativum,gu,Gujarati,Lasan (લ‌સણ),Native,2026-06-26 15:48:13.689162
+287,Allium sativum,ur,Urdu,Lahsun (لہسن),Native,2026-06-26 15:48:13.689162
+288,Allium sativum,ar,Arabic,Thoum (ثوم),Native,2026-06-26 15:48:13.689162
+289,Allium sativum,zh,Chinese (Mandarin),Dàsuàn (大蒜),Native,2026-06-26 15:48:13.689162
+290,Allium sativum,ja,Japanese,Ninniku (にんにく),Native,2026-06-26 15:48:13.689163
+291,Allium sativum,ko,Korean,Maneul (마늘),Native,2026-06-26 15:48:13.689163
+292,Allium sativum,vi,Vietnamese,Tỏi,Latin,2026-06-26 15:48:13.689163
+293,Allium sativum,th,Thai,Kratiam (กระเทียม),Native,2026-06-26 15:48:13.689164
+294,Allium sativum,id,Indonesian,Bawang putih,Latin,2026-06-26 15:48:13.689164
+295,Allium sativum,ms,Malay,Bawang putih,Latin,2026-06-26 15:48:13.689164
+296,Allium sativum,tl,Filipino (Tagalog),Bawang,Latin,2026-06-26 15:48:13.689165
+297,Allium sativum,sw,Swahili,Kitunguu saumu,Latin,2026-06-26 15:48:13.689165
+298,Allium sativum,yo,Yoruba,Àjọ̀,Latin,2026-06-26 15:48:13.689165
+299,Allium sativum,pt,Portuguese,Alho,Latin,2026-06-26 15:48:13.689166
+300,Allium sativum,es,Spanish,Ajo,Latin,2026-06-26 15:48:13.689166
+301,Allium sativum,fr,French,Ail,Latin,2026-06-26 15:48:13.689166
+302,Allium sativum,de,German,Knoblauch,Latin,2026-06-26 15:48:13.689166
+303,Allium sativum,it,Italian,Aglio,Native,2026-06-26 15:48:13.689167
+304,Allium sativum,ru,Russian,Chesnok (чеснок),Native,2026-06-26 15:48:13.689167
+305,Allium sativum,tr,Turkish,Sarımsak,Latin,2026-06-26 15:48:13.689167
+306,Zingiber officinale,en,English,Ginger,Latin,2026-06-26 15:48:13.689168
+307,Zingiber officinale,hi,Hindi,Adrak (अदरक),Native,2026-06-26 15:48:13.689168
+308,Zingiber officinale,bn,Bengali,Aada (আদা),Native,2026-06-26 15:48:13.689168
+309,Zingiber officinale,te,Telugu,Allam (అల్లం),Native,2026-06-26 15:48:13.689169
+310,Zingiber officinale,ta,Tamil,Inji (இஞ்சி),Native,2026-06-26 15:48:13.689169
+311,Zingiber officinale,kn,Kannada,Shunti (ಶುಂಠಿ),Native,2026-06-26 15:48:13.689169
+312,Zingiber officinale,ml,Malayalam,Inji (ഇഞ്ചി),Native,2026-06-26 15:48:13.689170
+313,Zingiber officinale,mr,Marathi,Ale (आले),Native,2026-06-26 15:48:13.689170
+314,Zingiber officinale,pa,Punjabi,Adrak (ਅਦਰਕ),Native,2026-06-26 15:48:13.689170
+315,Zingiber officinale,gu,Gujarati,Aadu (આદુ),Native,2026-06-26 15:48:13.689170
+316,Zingiber officinale,ur,Urdu,Adrak (ادرک),Native,2026-06-26 15:48:13.689171
+317,Zingiber officinale,ar,Arabic,Zanjabil (زنجبيل),Native,2026-06-26 15:48:13.689171
+318,Zingiber officinale,zh,Chinese (Mandarin),Jiāng (姜),Native,2026-06-26 15:48:13.689171
+319,Zingiber officinale,ja,Japanese,Shōga (しょうが),Native,2026-06-26 15:48:13.689172
+320,Zingiber officinale,ko,Korean,Saenggang (생강),Native,2026-06-26 15:48:13.689172
+321,Zingiber officinale,vi,Vietnamese,Gừng,Latin,2026-06-26 15:48:13.689172
+322,Zingiber officinale,th,Thai,Khing (ขิง),Native,2026-06-26 15:48:13.689173
+323,Zingiber officinale,id,Indonesian,Jahe,Latin,2026-06-26 15:48:13.689173
+324,Zingiber officinale,ms,Malay,Halia,Latin,2026-06-26 15:48:13.689173
+325,Zingiber officinale,tl,Filipino (Tagalog),Luya,Latin,2026-06-26 15:48:13.689174
+326,Zingiber officinale,sw,Swahili,Tangawizi,Latin,2026-06-26 15:48:13.689174
+327,Zingiber officinale,ha,Hausa,Cita,Latin,2026-06-26 15:48:13.689174
+328,Zingiber officinale,pt,Portuguese,Gengibre,Latin,2026-06-26 15:48:13.689174
+329,Zingiber officinale,es,Spanish,Jengibre,Latin,2026-06-26 15:48:13.689175
+330,Zingiber officinale,fr,French,Gingembre,Latin,2026-06-26 15:48:13.689175
+331,Zingiber officinale,de,German,Ingwer,Latin,2026-06-26 15:48:13.689175
+332,Zingiber officinale,it,Italian,Zenzero,Native,2026-06-26 15:48:13.689176
+333,Zingiber officinale,ru,Russian,Imbir (имбирь),Native,2026-06-26 15:48:13.689176
+334,Zingiber officinale,tr,Turkish,Zencefil,Latin,2026-06-26 15:48:13.689176
+335,Curcuma longa,en,English,Turmeric,Latin,2026-06-26 15:48:13.689177
+336,Curcuma longa,hi,Hindi,Haldi (हल्दी),Native,2026-06-26 15:48:13.689177
+337,Curcuma longa,bn,Bengali,Halud (হলুদ),Native,2026-06-26 15:48:13.689177
+338,Curcuma longa,te,Telugu,Pasupu (పసుపు),Native,2026-06-26 15:48:13.689178
+339,Curcuma longa,ta,Tamil,Manjal (மஞ்சள்),Native,2026-06-26 15:48:13.689178
+340,Curcuma longa,kn,Kannada,Arisina (ಅರಿಶಿನ),Native,2026-06-26 15:48:13.689178
+341,Curcuma longa,ml,Malayalam,Manjal (മഞ്ഞൾ),Native,2026-06-26 15:48:13.689178
+342,Curcuma longa,mr,Marathi,Halad (हळद),Native,2026-06-26 15:48:13.689179
+343,Curcuma longa,pa,Punjabi,Haldi (ਹਲਦੀ),Native,2026-06-26 15:48:13.689179
+344,Curcuma longa,gu,Gujarati,Haldar (હળદર),Native,2026-06-26 15:48:13.689179
+345,Curcuma longa,ur,Urdu,Haldi (ہلدی),Native,2026-06-26 15:48:13.689180
+346,Curcuma longa,ar,Arabic,Kurkum (كركم),Native,2026-06-26 15:48:13.689180
+347,Curcuma longa,zh,Chinese (Mandarin),Jiānghuáng (姜黄),Native,2026-06-26 15:48:13.689180
+348,Curcuma longa,ja,Japanese,Ukon (ウコン),Native,2026-06-26 15:48:13.689181
+349,Curcuma longa,ko,Korean,Ulgeumchai (울금),Native,2026-06-26 15:48:13.689181
+350,Curcuma longa,vi,Vietnamese,Nghệ,Latin,2026-06-26 15:48:13.689181
+351,Curcuma longa,th,Thai,Kha min (ขมิ้น),Native,2026-06-26 15:48:13.689181
+352,Curcuma longa,id,Indonesian,Kunyit,Latin,2026-06-26 15:48:13.689182
+353,Curcuma longa,ms,Malay,Kunyit,Latin,2026-06-26 15:48:13.689182
+354,Curcuma longa,tl,Filipino (Tagalog),Dilaw,Latin,2026-06-26 15:48:13.689182
+355,Curcuma longa,sw,Swahili,Manjano,Latin,2026-06-26 15:48:13.689183
+356,Curcuma longa,ha,Hausa,Gangamau,Latin,2026-06-26 15:48:13.689183
+357,Curcuma longa,pt,Portuguese,Açafrão-da-índia,Latin,2026-06-26 15:48:13.689183
+358,Curcuma longa,es,Spanish,Cúrcuma,Latin,2026-06-26 15:48:13.689184
+359,Curcuma longa,fr,French,Curcuma,Latin,2026-06-26 15:48:13.689184
+360,Curcuma longa,de,German,Kurkuma,Latin,2026-06-26 15:48:13.689184
+361,Curcuma longa,it,Italian,Curcuma,Native,2026-06-26 15:48:13.689185
+362,Curcuma longa,ru,Russian,Kurkuma (куркума),Native,2026-06-26 15:48:13.689185
+363,Carica papaya,en,English,Papaya,Latin,2026-06-26 15:48:13.689185
+364,Carica papaya,hi,Hindi,Papita (पपीता),Native,2026-06-26 15:48:13.689186
+365,Carica papaya,bn,Bengali,Pepe (পেঁপে),Native,2026-06-26 15:48:13.689186
+366,Carica papaya,te,Telugu,Boppai Pandu (బొప్పాయి),Native,2026-06-26 15:48:13.689186
+367,Carica papaya,ta,Tamil,Pappali (பப்பாளி),Native,2026-06-26 15:48:13.689186
+368,Carica papaya,kn,Kannada,Pappayi (ಪಪ್ಪಾಯ),Native,2026-06-26 15:48:13.689187
+369,Carica papaya,ml,Malayalam,Papaya (പപ്പായ),Native,2026-06-26 15:48:13.689187
+370,Carica papaya,mr,Marathi,Papai (पपई),Native,2026-06-26 15:48:13.689187
+371,Carica papaya,pa,Punjabi,Papita (ਪਪੀਤਾ),Native,2026-06-26 15:48:13.689188
+372,Carica papaya,gu,Gujarati,Papaya (પપૈયા),Native,2026-06-26 15:48:13.689188
+373,Carica papaya,ur,Urdu,Papita (پپیتا),Native,2026-06-26 15:48:13.689188
+374,Carica papaya,ar,Arabic,Babaya (بابايا),Native,2026-06-26 15:48:13.689189
+375,Carica papaya,zh,Chinese (Mandarin),Mùguā (木瓜),Native,2026-06-26 15:48:13.689189
+376,Carica papaya,ja,Japanese,Papaya (パパイア),Native,2026-06-26 15:48:13.689189
+377,Carica papaya,ko,Korean,Papaya (파파야),Native,2026-06-26 15:48:13.689189
+378,Carica papaya,vi,Vietnamese,Đu đủ,Latin,2026-06-26 15:48:13.689190
+379,Carica papaya,th,Thai,Malako (มะละกอ),Native,2026-06-26 15:48:13.689190
+380,Carica papaya,id,Indonesian,Pepaya,Latin,2026-06-26 15:48:13.689190
+381,Carica papaya,ms,Malay,Betik,Latin,2026-06-26 15:48:13.689191
+382,Carica papaya,tl,Filipino (Tagalog),Papaya,Latin,2026-06-26 15:48:13.689191
+383,Carica papaya,sw,Swahili,Papai,Latin,2026-06-26 15:48:13.689191
+384,Carica papaya,ha,Hausa,Gwandaflawa,Latin,2026-06-26 15:48:13.689192
+385,Carica papaya,yo,Yoruba,Ìbépé,Latin,2026-06-26 15:48:13.689192
+386,Carica papaya,pt,Portuguese,Mamão,Latin,2026-06-26 15:48:13.689192
+387,Carica papaya,es,Spanish,Papaya,Latin,2026-06-26 15:48:13.689192
+388,Carica papaya,fr,French,Papaye,Latin,2026-06-26 15:48:13.689193
+389,Carica papaya,de,German,Papaya,Latin,2026-06-26 15:48:13.689193
+390,Carica papaya,it,Italian,Papaia,Native,2026-06-26 15:48:13.689193
+391,Carica papaya,ru,Russian,Papaya (папайя),Native,2026-06-26 15:48:13.689194
+392,Glycine max,en,English,Soybean,Latin,2026-06-26 15:48:13.689194
+393,Glycine max,hi,Hindi,Soyabean (सोयाबीन),Native,2026-06-26 15:48:13.689194
+394,Glycine max,bn,Bengali,Soya (সয়া),Native,2026-06-26 15:48:13.689195
+395,Glycine max,te,Telugu,Soya Ginjalu (సోయా),Native,2026-06-26 15:48:13.689195
+396,Glycine max,ta,Tamil,Soya (சோயா),Native,2026-06-26 15:48:13.689195
+397,Glycine max,kn,Kannada,Soya (ಸೋಯಾ),Native,2026-06-26 15:48:13.689195
+398,Glycine max,ml,Malayalam,Soya Bean (സോയ ബീൻ),Native,2026-06-26 15:48:13.689196
+399,Glycine max,mr,Marathi,Soybean (सोयाबीन),Native,2026-06-26 15:48:13.689196
+400,Glycine max,ur,Urdu,Soya (سویا),Native,2026-06-26 15:48:13.689196
+401,Glycine max,ar,Arabic,Soya (فول الصويا),Native,2026-06-26 15:48:13.689197
+402,Glycine max,zh,Chinese (Mandarin),Dàdòu (大豆),Native,2026-06-26 15:48:13.689197
+403,Glycine max,ja,Japanese,Daizu (大豆),Native,2026-06-26 15:48:13.689197
+404,Glycine max,ko,Korean,Kong (콩),Native,2026-06-26 15:48:13.689198
+405,Glycine max,vi,Vietnamese,Đậu nành,Latin,2026-06-26 15:48:13.689198
+406,Glycine max,th,Thai,Thua Lueang (ถั่วเหลือง),Native,2026-06-26 15:48:13.689198
+407,Glycine max,id,Indonesian,Kedelai,Latin,2026-06-26 15:48:13.689199
+408,Glycine max,ms,Malay,Kacang soya,Latin,2026-06-26 15:48:13.689199
+409,Glycine max,tl,Filipino (Tagalog),Soybean,Latin,2026-06-26 15:48:13.689199
+410,Glycine max,sw,Swahili,Soya,Latin,2026-06-26 15:48:13.689199
+411,Glycine max,pt,Portuguese,Soja,Latin,2026-06-26 15:48:13.689200
+412,Glycine max,es,Spanish,Soja,Latin,2026-06-26 15:48:13.689200
+413,Glycine max,fr,French,Soja,Latin,2026-06-26 15:48:13.689200
+414,Glycine max,de,German,Sojabohne,Latin,2026-06-26 15:48:13.689201
+415,Glycine max,it,Italian,Soia,Native,2026-06-26 15:48:13.689201
+416,Glycine max,ru,Russian,Soya (соя),Native,2026-06-26 15:48:13.689201
+417,Glycine max,tr,Turkish,Soya fasulyesi,Latin,2026-06-26 15:48:13.689202
+418,Cicer arietinum,en,English,Chickpea (Bengal Gram),Latin,2026-06-26 15:48:13.689202
+419,Cicer arietinum,hi,Hindi,Chana (चना),Native,2026-06-26 15:48:13.689202
+420,Cicer arietinum,bn,Bengali,Boot (বুট),Native,2026-06-26 15:48:13.689202
+421,Cicer arietinum,te,Telugu,Sanagalu (సెనగలు),Native,2026-06-26 15:48:13.689203
+422,Cicer arietinum,ta,Tamil,Kadalai (கடலை),Native,2026-06-26 15:48:13.689203
+423,Cicer arietinum,kn,Kannada,Kadale (ಕಡಲೆ),Native,2026-06-26 15:48:13.689203
+424,Cicer arietinum,ml,Malayalam,Kadala (കടല),Native,2026-06-26 15:48:13.689204
+425,Cicer arietinum,mr,Marathi,Harbhara (हरभरा),Native,2026-06-26 15:48:13.689204
+426,Cicer arietinum,pa,Punjabi,Chhole (ਛੋਲੇ),Native,2026-06-26 15:48:13.689204
+427,Cicer arietinum,gu,Gujarati,Chana (ચણા),Native,2026-06-26 15:48:13.689205
+428,Cicer arietinum,ur,Urdu,Chana (چنا),Native,2026-06-26 15:48:13.689205
+429,Cicer arietinum,ar,Arabic,Hummus (حمص),Native,2026-06-26 15:48:13.689205
+430,Cicer arietinum,zh,Chinese (Mandarin),Ying zuì dòu (鹰嘴豆),Native,2026-06-26 15:48:13.689206
+431,Cicer arietinum,ja,Japanese,Hiyo kobe (ひよこ豆),Native,2026-06-26 15:48:13.689206
+432,Cicer arietinum,ko,Korean,Chickpea (병아리콩),Native,2026-06-26 15:48:13.689206
+433,Cicer arietinum,vi,Vietnamese,Đậu gà,Latin,2026-06-26 15:48:13.689206
+434,Cicer arietinum,th,Thai,Thua kho (ถั่วลูกไก่),Native,2026-06-26 15:48:13.689207
+435,Cicer arietinum,id,Indonesian,Kacang Arab,Latin,2026-06-26 15:48:13.689207
+436,Cicer arietinum,ms,Malay,Kacang kuda,Latin,2026-06-26 15:48:13.689207
+437,Cicer arietinum,tl,Filipino (Tagalog),Garbanzos,Latin,2026-06-26 15:48:13.689208
+438,Cicer arietinum,sw,Swahili,Njegere,Latin,2026-06-26 15:48:13.689208
+439,Cicer arietinum,ha,Hausa,Agwado,Latin,2026-06-26 15:48:13.689208
+440,Cicer arietinum,pt,Portuguese,Grão-de-bico,Latin,2026-06-26 15:48:13.689209
+441,Cicer arietinum,es,Spanish,Garbanzo,Latin,2026-06-26 15:48:13.689209
+442,Cicer arietinum,fr,French,Pois chiche,Latin,2026-06-26 15:48:13.689209
+443,Cicer arietinum,de,German,Kichererbse,Latin,2026-06-26 15:48:13.689209
+444,Cicer arietinum,it,Italian,Cece,Native,2026-06-26 15:48:13.689210
+445,Cicer arietinum,ru,Russian,Nut (нут),Native,2026-06-26 15:48:13.689210
+446,Cicer arietinum,tr,Turkish,Nohut,Latin,2026-06-26 15:48:13.689210
+447,Cajanus cajan,en,English,Pigeon Pea (Red Gram),Latin,2026-06-26 15:48:13.689211
+448,Cajanus cajan,hi,Hindi,Arhar / Tur (अरहर),Native,2026-06-26 15:48:13.689211
+449,Cajanus cajan,bn,Bengali,Arhar (অড়হর),Native,2026-06-26 15:48:13.689211
+450,Cajanus cajan,te,Telugu,Kandi Pappu (కంది పప్పు),Native,2026-06-26 15:48:13.689212
+451,Cajanus cajan,ta,Tamil,Thuvaram (துவரை),Native,2026-06-26 15:48:13.689212
+452,Cajanus cajan,kn,Kannada,Thogari (ತೊಗರಿ),Native,2026-06-26 15:48:13.689212
+453,Cajanus cajan,ml,Malayalam,Thuvara (തുവര),Native,2026-06-26 15:48:13.689213
+454,Cajanus cajan,mr,Marathi,Tur (तूर),Native,2026-06-26 15:48:13.689213
+455,Cajanus cajan,pa,Punjabi,Arhar (ਅਰਹਰ),Native,2026-06-26 15:48:13.689213
+456,Cajanus cajan,gu,Gujarati,Tuver (તુવેર),Native,2026-06-26 15:48:13.689213
+457,Cajanus cajan,ur,Urdu,Arhar (ارہر),Native,2026-06-26 15:48:13.689214
+458,Cajanus cajan,ar,Arabic,Adas (عدس حلبي),Native,2026-06-26 15:48:13.689214
+459,Cajanus cajan,sw,Swahili,Mbaazi,Latin,2026-06-26 15:48:13.689214
+460,Cajanus cajan,ha,Hausa,Wake,Latin,2026-06-26 15:48:13.689215
+461,Cajanus cajan,yo,Yoruba,Ẹ̀wà,Latin,2026-06-26 15:48:13.689215
+462,Cajanus cajan,pt,Portuguese,Ervilha-pombo,Latin,2026-06-26 15:48:13.689215
+463,Cajanus cajan,es,Spanish,Gandul,Latin,2026-06-26 15:48:13.689216
+464,Cajanus cajan,fr,French,Pois d'Angole,Latin,2026-06-26 15:48:13.689216
+465,Cajanus cajan,de,German,Straucherbse,Latin,2026-06-26 15:48:13.689216
+466,Vigna radiata,en,English,Mung Bean (Green Gram),Latin,2026-06-26 15:48:13.689216
+467,Vigna radiata,hi,Hindi,Moong (मूंग),Native,2026-06-26 15:48:13.689217
+468,Vigna radiata,bn,Bengali,Mug (মুগ),Native,2026-06-26 15:48:13.689217
+469,Vigna radiata,te,Telugu,Pesalu (పెసలు),Native,2026-06-26 15:48:13.689217
+470,Vigna radiata,ta,Tamil,Pasiparuppu (பாசிப்பருப்பு),Native,2026-06-26 15:48:13.689218
+471,Vigna radiata,kn,Kannada,Hesaru Kaalu (ಹೆಸರು ಕಾಳು),Native,2026-06-26 15:48:13.689218
+472,Vigna radiata,ml,Malayalam,Cherupayar (ചെറുപയർ),Native,2026-06-26 15:48:13.689218
+473,Vigna radiata,mr,Marathi,Mug (मूग),Native,2026-06-26 15:48:13.689219
+474,Vigna radiata,pa,Punjabi,Mung (ਮੂੰਗ),Native,2026-06-26 15:48:13.689219
+475,Vigna radiata,gu,Gujarati,Moong (મગ),Native,2026-06-26 15:48:13.689219
+476,Vigna radiata,ur,Urdu,Moong (مونگ),Native,2026-06-26 15:48:13.689220
+477,Vigna radiata,ar,Arabic,Adas Akhdar (عدس أخضر),Native,2026-06-26 15:48:13.689220
+478,Vigna radiata,zh,Chinese (Mandarin),Lǜdòu (绿豆),Native,2026-06-26 15:48:13.689220
+479,Vigna radiata,ja,Japanese,Ryokuto (緑豆),Native,2026-06-26 15:48:13.689221
+480,Vigna radiata,ko,Korean,Nokdu (녹두),Native,2026-06-26 15:48:13.689221
+481,Vigna radiata,vi,Vietnamese,Đậu xanh,Latin,2026-06-26 15:48:13.689221
+482,Vigna radiata,th,Thai,Thua khiao (ถั่วเขียว),Native,2026-06-26 15:48:13.689221
+483,Vigna radiata,id,Indonesian,Kacang hijau,Latin,2026-06-26 15:48:13.689222
+484,Vigna radiata,ms,Malay,Kacang hijau,Latin,2026-06-26 15:48:13.689222
+485,Vigna radiata,tl,Filipino (Tagalog),Munggo,Latin,2026-06-26 15:48:13.689222
+486,Vigna radiata,sw,Swahili,Maharagwe ya kijani,Latin,2026-06-26 15:48:13.689223
+487,Vigna radiata,pt,Portuguese,Feijão-verde,Latin,2026-06-26 15:48:13.689223
+488,Vigna radiata,es,Spanish,Frijol mungo,Latin,2026-06-26 15:48:13.689223
+489,Vigna radiata,fr,French,Haricot mungo,Latin,2026-06-26 15:48:13.689224
+490,Vigna radiata,de,German,Mungbohne,Latin,2026-06-26 15:48:13.689224
+491,Arachis hypogaea,en,English,Groundnut / Peanut,Latin,2026-06-26 15:48:13.689224
+492,Arachis hypogaea,hi,Hindi,Mungphali (मूंगफली),Native,2026-06-26 15:48:13.689224
+493,Arachis hypogaea,bn,Bengali,Cheenabadam (চিনাবাদাম),Native,2026-06-26 15:48:13.689225
+494,Arachis hypogaea,te,Telugu,Verusenaga (వేరుసెనగ),Native,2026-06-26 15:48:13.689225
+495,Arachis hypogaea,ta,Tamil,Kadalai (கடலை),Native,2026-06-26 15:48:13.689225
+496,Arachis hypogaea,kn,Kannada,Kadalekayi (ಕಡ್ಲೇಕಾಯಿ),Native,2026-06-26 15:48:13.689226
+497,Arachis hypogaea,ml,Malayalam,Nelakadala (നിലക്കടല),Native,2026-06-26 15:48:13.689227
+498,Arachis hypogaea,mr,Marathi,Shengan (शेंगाना),Native,2026-06-26 15:48:13.689227
+499,Arachis hypogaea,pa,Punjabi,Moonphali (ਮੂੰਗਫਲੀ),Native,2026-06-26 15:48:13.689228
+500,Arachis hypogaea,gu,Gujarati,Shing (સિંગ),Native,2026-06-26 15:48:13.689228
+501,Arachis hypogaea,ur,Urdu,Moonphali (مونگ پھلی),Native,2026-06-26 15:48:13.689228
+502,Arachis hypogaea,ar,Arabic,Ful Sudan (فول سوداني),Native,2026-06-26 15:48:13.689229
+503,Arachis hypogaea,zh,Chinese (Mandarin),Huāshēng (花生),Native,2026-06-26 15:48:13.689229
+504,Arachis hypogaea,ja,Japanese,Rakkasei (落花生),Native,2026-06-26 15:48:13.689229
+505,Arachis hypogaea,ko,Korean,Ttangkong (땅콩),Native,2026-06-26 15:48:13.689229
+506,Arachis hypogaea,vi,Vietnamese,Lạc / Đậu phộng,Latin,2026-06-26 15:48:13.689230
+507,Arachis hypogaea,th,Thai,Thua lisong (ถั่วลิสง),Native,2026-06-26 15:48:13.689230
+508,Arachis hypogaea,id,Indonesian,Kacang tanah,Latin,2026-06-26 15:48:13.689230
+509,Arachis hypogaea,ms,Malay,Kacang tanah,Latin,2026-06-26 15:48:13.689231
+510,Arachis hypogaea,tl,Filipino (Tagalog),Mani,Latin,2026-06-26 15:48:13.689231
+511,Arachis hypogaea,sw,Swahili,Karanga,Latin,2026-06-26 15:48:13.689231
+512,Arachis hypogaea,ha,Hausa,Gyada,Latin,2026-06-26 15:48:13.689232
+513,Arachis hypogaea,yo,Yoruba,Epa,Latin,2026-06-26 15:48:13.689232
+514,Arachis hypogaea,ig,Igbo,Ahụ̀ọ̀cha,Native,2026-06-26 15:48:13.689232
+515,Arachis hypogaea,am,Amharic,Yegena ater (የጤፍ),Native,2026-06-26 15:48:13.689232
+516,Arachis hypogaea,pt,Portuguese,Amendoim,Latin,2026-06-26 15:48:13.689233
+517,Arachis hypogaea,es,Spanish,Cacahuate/Maní,Latin,2026-06-26 15:48:13.689233
+518,Arachis hypogaea,fr,French,Arachide,Latin,2026-06-26 15:48:13.689233
+519,Arachis hypogaea,de,German,Erdnuss,Latin,2026-06-26 15:48:13.689234
+520,Arachis hypogaea,it,Italian,Arachide,Native,2026-06-26 15:48:13.689234
+521,Arachis hypogaea,ru,Russian,Arakhis (арахис),Native,2026-06-26 15:48:13.689234
+522,Arachis hypogaea,tr,Turkish,Yerfıstığı,Latin,2026-06-26 15:48:13.689235
+523,Cocos nucifera,en,English,Coconut,Latin,2026-06-26 15:48:13.689235
+524,Cocos nucifera,hi,Hindi,Nariyal (नारियल),Native,2026-06-26 15:48:13.689235
+525,Cocos nucifera,bn,Bengali,Narkel (নারকেল),Native,2026-06-26 15:48:13.689236
+526,Cocos nucifera,te,Telugu,Kobbari (కొబ్బరి),Native,2026-06-26 15:48:13.689236
+527,Cocos nucifera,ta,Tamil,Thengai (தேங்காய்),Native,2026-06-26 15:48:13.689236
+528,Cocos nucifera,kn,Kannada,Tenginakayi (ತೆಂಗಿನಕಾಯಿ),Native,2026-06-26 15:48:13.689236
+529,Cocos nucifera,ml,Malayalam,Thenga (തെങ്ങ്),Native,2026-06-26 15:48:13.689237
+530,Cocos nucifera,mr,Marathi,Naral (नारळ),Native,2026-06-26 15:48:13.689237
+531,Cocos nucifera,pa,Punjabi,Nariyal (ਨਾਰੀਅਲ),Native,2026-06-26 15:48:13.689237
+532,Cocos nucifera,gu,Gujarati,Nadiyer (નારિયેળ),Native,2026-06-26 15:48:13.689238
+533,Cocos nucifera,ur,Urdu,Nariyal (ناریل),Native,2026-06-26 15:48:13.689238
+534,Cocos nucifera,ar,Arabic,Jawz al-hind (جوز الهند),Native,2026-06-26 15:48:13.689238
+535,Cocos nucifera,zh,Chinese (Mandarin),Yēzi (椰子),Native,2026-06-26 15:48:13.689239
+536,Cocos nucifera,ja,Japanese,Kokonattsu (ヤシの実),Native,2026-06-26 15:48:13.689239
+537,Cocos nucifera,ko,Korean,Coconut (코코넛),Native,2026-06-26 15:48:13.689239
+538,Cocos nucifera,vi,Vietnamese,Dừa,Latin,2026-06-26 15:48:13.689240
+539,Cocos nucifera,th,Thai,Maphrao (มะพร้าว),Native,2026-06-26 15:48:13.689240
+540,Cocos nucifera,id,Indonesian,Kelapa,Latin,2026-06-26 15:48:13.689240
+541,Cocos nucifera,ms,Malay,Kelapa,Latin,2026-06-26 15:48:13.689240
+542,Cocos nucifera,tl,Filipino (Tagalog),Niyog,Latin,2026-06-26 15:48:13.689241
+543,Cocos nucifera,sw,Swahili,Nazi,Latin,2026-06-26 15:48:13.689241
+544,Cocos nucifera,ha,Hausa,Kwakwa,Latin,2026-06-26 15:48:13.689241
+545,Cocos nucifera,yo,Yoruba,Agbon,Latin,2026-06-26 15:48:13.689242
+546,Cocos nucifera,pt,Portuguese,Coco,Latin,2026-06-26 15:48:13.689242
+547,Cocos nucifera,es,Spanish,Coco,Latin,2026-06-26 15:48:13.689242
+548,Cocos nucifera,fr,French,Noix de coco,Latin,2026-06-26 15:48:13.689243
+549,Cocos nucifera,de,German,Kokosnuss,Latin,2026-06-26 15:48:13.689243
+550,Cocos nucifera,it,Italian,Noce di cocco,Native,2026-06-26 15:48:13.689243
+551,Cocos nucifera,ru,Russian,Kokos (кокос),Native,2026-06-26 15:48:13.689243
+552,Saccharum officinarum,en,English,Sugarcane,Latin,2026-06-26 15:48:13.689244
+553,Saccharum officinarum,hi,Hindi,Ganna (गन्ना),Native,2026-06-26 15:48:13.689244
+554,Saccharum officinarum,bn,Bengali,Aakh (আখ),Native,2026-06-26 15:48:13.689244
+555,Saccharum officinarum,te,Telugu,Cheruku (చెరుకు),Native,2026-06-26 15:48:13.689245
+556,Saccharum officinarum,ta,Tamil,Karumbu (கரும்பு),Native,2026-06-26 15:48:13.689245
+557,Saccharum officinarum,kn,Kannada,Kabbu (ಕಬ್ಬು),Native,2026-06-26 15:48:13.689245
+558,Saccharum officinarum,ml,Malayalam,Karumbu (കരിമ്പ്),Native,2026-06-26 15:48:13.689246
+559,Saccharum officinarum,mr,Marathi,Oos (ऊस),Native,2026-06-26 15:48:13.689246
+560,Saccharum officinarum,pa,Punjabi,Ganna (ਗੰਨਾ),Native,2026-06-26 15:48:13.689246
+561,Saccharum officinarum,gu,Gujarati,Svaradi (શેરડી),Native,2026-06-26 15:48:13.689246
+562,Saccharum officinarum,ur,Urdu,Ganna (گنا),Native,2026-06-26 15:48:13.689247
+563,Saccharum officinarum,ar,Arabic,Qasab al-sukkar (قصب السكر),Native,2026-06-26 15:48:13.689247
+564,Saccharum officinarum,zh,Chinese (Mandarin),Gānzhè (甘蔗),Native,2026-06-26 15:48:13.689247
+565,Saccharum officinarum,ja,Japanese,Satōkibi (サトウキビ),Native,2026-06-26 15:48:13.689248
+566,Saccharum officinarum,ko,Korean,Satong Susu (사탕수수),Native,2026-06-26 15:48:13.689248
+567,Saccharum officinarum,vi,Vietnamese,Mía,Latin,2026-06-26 15:48:13.689248
+568,Saccharum officinarum,th,Thai,Oi (อ้อย),Native,2026-06-26 15:48:13.689249
+569,Saccharum officinarum,id,Indonesian,Tebu,Latin,2026-06-26 15:48:13.689249
+570,Saccharum officinarum,ms,Malay,Tebu,Latin,2026-06-26 15:48:13.689249
+571,Saccharum officinarum,tl,Filipino (Tagalog),Tubo,Latin,2026-06-26 15:48:13.689250
+572,Saccharum officinarum,sw,Swahili,Miwa,Latin,2026-06-26 15:48:13.689250
+573,Saccharum officinarum,ha,Hausa,Rake,Latin,2026-06-26 15:48:13.689250
+574,Saccharum officinarum,yo,Yoruba,Ireke,Latin,2026-06-26 15:48:13.689250
+575,Saccharum officinarum,pt,Portuguese,Cana-de-açúcar,Latin,2026-06-26 15:48:13.689251
+576,Saccharum officinarum,es,Spanish,Caña de azúcar,Latin,2026-06-26 15:48:13.689251
+577,Saccharum officinarum,fr,French,Canne à sucre,Latin,2026-06-26 15:48:13.689251
+578,Saccharum officinarum,de,German,Zuckerrohr,Latin,2026-06-26 15:48:13.689252
+579,Saccharum officinarum,it,Italian,Canna da zucchero,Native,2026-06-26 15:48:13.689252
+580,Saccharum officinarum,ru,Russian,Sakharniy trostnik (сахарный тростник),Native,2026-06-26 15:48:13.689252
+581,Gossypium hirsutum,en,English,Cotton,Latin,2026-06-26 15:48:13.689253
+582,Gossypium hirsutum,hi,Hindi,Kapas (कपास),Native,2026-06-26 15:48:13.689253
+583,Gossypium hirsutum,bn,Bengali,Kapas (কাপাস),Native,2026-06-26 15:48:13.689253
+584,Gossypium hirsutum,te,Telugu,Patti (పత్తి),Native,2026-06-26 15:48:13.689254
+585,Gossypium hirsutum,ta,Tamil,Panjhu (பஞ்சு),Native,2026-06-26 15:48:13.689254
+586,Gossypium hirsutum,kn,Kannada,Hatti (ಹತ್ತಿ),Native,2026-06-26 15:48:13.689254
+587,Gossypium hirsutum,ml,Malayalam,Panjhu (പഞ്ഞി),Native,2026-06-26 15:48:13.689254
+588,Gossypium hirsutum,mr,Marathi,Kapus (कापूस),Native,2026-06-26 15:48:13.689255
+589,Gossypium hirsutum,pa,Punjabi,Narma (ਨਰਮਾ),Native,2026-06-26 15:48:13.689255
+590,Gossypium hirsutum,gu,Gujarati,Kapas (કપાસ),Native,2026-06-26 15:48:13.689255
+591,Gossypium hirsutum,ur,Urdu,Kapas (کپاس),Native,2026-06-26 15:48:13.689256
+592,Gossypium hirsutum,ar,Arabic,Qutn (قطن),Native,2026-06-26 15:48:13.689256
+593,Gossypium hirsutum,zh,Chinese (Mandarin),Miánhuā (棉花),Native,2026-06-26 15:48:13.689256
+594,Gossypium hirsutum,ja,Japanese,Wata (綿),Native,2026-06-26 15:48:13.689257
+595,Gossypium hirsutum,ko,Korean,Soru (솜),Native,2026-06-26 15:48:13.689257
+596,Gossypium hirsutum,vi,Vietnamese,Bông vải,Latin,2026-06-26 15:48:13.689257
+597,Gossypium hirsutum,th,Thai,Fai (ฝ้าย),Native,2026-06-26 15:48:13.689258
+598,Gossypium hirsutum,id,Indonesian,Kapas,Latin,2026-06-26 15:48:13.689258
+599,Gossypium hirsutum,ms,Malay,Kapas,Latin,2026-06-26 15:48:13.689258
+600,Gossypium hirsutum,tl,Filipino (Tagalog),Bulak,Latin,2026-06-26 15:48:13.689259
+601,Gossypium hirsutum,sw,Swahili,Pamba,Latin,2026-06-26 15:48:13.689259
+602,Gossypium hirsutum,ha,Hausa,Auduga,Latin,2026-06-26 15:48:13.689259
+603,Gossypium hirsutum,yo,Yoruba,Owu,Latin,2026-06-26 15:48:13.689259
+604,Gossypium hirsutum,pt,Portuguese,Algodão,Latin,2026-06-26 15:48:13.689260
+605,Gossypium hirsutum,es,Spanish,Algodón,Latin,2026-06-26 15:48:13.689260
+606,Gossypium hirsutum,fr,French,Coton,Latin,2026-06-26 15:48:13.689260
+607,Gossypium hirsutum,de,German,Baumwolle,Latin,2026-06-26 15:48:13.689261
+608,Gossypium hirsutum,it,Italian,Cotone,Native,2026-06-26 15:48:13.689261
+609,Gossypium hirsutum,ru,Russian,Khlopok (хлопок),Native,2026-06-26 15:48:13.689261
+610,Gossypium hirsutum,tr,Turkish,Pamuk,Latin,2026-06-26 15:48:13.689262
+611,Coffea arabica,en,English,Coffee (Arabica),Latin,2026-06-26 15:48:13.689262
+612,Coffea arabica,hi,Hindi,Kahwa (काफी),Native,2026-06-26 15:48:13.689262
+613,Coffea arabica,bn,Bengali,Kafi (কফি),Native,2026-06-26 15:48:13.689263
+614,Coffea arabica,te,Telugu,Coffee (కాఫీ),Native,2026-06-26 15:48:13.689263
+615,Coffea arabica,ta,Tamil,Coffee (காபி),Native,2026-06-26 15:48:13.689263
+616,Coffea arabica,kn,Kannada,Coffee (ಕಾಫಿ),Native,2026-06-26 15:48:13.689264
+617,Coffea arabica,ml,Malayalam,Coffee (കോഫി),Native,2026-06-26 15:48:13.689264
+618,Coffea arabica,mr,Marathi,Coffee (कॉफी),Native,2026-06-26 15:48:13.689264
+619,Coffea arabica,ar,Arabic,Qahwa (قهوة),Native,2026-06-26 15:48:13.689264
+620,Coffea arabica,zh,Chinese (Mandarin),Kāfēi (咖啡),Native,2026-06-26 15:48:13.689265
+621,Coffea arabica,ja,Japanese,Kōhī (コーヒー),Native,2026-06-26 15:48:13.689265
+622,Coffea arabica,ko,Korean,Keopi (커피),Native,2026-06-26 15:48:13.689265
+623,Coffea arabica,vi,Vietnamese,Cà phê,Latin,2026-06-26 15:48:13.689266
+624,Coffea arabica,th,Thai,Kafae (กาแฟ),Native,2026-06-26 15:48:13.689266
+625,Coffea arabica,id,Indonesian,Kopi,Latin,2026-06-26 15:48:13.689266
+626,Coffea arabica,ms,Malay,Kopi,Latin,2026-06-26 15:48:13.689267
+627,Coffea arabica,tl,Filipino (Tagalog),Kape,Latin,2026-06-26 15:48:13.689267
+628,Coffea arabica,sw,Swahili,Kahawa,Latin,2026-06-26 15:48:13.689267
+629,Coffea arabica,ha,Hausa,Kofi,Latin,2026-06-26 15:48:13.689268
+630,Coffea arabica,yo,Yoruba,Kòfí,Latin,2026-06-26 15:48:13.689268
+631,Coffea arabica,am,Amharic,Bunna (ቡና),Native,2026-06-26 15:48:13.689268
+632,Coffea arabica,pt,Portuguese,Café,Latin,2026-06-26 15:48:13.689269
+633,Coffea arabica,es,Spanish,Café,Latin,2026-06-26 15:48:13.689269
+634,Coffea arabica,fr,French,Café,Latin,2026-06-26 15:48:13.689269
+635,Coffea arabica,de,German,Kaffee,Latin,2026-06-26 15:48:13.689270
+636,Coffea arabica,it,Italian,Caffè,Native,2026-06-26 15:48:13.689270
+637,Coffea arabica,ru,Russian,Kofe (кофе),Native,2026-06-26 15:48:13.689270
+638,Coffea arabica,tr,Turkish,Kahve,Latin,2026-06-26 15:48:13.689270
+639,Camellia sinensis,en,English,Tea,Latin,2026-06-26 15:48:13.689271
+640,Camellia sinensis,hi,Hindi,Chai (चाय),Native,2026-06-26 15:48:13.689271
+641,Camellia sinensis,bn,Bengali,Cha (চা),Native,2026-06-26 15:48:13.689271
+642,Camellia sinensis,te,Telugu,Tea (టీ),Native,2026-06-26 15:48:13.689272
+643,Camellia sinensis,ta,Tamil,Theneer (தேயிலை),Native,2026-06-26 15:48:13.689272
+644,Camellia sinensis,kn,Kannada,Tea (ಚಹಾ),Native,2026-06-26 15:48:13.689272
+645,Camellia sinensis,ml,Malayalam,Chaya (ചായ),Native,2026-06-26 15:48:13.689273
+646,Camellia sinensis,mr,Marathi,Chai (चहा),Native,2026-06-26 15:48:13.689273
+647,Camellia sinensis,pa,Punjabi,Chai (ਚਾਹ),Native,2026-06-26 15:48:13.689273
+648,Camellia sinensis,ar,Arabic,Shay (شاي),Native,2026-06-26 15:48:13.689274
+649,Camellia sinensis,zh,Chinese (Mandarin),Chá (茶),Native,2026-06-26 15:48:13.689274
+650,Camellia sinensis,ja,Japanese,Cha (お茶),Native,2026-06-26 15:48:13.689274
+651,Camellia sinensis,ko,Korean,Cha (차),Native,2026-06-26 15:48:13.689275
+652,Camellia sinensis,vi,Vietnamese,Trà,Latin,2026-06-26 15:48:13.689275
+653,Camellia sinensis,th,Thai,Cha (ชา),Native,2026-06-26 15:48:13.689275
+654,Camellia sinensis,id,Indonesian,Teh,Latin,2026-06-26 15:48:13.689275
+655,Camellia sinensis,ms,Malay,Teh,Latin,2026-06-26 15:48:13.689276
+656,Camellia sinensis,tl,Filipino (Tagalog),Tsaa,Latin,2026-06-26 15:48:13.689276
+657,Camellia sinensis,sw,Swahili,Chai,Latin,2026-06-26 15:48:13.689276
+658,Camellia sinensis,am,Amharic,Shai (ሻይ),Native,2026-06-26 15:48:13.689277
+659,Camellia sinensis,pt,Portuguese,Chá,Latin,2026-06-26 15:48:13.689277
+660,Camellia sinensis,es,Spanish,Té,Latin,2026-06-26 15:48:13.689277
+661,Camellia sinensis,fr,French,Thé,Latin,2026-06-26 15:48:13.689278
+662,Camellia sinensis,de,German,Tee,Latin,2026-06-26 15:48:13.689278
+663,Camellia sinensis,it,Italian,Tè,Native,2026-06-26 15:48:13.689278
+664,Camellia sinensis,ru,Russian,Chay (чай),Native,2026-06-26 15:48:13.689279
+665,Camellia sinensis,tr,Turkish,Çay,Latin,2026-06-26 15:48:13.689279
+666,Azadirachta indica,en,English,Neem,Latin,2026-06-26 15:48:13.689279
+667,Azadirachta indica,hi,Hindi,Neem (नीम),Native,2026-06-26 15:48:13.689280
+668,Azadirachta indica,bn,Bengali,Neem (নিম),Native,2026-06-26 15:48:13.689280
+669,Azadirachta indica,te,Telugu,Vepa (వేప),Native,2026-06-26 15:48:13.689280
+670,Azadirachta indica,ta,Tamil,Vembu (வேம்பு),Native,2026-06-26 15:48:13.689281
+671,Azadirachta indica,kn,Kannada,Bevu (ಬೇವು),Native,2026-06-26 15:48:13.689281
+672,Azadirachta indica,ml,Malayalam,Veppam (വേപ്പ്),Native,2026-06-26 15:48:13.689281
+673,Azadirachta indica,mr,Marathi,Kadu Limb (कडुलिंब),Native,2026-06-26 15:48:13.689281
+674,Azadirachta indica,pa,Punjabi,Neem (ਨਿੰਮ),Native,2026-06-26 15:48:13.689282
+675,Azadirachta indica,gu,Gujarati,Limado (લીમડો),Native,2026-06-26 15:48:13.689282
+676,Azadirachta indica,ur,Urdu,Neem (نیم),Native,2026-06-26 15:48:13.689282
+677,Azadirachta indica,ar,Arabic,Neem (ليمون مر),Native,2026-06-26 15:48:13.689283
+678,Azadirachta indica,sw,Swahili,Mwarobaini,Latin,2026-06-26 15:48:13.689283
+679,Azadirachta indica,ha,Hausa,Dogonyaro,Latin,2026-06-26 15:48:13.689283
+680,Azadirachta indica,yo,Yoruba,Dongoyaro,Latin,2026-06-26 15:48:13.689284
+681,Azadirachta indica,pt,Portuguese,Nim,Latin,2026-06-26 15:48:13.689284
+682,Azadirachta indica,es,Spanish,Nim,Latin,2026-06-26 15:48:13.689284
+683,Azadirachta indica,fr,French,Margousier,Latin,2026-06-26 15:48:13.689285
+684,Azadirachta indica,de,German,Niembaum,Latin,2026-06-26 15:48:13.689285
+685,Azadirachta indica,ms,Malay,Pokok neem,Latin,2026-06-26 15:48:13.689285
+686,Azadirachta indica,id,Indonesian,Pohon neem,Latin,2026-06-26 15:48:13.689286
+687,Ocimum tenuiflorum,en,English,Tulsi / Holy Basil,Latin,2026-06-26 15:48:13.689286
+688,Ocimum tenuiflorum,hi,Hindi,Tulsi (तुलसी),Native,2026-06-26 15:48:13.689286
+689,Ocimum tenuiflorum,bn,Bengali,Tulsi (তুলসী),Native,2026-06-26 15:48:13.689286
+690,Ocimum tenuiflorum,te,Telugu,Tulasi (తులసి),Native,2026-06-26 15:48:13.689287
+691,Ocimum tenuiflorum,ta,Tamil,Thulasi (துளசி),Native,2026-06-26 15:48:13.689287
+692,Ocimum tenuiflorum,kn,Kannada,Tulasi (ತುಳಸಿ),Native,2026-06-26 15:48:13.689287
+693,Ocimum tenuiflorum,ml,Malayalam,Thulasi (തുളസി),Native,2026-06-26 15:48:13.689288
+694,Ocimum tenuiflorum,mr,Marathi,Tulashi (तुळस),Native,2026-06-26 15:48:13.689288
+695,Ocimum tenuiflorum,pa,Punjabi,Tulsi (ਤੁਲਸੀ),Native,2026-06-26 15:48:13.689288
+696,Ocimum tenuiflorum,gu,Gujarati,Tulsi (તુલસી),Native,2026-06-26 15:48:13.689289
+697,Ocimum tenuiflorum,ur,Urdu,Tulsi (تلسی),Native,2026-06-26 15:48:13.689289
+698,Ocimum tenuiflorum,si,Sinhala,Tulasi (තුළසි),Native,2026-06-26 15:48:13.689289
+699,Ocimum tenuiflorum,ne,Nepali,Tulsi (तुलसी),Native,2026-06-26 15:48:13.689290
+700,Ocimum tenuiflorum,th,Thai,Kraphao (กะเพรา),Native,2026-06-26 15:48:13.689290
+701,Ocimum tenuiflorum,id,Indonesian,Kemangi,Latin,2026-06-26 15:48:13.689290
+702,Ocimum tenuiflorum,ms,Malay,Selasih,Latin,2026-06-26 15:48:13.689291
+703,Withania somnifera,en,English,Ashwagandha / Indian Ginseng,Latin,2026-06-26 15:48:13.689291
+704,Withania somnifera,hi,Hindi,Ashwagandha (अश्वगंधा),Native,2026-06-26 15:48:13.689291
+705,Withania somnifera,bn,Bengali,Ashwagandha (অশ্বগন্ধা),Native,2026-06-26 15:48:13.689292
+706,Withania somnifera,te,Telugu,Aswagandha (అశ్వగంధ),Native,2026-06-26 15:48:13.689292
+707,Withania somnifera,ta,Tamil,Amukkara (அமுக்கரா),Native,2026-06-26 15:48:13.689292
+708,Withania somnifera,kn,Kannada,Ashwagandha (ಅಶ್ವಗಂಧ),Native,2026-06-26 15:48:13.689292
+709,Withania somnifera,ml,Malayalam,Amukkuram (അമുക്കുരം),Native,2026-06-26 15:48:13.689293
+710,Withania somnifera,mr,Marathi,Ashwagandha (अश्वगंधा),Native,2026-06-26 15:48:13.689293
+711,Withania somnifera,ur,Urdu,Asgandh (اشواگندھ),Native,2026-06-26 15:48:13.689293
+712,Withania somnifera,ar,Arabic,Ashwagandha (أشواغاندا),Native,2026-06-26 15:48:13.689294
+713,Withania somnifera,zh,Chinese (Mandarin),Nan fei zui qie (南非醉茄),Native,2026-06-26 15:48:13.689294
+714,Aloe vera,en,English,Aloe Vera,Latin,2026-06-26 15:48:13.689294
+715,Aloe vera,hi,Hindi,Ghritkumari (घृतकुमारी),Native,2026-06-26 15:48:13.689295
+716,Aloe vera,bn,Bengali,Aloe Vera (অ্যালোভেরা),Native,2026-06-26 15:48:13.689295
+717,Aloe vera,te,Telugu,Kalabanda (కలబంద),Native,2026-06-26 15:48:13.689295
+718,Aloe vera,ta,Tamil,Sotrukatralai (சோற்றுக் கற்றாழை),Native,2026-06-26 15:48:13.689296
+719,Aloe vera,kn,Kannada,Lolesara (ಲೋಳೆ ಸಾರ),Native,2026-06-26 15:48:13.689296
+720,Aloe vera,ml,Malayalam,Kuthamb (കൂടം),Native,2026-06-26 15:48:13.689296
+721,Aloe vera,mr,Marathi,Korphad (कोरफड),Native,2026-06-26 15:48:13.689296
+722,Aloe vera,pa,Punjabi,Aloe (ਐਲੋਵੇਰਾ),Native,2026-06-26 15:48:13.689297
+723,Aloe vera,gu,Gujarati,Kumari (કુંવાર),Native,2026-06-26 15:48:13.689297
+724,Aloe vera,ar,Arabic,Sabbar (صبار),Native,2026-06-26 15:48:13.689297
+725,Aloe vera,zh,Chinese (Mandarin),Lúhuì (芦荟),Native,2026-06-26 15:48:13.689298
+726,Aloe vera,ja,Japanese,Aloe (アロエ),Native,2026-06-26 15:48:13.689298
+727,Aloe vera,th,Thai,Wan hang chorakhe (ว่านหางจระเข้),Native,2026-06-26 15:48:13.689298
+728,Aloe vera,id,Indonesian,Lidah buaya,Latin,2026-06-26 15:48:13.689299
+729,Aloe vera,ms,Malay,Pokok Aloe Vera,Latin,2026-06-26 15:48:13.689299
+730,Aloe vera,sw,Swahili,Aloe,Latin,2026-06-26 15:48:13.689299
+731,Aloe vera,pt,Portuguese,Babosa,Latin,2026-06-26 15:48:13.689299
+732,Aloe vera,es,Spanish,Sábila,Latin,2026-06-26 15:48:13.689300
+733,Aloe vera,fr,French,Aloe,Latin,2026-06-26 15:48:13.689300
+734,Aloe vera,de,German,Aloe,Latin,2026-06-26 15:48:13.689300
+735,Aloe vera,it,Italian,Aloe vera,Native,2026-06-26 15:48:13.689301
+736,Moringa oleifera,en,English,Moringa / Drumstick Tree,Latin,2026-06-26 15:48:13.689301
+737,Moringa oleifera,hi,Hindi,Sahjan (सहजन),Native,2026-06-26 15:48:13.689301
+738,Moringa oleifera,bn,Bengali,Sajna (সজনে),Native,2026-06-26 15:48:13.689302
+739,Moringa oleifera,te,Telugu,Mulaga (మునగ),Native,2026-06-26 15:48:13.689302
+740,Moringa oleifera,ta,Tamil,Murungai (முருங்கை),Native,2026-06-26 15:48:13.689302
+741,Moringa oleifera,kn,Kannada,Nugge (ನುಗ್ಗೆ),Native,2026-06-26 15:48:13.689302
+742,Moringa oleifera,ml,Malayalam,Muringa (മുരിങ്ങ),Native,2026-06-26 15:48:13.689303
+743,Moringa oleifera,mr,Marathi,Shevga (शेवगा),Native,2026-06-26 15:48:13.689303
+744,Moringa oleifera,pa,Punjabi,Sohanjana (ਸਹਿਜਣਾ),Native,2026-06-26 15:48:13.689303
+745,Moringa oleifera,gu,Gujarati,Saragvo (સરગવો),Native,2026-06-26 15:48:13.689304
+746,Moringa oleifera,ur,Urdu,Sahjan (سہجن),Native,2026-06-26 15:48:13.689304
+747,Moringa oleifera,ar,Arabic,Rawaq (رواق),Native,2026-06-26 15:48:13.689304
+748,Moringa oleifera,zh,Chinese (Mandarin),Lamu ye (辣木),Native,2026-06-26 15:48:13.689305
+749,Moringa oleifera,sw,Swahili,Mzungu (Moringa),Latin,2026-06-26 15:48:13.689305
+750,Moringa oleifera,ha,Hausa,Zogale,Latin,2026-06-26 15:48:13.689305
+751,Moringa oleifera,yo,Yoruba,Igbale Ogangun,Latin,2026-06-26 15:48:13.689306
+752,Moringa oleifera,am,Amharic,Shiferaw (ሽፌራ),Native,2026-06-26 15:48:13.689306
+753,Moringa oleifera,pt,Portuguese,Moringa,Latin,2026-06-26 15:48:13.689306
+754,Moringa oleifera,es,Spanish,Moringa,Latin,2026-06-26 15:48:13.689307
+755,Moringa oleifera,fr,French,Moringa,Latin,2026-06-26 15:48:13.689307
+756,Moringa oleifera,de,German,Moringa,Latin,2026-06-26 15:48:13.689307
+757,Nelumbo nucifera,en,English,Lotus,Latin,2026-06-26 15:48:13.689308
+758,Nelumbo nucifera,hi,Hindi,Kamal (कमल),Native,2026-06-26 15:48:13.689308
+759,Nelumbo nucifera,bn,Bengali,Padma (পদ্ম),Native,2026-06-26 15:48:13.689308
+760,Nelumbo nucifera,te,Telugu,Thamara (తామర),Native,2026-06-26 15:48:13.689308
+761,Nelumbo nucifera,ta,Tamil,Tamara (தாமரை),Native,2026-06-26 15:48:13.689309
+762,Nelumbo nucifera,kn,Kannada,Thamara (ತಾವರೆ),Native,2026-06-26 15:48:13.689309
+763,Nelumbo nucifera,ml,Malayalam,Thamara (താമര),Native,2026-06-26 15:48:13.689309
+764,Nelumbo nucifera,mr,Marathi,Kamal (कमळ),Native,2026-06-26 15:48:13.689310
+765,Nelumbo nucifera,pa,Punjabi,Kamal (ਕਮਲ),Native,2026-06-26 15:48:13.689310
+766,Nelumbo nucifera,gu,Gujarati,Kamal (કમળ),Native,2026-06-26 15:48:13.689310
+767,Nelumbo nucifera,ur,Urdu,Kamal (کنول),Native,2026-06-26 15:48:13.689311
+768,Nelumbo nucifera,ar,Arabic,Lotus (لوتس),Native,2026-06-26 15:48:13.689311
+769,Nelumbo nucifera,zh,Chinese (Mandarin),Héhuā (荷花),Native,2026-06-26 15:48:13.689311
+770,Nelumbo nucifera,ja,Japanese,Hasu (ハス),Native,2026-06-26 15:48:13.689311
+771,Nelumbo nucifera,ko,Korean,Yeonkkot (연꽃),Native,2026-06-26 15:48:13.689312
+772,Nelumbo nucifera,vi,Vietnamese,Hoa sen,Latin,2026-06-26 15:48:13.689312
+773,Nelumbo nucifera,th,Thai,Bua (บัว),Native,2026-06-26 15:48:13.689312
+774,Nelumbo nucifera,id,Indonesian,Lotus,Latin,2026-06-26 15:48:13.689313
+775,Nelumbo nucifera,ms,Malay,Bunga teratai,Latin,2026-06-26 15:48:13.689313
+776,Nelumbo nucifera,tl,Filipino (Tagalog),Lotus,Latin,2026-06-26 15:48:13.689313
+777,Phyllanthus emblica,en,English,Indian Gooseberry (Amla),Latin,2026-06-26 15:48:13.689314
+778,Phyllanthus emblica,hi,Hindi,Amla (आंवला),Native,2026-06-26 15:48:13.689314
+779,Phyllanthus emblica,bn,Bengali,Amloki (আমলকী),Native,2026-06-26 15:48:13.689314
+780,Phyllanthus emblica,te,Telugu,Usirika (ఉసిరిక),Native,2026-06-26 15:48:13.689315
+781,Phyllanthus emblica,ta,Tamil,Nelli (நெல்லி),Native,2026-06-26 15:48:13.689315
+782,Phyllanthus emblica,kn,Kannada,Nelli (ನೆಲ್ಲಿ),Native,2026-06-26 15:48:13.689315
+783,Phyllanthus emblica,ml,Malayalam,Nellikka (നെല്ലിക്ക),Native,2026-06-26 15:48:13.689316
+784,Phyllanthus emblica,mr,Marathi,Avla (आवळा),Native,2026-06-26 15:48:13.689316
+785,Phyllanthus emblica,pa,Punjabi,Amla (ਆਂਵਲਾ),Native,2026-06-26 15:48:13.689316
+786,Phyllanthus emblica,gu,Gujarati,Amla (આમળ),Native,2026-06-26 15:48:13.689316
+787,Phyllanthus emblica,ur,Urdu,Amla (آملہ),Native,2026-06-26 15:48:13.689317
+788,Phyllanthus emblica,ar,Arabic,Usaira,Native,2026-06-26 15:48:13.689317
+789,Phyllanthus emblica,zh,Chinese (Mandarin),Yu gan zi (余甘子),Native,2026-06-26 15:48:13.689317
+790,Phyllanthus emblica,th,Thai,Ma kham pom (มะขามป้อม),Native,2026-06-26 15:48:13.689318
+791,Phyllanthus emblica,id,Indonesian,Amla,Latin,2026-06-26 15:48:13.689318
+792,Phyllanthus emblica,ms,Malay,Pokok melaka,Latin,2026-06-26 15:48:13.689318
+793,Phyllanthus emblica,sw,Swahili,Amla,Latin,2026-06-26 15:48:13.689319
+794,Hibiscus rosa-sinensis,en,English,Hibiscus / China Rose,Latin,2026-06-26 15:48:13.689319
+795,Hibiscus rosa-sinensis,hi,Hindi,Gurhal (गुड़हल),Native,2026-06-26 15:48:13.689319
+796,Hibiscus rosa-sinensis,bn,Bengali,Jaba (জবা),Native,2026-06-26 15:48:13.689319
+797,Hibiscus rosa-sinensis,te,Telugu,Dasana puvvu (దాసాని పువ్వు),Native,2026-06-26 15:48:13.689320
+798,Hibiscus rosa-sinensis,ta,Tamil,Sembaruthi (செம்பருத்தி),Native,2026-06-26 15:48:13.689320
+799,Hibiscus rosa-sinensis,kn,Kannada,Daasavala (ದಾಸವಾಳ),Native,2026-06-26 15:48:13.689320
+800,Hibiscus rosa-sinensis,ml,Malayalam,Chembarathi (ചെമ്പരത്തി),Native,2026-06-26 15:48:13.689321
+801,Hibiscus rosa-sinensis,mr,Marathi,Jaswand (जास्वंद),Native,2026-06-26 15:48:13.689321
+802,Hibiscus rosa-sinensis,pa,Punjabi,Gurhal (ਗੁੜਹਲ),Native,2026-06-26 15:48:13.689321
+803,Hibiscus rosa-sinensis,gu,Gujarati,Jasood (જાસૂ),Native,2026-06-26 15:48:13.689322
+804,Hibiscus rosa-sinensis,ur,Urdu,Gurhal (گلاب چین),Native,2026-06-26 15:48:13.689322
+805,Hibiscus rosa-sinensis,ar,Arabic,Karkadeh (كركديه),Native,2026-06-26 15:48:13.689322
+806,Hibiscus rosa-sinensis,zh,Chinese (Mandarin),Fúsāng (扶桑),Native,2026-06-26 15:48:13.689323
+807,Hibiscus rosa-sinensis,ja,Japanese,Hibiscus (ハイビスカス),Native,2026-06-26 15:48:13.689323
+808,Hibiscus rosa-sinensis,ko,Korean,Hibiscus (히비스커스),Native,2026-06-26 15:48:13.689323
+809,Hibiscus rosa-sinensis,vi,Vietnamese,Râm bụt,Latin,2026-06-26 15:48:13.689323
+810,Hibiscus rosa-sinensis,th,Thai,Chaba (ชบา),Native,2026-06-26 15:48:13.689324
+811,Hibiscus rosa-sinensis,id,Indonesian,Kembang sepatu,Latin,2026-06-26 15:48:13.689324
+812,Hibiscus rosa-sinensis,ms,Malay,Bunga raya,Latin,2026-06-26 15:48:13.689324
+813,Hibiscus rosa-sinensis,tl,Filipino (Tagalog),Gumamela,Latin,2026-06-26 15:48:13.689325
+814,Psidium guajava,en,English,Guava,Latin,2026-06-26 15:48:13.689325
+815,Psidium guajava,hi,Hindi,Amrood (अमरूद),Native,2026-06-26 15:48:13.689325
+816,Psidium guajava,bn,Bengali,Peyara (পেয়ারা),Native,2026-06-26 15:48:13.689326
+817,Psidium guajava,te,Telugu,Jamma (జామ),Native,2026-06-26 15:48:13.689326
+818,Psidium guajava,ta,Tamil,Koyya (கொய்யா),Native,2026-06-26 15:48:13.689326
+819,Psidium guajava,kn,Kannada,Seeba (ಸೀಬೆ),Native,2026-06-26 15:48:13.689327
+820,Psidium guajava,ml,Malayalam,Pera (പേര),Native,2026-06-26 15:48:13.689327
+821,Psidium guajava,mr,Marathi,Peron (पेरू),Native,2026-06-26 15:48:13.689327
+822,Psidium guajava,pa,Punjabi,Amrood (ਅਮਰੂਦ),Native,2026-06-26 15:48:13.689327
+823,Psidium guajava,gu,Gujarati,Jamfal (જામફળ),Native,2026-06-26 15:48:13.689328
+824,Psidium guajava,ur,Urdu,Amrood (امرود),Native,2026-06-26 15:48:13.689328
+825,Psidium guajava,ar,Arabic,Gawaafa (جوافة),Native,2026-06-26 15:48:13.689328
+826,Psidium guajava,zh,Chinese (Mandarin),Fānshíliu (番石榴),Native,2026-06-26 15:48:13.689329
+827,Psidium guajava,ja,Japanese,Guava (グアバ),Native,2026-06-26 15:48:13.689329
+828,Psidium guajava,ko,Korean,Guava (구아바),Native,2026-06-26 15:48:13.689329
+829,Psidium guajava,vi,Vietnamese,Ổi,Latin,2026-06-26 15:48:13.689330
+830,Psidium guajava,th,Thai,Farang (ฝรั่ง),Native,2026-06-26 15:48:13.689330
+831,Psidium guajava,id,Indonesian,Jambu biji,Latin,2026-06-26 15:48:13.689330
+832,Psidium guajava,ms,Malay,Jambu batu,Latin,2026-06-26 15:48:13.689331
+833,Psidium guajava,tl,Filipino (Tagalog),Bayabas,Latin,2026-06-26 15:48:13.689331
+834,Psidium guajava,sw,Swahili,Mapera,Latin,2026-06-26 15:48:13.689331
+835,Psidium guajava,ha,Hausa,Gwaba,Latin,2026-06-26 15:48:13.689331
+836,Psidium guajava,yo,Yoruba,Guava,Latin,2026-06-26 15:48:13.689332
+837,Psidium guajava,pt,Portuguese,Goiaba,Latin,2026-06-26 15:48:13.689333
+838,Psidium guajava,es,Spanish,Guayaba,Latin,2026-06-26 15:48:13.689334
+839,Psidium guajava,fr,French,Goyave,Latin,2026-06-26 15:48:13.689334
+840,Psidium guajava,de,German,Guave,Latin,2026-06-26 15:48:13.689334
+841,Piper nigrum,en,English,Black Pepper,Latin,2026-06-26 15:48:13.689335
+842,Piper nigrum,hi,Hindi,Kali Mirch (काली मिर्च),Native,2026-06-26 15:48:13.689335
+843,Piper nigrum,bn,Bengali,Kalo Morich (কালো মরিচ),Native,2026-06-26 15:48:13.689335
+844,Piper nigrum,te,Telugu,Miriyalu (మిరియాలు),Native,2026-06-26 15:48:13.689336
+845,Piper nigrum,ta,Tamil,Milagu (மிளகு),Native,2026-06-26 15:48:13.689336
+846,Piper nigrum,kn,Kannada,Menasu (ಮೆಣಸು),Native,2026-06-26 15:48:13.689336
+847,Piper nigrum,ml,Malayalam,Kurumulaku (കുരുമുളക്),Native,2026-06-26 15:48:13.689336
+848,Piper nigrum,mr,Marathi,Miri (मिरी),Native,2026-06-26 15:48:13.689337
+849,Piper nigrum,pa,Punjabi,Kali Mirch (ਕਾਲੀ ਮਿਰਚ),Native,2026-06-26 15:48:13.689337
+850,Piper nigrum,gu,Gujarati,Mari (મરી),Native,2026-06-26 15:48:13.689337
+851,Piper nigrum,ur,Urdu,Kali Mirch (کالی مرچ),Native,2026-06-26 15:48:13.689338
+852,Piper nigrum,ar,Arabic,Filfil (فلفل أسود),Native,2026-06-26 15:48:13.689338
+853,Piper nigrum,zh,Chinese (Mandarin),Hēijiāo (黑胡椒),Native,2026-06-26 15:48:13.689338
+854,Piper nigrum,ja,Japanese,Koshō (胡椒),Native,2026-06-26 15:48:13.689339
+855,Piper nigrum,ko,Korean,Hwijang (후추),Native,2026-06-26 15:48:13.689339
+856,Piper nigrum,vi,Vietnamese,Tiêu,Latin,2026-06-26 15:48:13.689339
+857,Piper nigrum,th,Thai,Phrik Thai (พริกไทย),Native,2026-06-26 15:48:13.689340
+858,Piper nigrum,id,Indonesian,Lada,Latin,2026-06-26 15:48:13.689340
+859,Piper nigrum,ms,Malay,Lada hitam,Latin,2026-06-26 15:48:13.689340
+860,Piper nigrum,tl,Filipino (Tagalog),Paminta,Latin,2026-06-26 15:48:13.689340
+861,Piper nigrum,sw,Swahili,Pilipili nyeusi,Latin,2026-06-26 15:48:13.689341
+862,Piper nigrum,ha,Hausa,Barkono,Latin,2026-06-26 15:48:13.689341
+863,Piper nigrum,pt,Portuguese,Pimenta-do-reino,Latin,2026-06-26 15:48:13.689341
+864,Piper nigrum,es,Spanish,Pimienta negra,Latin,2026-06-26 15:48:13.689342
+865,Piper nigrum,fr,French,Poivre noir,Latin,2026-06-26 15:48:13.689342
+866,Piper nigrum,de,German,Schwarzer Pfeffer,Latin,2026-06-26 15:48:13.689342
+867,Piper nigrum,it,Italian,Pepe nero,Native,2026-06-26 15:48:13.689343
+868,Piper nigrum,ru,Russian,Chyorny perets (чёрный перец),Native,2026-06-26 15:48:13.689343
+869,Cinnamomum verum,en,English,Cinnamon,Latin,2026-06-26 15:48:13.689343
+870,Cinnamomum verum,hi,Hindi,Dalchini (दालचीनी),Native,2026-06-26 15:48:13.689344
+871,Cinnamomum verum,bn,Bengali,Dalchini (দারুচিনি),Native,2026-06-26 15:48:13.689344
+872,Cinnamomum verum,te,Telugu,Dalchini (దాల్చినచెక్క),Native,2026-06-26 15:48:13.689344
+873,Cinnamomum verum,ta,Tamil,Elavangam (இலவங்கம்),Native,2026-06-26 15:48:13.689344
+874,Cinnamomum verum,kn,Kannada,Chakke (ಚಕ್ಕೆ),Native,2026-06-26 15:48:13.689345
+875,Cinnamomum verum,ml,Malayalam,Karuvapatta (കറുവ),Native,2026-06-26 15:48:13.689345
+876,Cinnamomum verum,mr,Marathi,Dalchini (दालचिनी),Native,2026-06-26 15:48:13.689345
+877,Cinnamomum verum,pa,Punjabi,Dalchini (ਦਾਲਚੀਨੀ),Native,2026-06-26 15:48:13.689346
+878,Cinnamomum verum,ur,Urdu,Dalchini (دارچینی),Native,2026-06-26 15:48:13.689346
+879,Cinnamomum verum,ar,Arabic,Qirfa (قرفة),Native,2026-06-26 15:48:13.689346
+880,Cinnamomum verum,zh,Chinese (Mandarin),Ròuguì (肉桂),Native,2026-06-26 15:48:13.689347
+881,Cinnamomum verum,ja,Japanese,Shinamon (シナモン),Native,2026-06-26 15:48:13.689347
+882,Cinnamomum verum,ko,Korean,Gyepi (계피),Native,2026-06-26 15:48:13.689347
+883,Cinnamomum verum,vi,Vietnamese,Quế,Latin,2026-06-26 15:48:13.689348
+884,Cinnamomum verum,th,Thai,Op choei (อบเชย),Native,2026-06-26 15:48:13.689348
+885,Cinnamomum verum,id,Indonesian,Kayu manis,Latin,2026-06-26 15:48:13.689348
+886,Cinnamomum verum,ms,Malay,Kayu manis,Latin,2026-06-26 15:48:13.689349
+887,Cinnamomum verum,tl,Filipino (Tagalog),Kanela,Latin,2026-06-26 15:48:13.689349
+888,Cinnamomum verum,sw,Swahili,Mdalasini,Latin,2026-06-26 15:48:13.689349
+889,Cinnamomum verum,pt,Portuguese,Canela,Latin,2026-06-26 15:48:13.689349
+890,Cinnamomum verum,es,Spanish,Canela,Latin,2026-06-26 15:48:13.689350
+891,Cinnamomum verum,fr,French,Cannelle,Latin,2026-06-26 15:48:13.689350
+892,Cinnamomum verum,de,German,Zimt,Latin,2026-06-26 15:48:13.689350

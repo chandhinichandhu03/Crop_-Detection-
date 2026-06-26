@@ -1,0 +1,32 @@
+[
+  {
+    "id": 41,
+    "common_name": "Oil Palm",
+    "botanical_name": "Elaeis guineensis",
+    "author_citation": "Jacq.",
+    "iucn_status": "LC",
+    "category": "Oilseed/Plantation",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "subfamily": "Arecoideae",
+      "genus": "Elaeis",
+      "species": "guineensis",
+      "family_description": "Palm family; coconut, date, oil palm",
+      "genus_species_count": 2
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

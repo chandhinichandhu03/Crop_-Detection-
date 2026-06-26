@@ -1,0 +1,238 @@
+[
+  {
+    "id": 114,
+    "common_name": "Garlic",
+    "botanical_name": "Allium sativum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable/Spice",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Amaryllidaceae",
+      "subfamily": "Allioideae",
+      "genus": "Allium",
+      "species": "sativum",
+      "family_description": "",
+      "genus_species_count": 920
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Garlic",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Lahsun (लहसुन)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Rasun (রসুন)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Vellulli (వెల్లుల్లి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Poondu (பூண்டு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Bellulli (ಬೆಳ್ಳುಳ್ಳಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Veluthulli (വെളുത്തുള്ളി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Lasun (लसूण)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Thum (ਥੁੰਮ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Lasan (લ‌સણ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Lahsun (لہسن)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Thoum (ثوم)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Dàsuàn (大蒜)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Ninniku (にんにく)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Maneul (마늘)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Tỏi",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Kratiam (กระเทียม)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Bawang putih",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Bawang putih",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Bawang",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Kitunguu saumu",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Àjọ̀",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Alho",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Ajo",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Ail",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Knoblauch",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Aglio",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Chesnok (чеснок)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Sarımsak",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 126,
+    "common_name": "Chilli (Hot Pepper)",
+    "botanical_name": "Capsicum annuum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable/Spice",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Capsicum",
+      "species": "annuum",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 145,
+    "common_name": "Fenugreek (Methi)",
+    "botanical_name": "Trigonella foenum-graecum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable/Spice",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Trigonella",
+      "species": "foenum-graecum",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 135
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

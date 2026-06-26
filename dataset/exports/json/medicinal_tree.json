@@ -1,0 +1,168 @@
+[
+  {
+    "id": 164,
+    "common_name": "Neem",
+    "botanical_name": "Azadirachta indica",
+    "author_citation": "A.Juss.",
+    "iucn_status": "LC",
+    "category": "Medicinal Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Sapindales",
+      "family": "Meliaceae",
+      "subfamily": "Meliaceae",
+      "genus": "Azadirachta",
+      "species": "indica",
+      "family_description": "Mahogany family; includes neem, toon",
+      "genus_species_count": 2
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Neem",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Neem (नीम)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Neem (নিম)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Vepa (వేప)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Vembu (வேம்பு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Bevu (ಬೇವು)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Veppam (വേപ്പ്)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Kadu Limb (कडुलिंब)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Neem (ਨਿੰਮ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Limado (લીમડો)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Neem (نیم)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Neem (ليمون مر)",
+        "script": "Native"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mwarobaini",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Dogonyaro",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Dongoyaro",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Nim",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Nim",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Margousier",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Niembaum",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Pokok neem",
+        "script": "Latin"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Pohon neem",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 194,
+    "common_name": "Arjuna Tree",
+    "botanical_name": "Terminalia arjuna",
+    "author_citation": "(Roxb. ex DC.) Wight & Arn.",
+    "iucn_status": "LC",
+    "category": "Medicinal Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Myrtales",
+      "family": "Combretaceae",
+      "subfamily": "Combretoideae",
+      "genus": "Terminalia",
+      "species": "arjuna",
+      "family_description": "Terminalia family; includes terminalia, arjuna, Indian almond",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

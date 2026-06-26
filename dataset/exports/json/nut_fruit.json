@@ -1,0 +1,81 @@
+[
+  {
+    "id": 107,
+    "common_name": "Almond",
+    "botanical_name": "Prunus dulcis",
+    "author_citation": "(Mill.) D.A.Webb",
+    "iucn_status": "LC",
+    "category": "Nut/Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Amygdaloideae",
+      "genus": "Prunus",
+      "species": "dulcis",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 430
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 108,
+    "common_name": "Walnut",
+    "botanical_name": "Juglans regia",
+    "author_citation": "L.",
+    "iucn_status": "NT",
+    "category": "Nut/Fruit",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fagales",
+      "family": "Juglandaceae",
+      "subfamily": "Juglandoideae",
+      "genus": "Juglans",
+      "species": "regia",
+      "family_description": "Walnut family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 31,
+        "disease_name": "Crown Gall",
+        "pathogen_name": "Agrobacterium tumefaciens (Rhizobium radiobacter)",
+        "disease_type": "Bacterial",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, soft, round galls develop at crown (soil line) or on roots",
+          "late": "Galls enlarge to large rough, brown, corky tumors; reduced plant vigor, stunting, increased susceptibility to other diseases",
+          "affected_parts": "Crown, Roots, Stems"
+        },
+        "treatment": {
+          "organic": "Cut out galls; treat with Agrobacterium radiobacter strain K-84 (biocontrol) at planting",
+          "chemical": "No effective post-infection treatment; copper bactericides preventively",
+          "biological": "Agrobacterium radiobacter strain K-84 / K-1026 biocontrol (prevents infection)",
+          "preventive": "Avoid wounding, use K-84 dip on roots before planting, plant only certified gall-free material"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

@@ -2,13 +2,23 @@
 
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Send, User, Bot, Loader2, Sparkles, Sprout, ArrowLeft, Mic } from 'lucide-react';
+import { Send, User, Bot, Loader2, Sparkles, Sprout, ArrowLeft, Mic, FileText, Check } from 'lucide-react';
 import Link from 'next/link';
+import axios from 'axios';
+
+interface Citation {
+    title: string;
+    content: string;
+    document_type: string;
+    source: string;
+    similarity_score: number;
+}
 
 interface Message {
     id: number;
     text: string;
     sender: 'user' | 'bot';
+    citations?: Citation[];
 }
 
 import Navbar from '@/components/Navbar';
@@ -22,87 +32,57 @@ export default function Chat() {
         setMounted(true);
     }, []);
 
-    const [messages, setMessages] = useState<Message[]>([
-        { id: 1, text: t('chat.welcome'), sender: 'bot' }
-    ]);
+    const [messages, setMessages] = useState<Message[]>([]);
     const [input, setInput] = useState('');
     const [loading, setLoading] = useState(false);
 
+    // Initial welcome message
+    useEffect(() => {
+        if (mounted) {
+            setMessages([
+                { 
+                    id: 1, 
+                    text: "Vanakkam! I am your AI Agro Expert chatbot. I run completely offline using a local vector index of ICAR manuals and soil guidelines. Ask me any questions about crop diseases, organic fertilizers (like cow dung or bio-algae), or water management!", 
+                    sender: 'bot' 
+                }
+            ]);
+        }
+    }, [mounted]);
+
     if (!mounted) return null;
 
-    const handleSend = () => {
+    const handleSend = async () => {
         if (!input.trim()) return;
 
         const userMsg: Message = { id: Date.now(), text: input, sender: 'user' };
         setMessages(prev => [...prev, userMsg]);
-        const currentInput = input.toLowerCase();
+        const queryText = input;
         setInput('');
         setLoading(true);
 
-        // Scalable Knowledge Base - Massive Expansion for "Full Fledge" feel
-        const KNOWLEDGE_BASE = [
-            {
-                keywords: ['cow dung', 'cowdung', 'manure', 'organic waste', 'gobar'],
-                response: "Well-rotted cow dung should be applied to the soil 2-3 weeks before planting to allow nutrients to integrate. It can also be used as a top dressing during the vegetative growth stage. Always ensure it is fully composted (kept for at least 6 months) to avoid high ammonia levels that can burn roots."
-            },
-            {
-                keywords: ['water', 'irrigation', 'watering', 'drops', 'dry'],
-                response: "Proper irrigation is key. Most crops prefer deep watering in the early morning. If you notice wilting or dry soil 2 inches deep, your plants need hydration. For better efficiency, consider Drip Irrigation to save 40-70% water while increasing yield."
-            },
-            {
-                keywords: ['insect', 'pest', 'bug', 'worm', 'aphids', 'thrips'],
-                response: "Detected a pest concern? For organic control, try a 5% Neem Oil solution with a few drops of liquid soap. If the infestation is high, you can check our Insecticide section in the Market. Would you like to scan a leaf in 'AI Doctor' to identify the specific pest?"
-            },
-            {
-                keywords: ['yellow', 'pale', 'leaves', 'faded'],
-                response: "Yellowing leaves (chlorosis) often signal a Nitrogen deficiency or over-watering. Try adding some Urea or organic compost. If the veins stay green while the rest turns yellow, it might be an Iron deficiency. Check the soil pH - it should be between 6.0 and 7.0 for most crops."
-            },
-            {
-                keywords: ['soil', 'ph', 'acid', 'alkaline', 'earth'],
-                response: "Soil health is the foundation. Most agricultural crops thrive in slightly acidic to neutral soil (pH 6.0 - 7.0). If your soil is too acidic, add Lime (Calcium Carbonate). If too alkaline, add Sulfur or Gypsum. You can get a soil testing kit from our Market to know for sure!"
-            },
-            {
-                keywords: ['fertilizer', 'urea', 'npk', 'potash', 'phosphate'],
-                response: "Balanced nutrition is vital. Use NPK (Nitrogen-Phosphorus-Potassium) fertilizers based on your crop growth stage. Nitrogen for leaves, Phosphorus for roots/flowers, and Potassium for overall plant health and fruit quality. Apply only when soil is moist to prevent root burn."
-            },
-            {
-                keywords: ['tomato', 'potato', 'rice', 'paddy', 'wheat', 'corn', 'maize'],
-                response: "For specialized crop guidance, please use our 'AI Doctor' module. Upload a photo and I will give you a specific diagnosis and treatment plan for that exact plant variety!"
-            },
-            {
-                keywords: ['hello', 'hi', 'hey', 'vanakkam', 'namaste'],
-                response: "Vanakkam! I am your AI Agro Expert. I can help with soil health, fertilizer application, crop diseases, and market prices. Ask me anything about your farm today!"
-            },
-            {
-                keywords: ['market', 'buy', 'shop', 'price', 'product', 'item'],
-                response: "You can find certified seeds, fertilizers, and organic pesticides in our 'Agro Store'. Prices are direct from the distributor to save you money. Click 'Back to Ecosystem' to find the Market button!"
-            },
-            {
-                keywords: ['weather', 'rain', 'temperature', 'climate'],
-                response: "Farmers should always plan based on local weather. High humidity increases the risk of fungal diseases (like Mildew). If heavy rain is expected, delay fertilizer application to prevent runoff. Avoid spraying pesticides during windy hours."
-            },
-            {
-                keywords: ['harvest', 'ripe', 'pick', 'ready'],
-                response: "Harvesting timing depends on the crop. For grains, moisture should be around 12-14%. For vegetables, pick when they reach full size but are still tender. Use sharp tools to avoid damaging the mother plant, which can lead to infection."
-            }
-        ];
+        try {
+            const formData = new FormData();
+            formData.append('message', queryText);
 
-        // Advanced Scalable Search - Multi-keyword similarity matching
-        let responseFound = KNOWLEDGE_BASE.find(k =>
-            k.keywords.some(keyword => currentInput.includes(keyword))
-        );
-
-        setTimeout(() => {
+            const response = await axios.post('http://localhost:8000/api/chat', formData);
+            
             const botMsg: Message = {
                 id: Date.now() + 1,
-                text: responseFound
-                    ? responseFound.response
-                    : "That is a very specific farming query! While I continue to learn more, I suggest checking for specific leaf symptoms or soil moisture. You can also upload a clear photo in our 'AI Doctor' section for a professional spectral analysis and localized solution.",
-                sender: 'bot'
+                text: response.data.message,
+                sender: 'bot',
+                citations: response.data.citations
             };
             setMessages(prev => [...prev, botMsg]);
+        } catch (err) {
+            const errorMsg: Message = {
+                id: Date.now() + 1,
+                text: "I am having trouble accessing the local RAG indexing service. Please ensure the Python FastAPI backend is running on http://localhost:8000.",
+                sender: 'bot'
+            };
+            setMessages(prev => [...prev, errorMsg]);
+        } finally {
             setLoading(false);
-        }, 1500);
+        }
     };
 
     return (
@@ -117,10 +97,10 @@ export default function Chat() {
                             <Bot className="text-white w-6 h-6" />
                         </div>
                         <div>
-                            <h2 className="text-xl font-black text-slate-900 dark:text-white">{t('chat.header')}</h2>
+                            <h2 className="text-xl font-black text-slate-900 dark:text-white">AI Agro Advisor</h2>
                             <div className="flex items-center gap-2 text-[10px] font-black text-agro-600 uppercase tracking-widest">
                                 <span className="w-2 h-2 bg-agro-500 rounded-full animate-pulse"></span>
-                                {t('chat.status')}
+                                Local RAG Vector Search Active
                             </div>
                         </div>
                     </div>
@@ -129,21 +109,37 @@ export default function Chat() {
                 {/* Messages Area */}
                 <div className="flex-1 overflow-y-auto p-8 space-y-6 flex flex-col no-scrollbar">
                     {messages.map((m) => (
-                        <motion.div
+                        <div
                             key={m.id}
-                            initial={{ opacity: 0, y: 10, scale: 0.95 }}
-                            animate={{ opacity: 1, y: 0, scale: 1 }}
                             className={`flex ${m.sender === 'user' ? 'justify-end' : 'justify-start'}`}
                         >
                             <div className={`flex gap-4 max-w-[80%] ${m.sender === 'user' ? 'flex-row-reverse' : ''}`}>
                                 <div className={`w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0 shadow-lg ${m.sender === 'user' ? 'bg-agro-600 text-white' : 'bg-white dark:bg-agro-800 text-agro-600'}`}>
                                     {m.sender === 'user' ? <User className="w-5 h-5" /> : <Bot className="w-5 h-5" />}
                                 </div>
-                                <div className={`p-6 rounded-[2rem] text-sm font-bold leading-relaxed shadow-sm ${m.sender === 'user' ? 'bg-agro-600 text-white rounded-tr-none' : 'bg-white dark:bg-agro-950/50 text-slate-700 dark:text-agro-100 rounded-tl-none border border-slate-100 dark:border-agro-900'}`}>
-                                    {m.text}
+                                <div className="space-y-2">
+                                    <div className={`p-6 rounded-[2rem] text-sm font-bold leading-relaxed shadow-sm ${m.sender === 'user' ? 'bg-agro-600 text-white rounded-tr-none' : 'bg-white dark:bg-agro-950/50 text-slate-700 dark:text-agro-100 rounded-tl-none border border-slate-100 dark:border-agro-900'}`}>
+                                        <p className="whitespace-pre-line">{m.text}</p>
+                                    </div>
+                                    
+                                    {/* Citations display in bot responses */}
+                                    {m.citations && m.citations.length > 0 && (
+                                        <div className="pl-4 space-y-2">
+                                            <div className="text-[9px] font-black text-slate-400 uppercase tracking-widest">Document Citations:</div>
+                                            {m.citations.map((c, cidx) => (
+                                                <div key={cidx} className="p-3 bg-emerald-50/50 dark:bg-emerald-950/20 border border-emerald-100/50 dark:border-emerald-900/30 rounded-xl max-w-md text-[10px] font-medium text-slate-500 dark:text-agro-300">
+                                                    <div className="flex justify-between items-center mb-1">
+                                                        <span className="font-bold text-slate-800 dark:text-white">{c.title} ({c.source})</span>
+                                                        <span className="text-[8px] px-1.5 py-0.2 bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 rounded">Match {c.similarity_score}</span>
+                                                    </div>
+                                                    <p className="italic">"{c.content}"</p>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    )}
                                 </div>
                             </div>
-                        </motion.div>
+                        </div>
                     ))}
                     {loading && (
                         <div className="flex justify-start">
@@ -170,7 +166,7 @@ export default function Chat() {
                         <div className="flex-1 relative">
                             <input
                                 type="text"
-                                placeholder={t('chat.input')}
+                                placeholder="Ask about soil pH, early blight, NPK levels..."
                                 value={input}
                                 onChange={(e) => setInput(e.target.value)}
                                 onKeyPress={(e) => e.key === 'Enter' && handleSend()}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 210,
+    "common_name": "Water Hyacinth",
+    "botanical_name": "Eichhornia crassipes",
+    "author_citation": "(Mart.) Solms",
+    "iucn_status": "LC",
+    "category": "Aquatic/Invasive",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Commelinidae",
+      "order": "Commelinales",
+      "family": "Pontederiaceae",
+      "subfamily": "Pontederioideae",
+      "genus": "Eichhornia",
+      "species": "crassipes",
+      "family_description": "",
+      "genus_species_count": 7
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

@@ -1,0 +1,1869 @@
+[
+  {
+    "id": 111,
+    "common_name": "Tomato",
+    "botanical_name": "Solanum lycopersicum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Solanum",
+      "species": "lycopersicum",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 1500
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Tomato",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Tamatar (टमाटर)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Tomato (টমেটো)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Tomato (టమాటా)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Thakkali (தக்காளி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Tomato (ಟಮೇಟ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Thakkali (തക്കാളി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Tomato (टोमॅटो)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Tamater (ਟਮਾਟਰ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Tameta (ટામેટું)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Tamatar (ٹماٹر)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Tamatim (طماطم)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Xīhóngshì (西红柿)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Tomato (トマト)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Tomato (토마토)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Cà chua",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Makhua thet (มะเขือเทศ)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Tomat",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Tomato",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Kamatis",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Nyanya",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Tumatir",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Tomáti",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Tomate",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Tomate",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Tomate",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Tomate",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Pomodoro",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Pomidor (помидор)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Domates",
+        "script": "Latin"
+      },
+      "nl": {
+        "language_name": "Dutch",
+        "local_name": "Tomaat",
+        "script": "Native"
+      },
+      "pl": {
+        "language_name": "Polish",
+        "local_name": "Pomidor",
+        "script": "Native"
+      },
+      "ro": {
+        "language_name": "Romanian",
+        "local_name": "Roșie",
+        "script": "Native"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Warm sub-tropical to temperate",
+        "temp_optimum": "Optimal 20-24°C day; 13-17°C night; no frost tolerance",
+        "rainfall": "600-1500mm; avoid during fruiting; ideal with irrigation"
+      },
+      "soil": {
+        "type": "Well-drained sandy loam to clay loam with good organic matter",
+        "ph_range": "6.0-7.0",
+        "special_requirements": "Good drainage; avoid standing water"
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": "75×60cm for indeterminate; 75×45cm for determinate varieties"
+      },
+      "irrigation": {
+        "method": "Drip irrigation preferred; avoid overhead (disease); furrow if drip unavailable",
+        "critical_stages": "Transplanting, flowering, fruit development",
+        "water_requirement_mm": "600-1200mm total"
+      },
+      "fertilization": {
+        "npk": "N150-200, P75-100, K150-200",
+        "schedule": "Split N and K through fertigation (8-12 splits through season)"
+      },
+      "harvesting": {
+        "maturity_indicator": "",
+        "method": "",
+        "yield_per_ha": "25-40 t/ha (open-pollinated); 60-100 t/ha (hybrids, drip, greenhouse)"
+      }
+    },
+    "diseases": [
+      {
+        "id": 8,
+        "disease_name": "Blossom End Rot",
+        "pathogen_name": "Calcium deficiency (Physiological)",
+        "disease_type": "Physiological Disorder",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Light brown water-soaked area at blossom end of green fruit",
+          "late": "Expanding dark brown to black leathery sunken patch at fruit base, secondary fungal colonization",
+          "affected_parts": "Fruit (blossom end)"
+        },
+        "treatment": {
+          "organic": "Foliar calcium chloride spray (4g/L), consistent irrigation, mulching, agricultural lime in soil",
+          "chemical": "Calcium nitrate foliar spray (2g/L), drip application of calcium chelate",
+          "biological": "Not applicable",
+          "preventive": "Consistent irrigation schedule, mulch to retain soil moisture, soil pH 6.2-6.8, avoid excess ammonium nitrogen"
+        }
+      },
+      {
+        "id": 9,
+        "disease_name": "Root Knot Nematode",
+        "pathogen_name": "Meloidogyne incognita, M. javanica",
+        "disease_type": "Nematode",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Wilting during hot hours, poor plant vigor, chlorosis resembling nutrient deficiency",
+          "late": "Typical galls (root knots) on roots when pulled, stunted growth, reduced yield",
+          "affected_parts": "Roots"
+        },
+        "treatment": {
+          "organic": "Marigold intercropping (Tagetes sp.), neem cake soil application, Paecilomyces lilacinus, Pochonia chlamydosporia",
+          "chemical": "Carbofuran 3G (33kg/ha soil application), Ethoprophos 10G granules, Oxamyl",
+          "biological": "Purpureocillium lilacinum, Trichoderma harzianum, Bacillus firmus",
+          "preventive": "Crop rotation with non-host crops (maize, cereals), soil solarization, use resistant varieties (Mi-gene)"
+        }
+      },
+      {
+        "id": 4,
+        "disease_name": "Fusarium Wilt",
+        "pathogen_name": "Fusarium oxysporum f. sp. lycopersici",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Yellowing and wilting of lower leaves starting on one side of the plant, often one branch first",
+          "late": "Complete wilting and death, brown internal vascular discoloration visible when stem is cut crosswise",
+          "affected_parts": "Roots, Stem (vascular), Leaves"
+        },
+        "treatment": {
+          "organic": "Trichoderma harzianum soil treatment, Solarization (clear polyethylene film over moist soil for 4-6 weeks)",
+          "chemical": "No effective chemical cure; soil fumigation with Metam sodium before planting as preventive",
+          "biological": "Trichoderma viride, Pseudomonas fluorescens root dip, Bacillus subtilis",
+          "preventive": "Plant resistant varieties (race-specific), crop rotation (4+ years), avoid wounding roots, soil solarization"
+        }
+      },
+      {
+        "id": 2,
+        "disease_name": "Late Blight",
+        "pathogen_name": "Phytophthora infestans",
+        "disease_type": "Oomycete",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Water-soaked irregular grayish-green patches on leaves, usually starting from leaf tips and edges",
+          "late": "Fuzzy white sporulating lesions on underside of leaves in humid conditions, greasy dark green-black patches on fruit, entire plant collapse with putrid smell",
+          "affected_parts": "Leaves, Stems, Fruit"
+        },
+        "treatment": {
+          "organic": "Copper hydroxide (3g/L) as protective spray, Bordeaux mixture (1%), maintain dry conditions",
+          "chemical": "Metalaxyl-M + Mancozeb (Ridomil Gold) 2.5g/L, Cymoxanil + Famoxadone 0.5g/L, Dimethomorph 0.5g/L",
+          "biological": "Bacillus subtilis (Serenade), Streptomyces lydicus",
+          "preventive": "Plant resistant varieties, ensure good drainage, avoid overhead irrigation, scout regularly during cool wet weather, destroy volunteer plants"
+        }
+      },
+      {
+        "id": 6,
+        "disease_name": "Septoria Leaf Spot",
+        "pathogen_name": "Septoria lycopersici",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, circular water-soaked spots on lower leaves with dark brown margins and lighter gray-white centers with tiny black dots (pycnidia)",
+          "late": "Extensive defoliation starting from bottom of plant upward, sun-scalded fruits exposed to direct sun",
+          "affected_parts": "Leaves (lower first)"
+        },
+        "treatment": {
+          "organic": "Copper oxychloride 50% WP (3g/L), neem oil spray, remove infected lower leaves",
+          "chemical": "Chlorothalonil (2g/L), Mancozeb (2g/L), Azoxystrobin (0.5ml/L)",
+          "biological": "Bacillus subtilis",
+          "preventive": "Crop rotation, remove infected plant debris, avoid overhead irrigation, stake and prune for air circulation"
+        }
+      },
+      {
+        "id": 3,
+        "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+        "pathogen_name": "Tomato yellow leaf curl virus",
+        "disease_type": "Viral",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Upward and inward curling of leaflets, yellowing at leaf margins",
+          "late": "Severe stunting, complete yellowing, flower drop, no fruit set or deformed fruits",
+          "affected_parts": "Leaves, Growing Tips, Fruit"
+        },
+        "treatment": {
+          "organic": "No cure once infected; control whitefly vector with neem oil, yellow sticky traps, reflective mulch",
+          "chemical": "Imidacloprid or Thiamethoxam for whitefly control. Mineral oil sprays to reduce whitefly transmission",
+          "biological": "Encarsia formosa parasitoid, Beauveria bassiana for whiteflies",
+          "preventive": "Plant TYLCV-resistant varieties, use insect-proof netting in nursery, roguing infected plants immediately, control whiteflies"
+        }
+      },
+      {
+        "id": 7,
+        "disease_name": "Powdery Mildew (Tomato)",
+        "pathogen_name": "Leveillula taurica",
+        "disease_type": "Fungal",
+        "risk_level": "Low",
+        "symptoms": {
+          "early": "Pale yellow spots on upper leaf surface, white powdery growth visible on underside",
+          "late": "Entire leaf covered with white powder, premature defoliation",
+          "affected_parts": "Leaves"
+        },
+        "treatment": {
+          "organic": "Wettable sulfur (3g/L), potassium bicarbonate (5g/L), neem oil, diluted milk (1:9)",
+          "chemical": "Hexaconazole (1ml/L), Propiconazole (1ml/L), Tebuconazole (1ml/L)",
+          "biological": "Ampelomyces quisqualis, Bacillus subtilis",
+          "preventive": "Good air circulation, avoid dense planting, resistant varieties"
+        }
+      },
+      {
+        "id": 5,
+        "disease_name": "Bacterial Wilt",
+        "pathogen_name": "Ralstonia solanacearum",
+        "disease_type": "Bacterial",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Sudden wilting of top leaves during hottest part of the day, recovery at night",
+          "late": "Permanent wilting even at night, water-soaked stem interior, oozing of bacterial slime (white to gray) from cut stems dipped in water",
+          "affected_parts": "Entire plant, Vascular system"
+        },
+        "treatment": {
+          "organic": "No effective cure. Copper-based bactericides as weak suppressants",
+          "chemical": "No effective chemical treatment available",
+          "biological": "Bacillus subtilis and Pseudomonas fluorescens as biological suppressants (preventive only)",
+          "preventive": "Plant resistant varieties, crop rotation (minimum 3 years), soil solarization, avoid waterlogging, remove infected plants and soil, use clean tools"
+        }
+      },
+      {
+        "id": 1,
+        "disease_name": "Early Blight",
+        "pathogen_name": "Alternaria solani",
+        "disease_type": "Fungal",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, dark brown circular spots with concentric rings (target board pattern) on older lower leaves",
+          "late": "Leaf yellowing, premature leaf drop, dark sunken lesions at stem-ends of fruit, stem collar rot",
+          "affected_parts": "Leaves, Stem, Fruit"
+        },
+        "treatment": {
+          "organic": "Neem oil (4ml/L + 2ml soap), Copper oxychloride 50% WP (3g/L), Trichoderma harzianum soil drench, Baking soda spray (5g/L)",
+          "chemical": "Mancozeb 75% WP (2g/L), Azoxystrobin 23% SC (1ml/L), Chlorothalonil 75% WP (2g/L), Propiconazole 25% EC (1ml/L)",
+          "biological": "Trichoderma viride, Bacillus subtilis strains QST713, Pseudomonas fluorescens",
+          "preventive": "Use certified disease-free seeds, crop rotation (3 years), remove infected debris, avoid overhead irrigation, stake plants for air circulation"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 1,
+        "pest_name": "Whitefly",
+        "scientific_name": "Bemisia tabaci",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana",
+          "chemical": "Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)",
+          "biological": "Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana"
+        }
+      },
+      {
+        "id": 9,
+        "pest_name": "Fall Armyworm",
+        "scientific_name": "Spodoptera frugiperda",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf and whorl feeding; ear damage",
+        "control": {
+          "organic": "Bt-kurstaki or Bt-aizawai spray; fall armyworm pheromone traps; sand+soil in whorl (suffocates larvae); egg mass and larvae hand collection",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L into whorl), Chlorantraniliprole (Coragen), Spinetoram, Lambda-cyhalothrin (adult moths)",
+          "biological": "Telenomus remus (egg parasitoid), Cotesia icipe, Coccygomimus turionellae, Metarhizium rileyi, NPV (Nuclear Polyhedrosis Virus)"
+        }
+      },
+      {
+        "id": 10,
+        "pest_name": "Cotton Bollworm (Helicoverpa)",
+        "scientific_name": "Helicoverpa armigera",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Fruit, flower and seed feeding",
+        "control": {
+          "organic": "NPV spray (2×10¹² POB/ha); HaNPV + cotton Bt; pheromone traps (1/ha); neem seed kernel extract; Bt-k spray",
+          "chemical": "Emamectin benzoate 5% SG (0.4g/L), Chlorantraniliprole 18.5% SC (0.3ml/L), Indoxacarb, Flubendiamide, Thiodicarb",
+          "biological": "Trichogramma chilonis (egg parasitoid, 1 lakh/ha weekly), Habrobracon hebetor, Chrysoperla carnea, HaNPV"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 112,
+    "common_name": "Potato",
+    "botanical_name": "Solanum tuberosum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Solanum",
+      "species": "tuberosum",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 1500
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Potato",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Aloo (आलू)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Aloo (আলু)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Uralagedda (ఉరుళగడ్డ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Urulaikizhangu (உருளைக்கிழங்கு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Alu Gedde (ಆಲೂ ಗಡ್ಡೆ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Urulakkizhangu (ഉരുളക്കിഴങ്ങ്)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Batata (बटाटा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Aloo (ਆਲੂ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Bataka (બટેટા)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Aloo (آلو)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Batata (بطاطس)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Tǔdòu (土豆)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Jagaimo (じゃがいも)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Gamja (감자)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Khoai tây",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Man farang (มันฝรั่ง)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kentang",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kentang",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Patatas",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Kiazi",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Dankali",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Ànàmò",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Batata",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Patata/Papa",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Pomme de terre",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Kartoffel",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Patata",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Kartofel (картофель)",
+        "script": "Native"
+      },
+      "nl": {
+        "language_name": "Dutch",
+        "local_name": "Aardappel",
+        "script": "Native"
+      },
+      "pl": {
+        "language_name": "Polish",
+        "local_name": "Ziemniak",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Patates",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Cool temperate",
+        "temp_optimum": "15-20°C for tuber initiation; growth 18-25°C",
+        "rainfall": "500-700mm"
+      },
+      "soil": {
+        "type": "Well-drained sandy loam or loam; deep friable soils",
+        "ph_range": "5.2-6.4 (avoids scab at lower pH)",
+        "special_requirements": "Deep tillage for loose soil for tuber expansion"
+      },
+      "planting": {
+        "seed_rate": "",
+        "spacing": "60-75 cm × 15-20 cm (rows × plants)"
+      },
+      "irrigation": {
+        "method": "Furrow or drip irrigation",
+        "critical_stages": "Planting, tuber initiation (60-70 DAS), tuber bulking",
+        "water_requirement_mm": "500-700mm"
+      },
+      "fertilization": {
+        "npk": "N180-P100-K200 (high K for quality)",
+        "schedule": "All at planting or split with K"
+      },
+      "harvesting": {
+        "maturity_indicator": "Vine death; skin doesn't peel off when rubbed",
+        "method": "Mechanical digger or manual fork; avoid damage",
+        "yield_per_ha": "20-40 t/ha"
+      }
+    },
+    "diseases": [
+      {
+        "id": 22,
+        "disease_name": "Late Blight (Potato)",
+        "pathogen_name": "Phytophthora infestans",
+        "disease_type": "Oomycete",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Water-soaked pale green spots on leaves, white sporulation on underside in humid conditions",
+          "late": "Dark brown-black lesions on leaves, brown rots on stems, rapid spread of entire field collapse, tuber rot (brown-red internal)",
+          "affected_parts": "Leaves, Stems, Tubers"
+        },
+        "treatment": {
+          "organic": "Copper hydroxide (2.5-3g/L) preventively, Bordeaux mixture, avoid excessive irrigation",
+          "chemical": "Metalaxyl-M + Mancozeb 2.5g/L, Dimethomorph + Mancozeb, Cymoxanil + Famoxadone, Fluopicolide",
+          "biological": "Bacillus subtilis QST713, Bacillus amyloliquefaciens",
+          "preventive": "Plant resistant varieties (Kufri Bahar, Jyoti), use certified disease-free seed tubers, apply fungicide before first rains, destroy volunteer plants"
+        }
+      },
+      {
+        "id": 23,
+        "disease_name": "Common Scab",
+        "pathogen_name": "Streptomyces scabies",
+        "disease_type": "Bacterial (Actinomycete)",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "No visible early symptoms on foliage",
+          "late": "Brown corky scab lesions (raised, sunken, or russeted) on tuber surface; external quality defect only",
+          "affected_parts": "Tubers (surface)"
+        },
+        "treatment": {
+          "organic": "Soil acidification (sulfur), crop rotation, adequate irrigation during tuber formation",
+          "chemical": "Quintozene PCNB seed treatment (limited), Flutolanil seed treatment",
+          "biological": "Fluorescent Pseudomonas, Bacillus subtilis soil inoculants",
+          "preventive": "Lower soil pH to 5.0-5.5, maintain soil moisture during tuber initiation, rotate with non-susceptible crops (cereals), use scab-resistant varieties"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 1,
+        "pest_name": "Whitefly",
+        "scientific_name": "Bemisia tabaci",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana",
+          "chemical": "Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)",
+          "biological": "Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana"
+        }
+      },
+      {
+        "id": 14,
+        "pest_name": "White Grubs (Chafer Beetles)",
+        "scientific_name": "Holotrichia consanguinea, Leucopholis lepidophora (multiple spp.)",
+        "pest_category": "Soil_Pests",
+        "damage_type": "Root feeding (grubs); adult defoliation",
+        "control": {
+          "organic": "Metarhizium anisopliae fungus (1×10⁹ spores/ml) soil application; ploughing to expose and destroy grubs; light traps for adults; neem cake 250 kg/ha",
+          "chemical": "Chlorpyrifos 20% EC (5L/ha) soil incorporation before planting; Carbofuran 3G (25 kg/ha); Phorate 10G; Imidacloprid seed treatment",
+          "biological": "Metarhizium anisopliae, Beauveria bassiana soil inoculants; Heterorhabditis bacteriophora (entomopathogenic nematode)"
+        }
+      },
+      {
+        "id": 7,
+        "pest_name": "Leafhoppers",
+        "scientific_name": "Amrasca biguttula biguttula (Cotton/Okra Leafhopper); Empoasca spp.",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking; Virus vector; Toxicogenic saliva",
+        "control": {
+          "organic": "Neem seed kernel extract 5%, neem oil; yellow sticky traps; Beauveria bassiana spray",
+          "chemical": "Imidacloprid 17.8% SL (0.3ml/L), Lambda-cyhalothrin 5% EC (1ml/L), Thiamethoxam, Dimethoate 30% EC (2ml/L)",
+          "biological": "Anagrus atomus (egg parasitoid in grapes), Gonatocerus ashmeadi, Stethorus ladybugs"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 113,
+    "common_name": "Onion",
+    "botanical_name": "Allium cepa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Amaryllidaceae",
+      "subfamily": "Allioideae",
+      "genus": "Allium",
+      "species": "cepa",
+      "family_description": "",
+      "genus_species_count": 920
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Onion",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Pyaz (प्याज)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Peyaj (পেঁয়াজ)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Nirulli (నిరుల్లి)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Vengayam (வெங்காயம்)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Irulli (ಈರುಳ್ಳಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Ulli (ഉള്ളി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Kanda (कांदा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Piyaz (ਪਿਆਜ਼)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Dungri (ડુંગળી)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Piyaz (پیاز)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Basal (بصل)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Yángcōng (洋葱)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Tamanegi (玉ねぎ)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Yangpa (양파)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Hành tây",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Hua hom (หัวหอม)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Bawang merah",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Bawang",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Sibuyas",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Kitunguu",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Albasa",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Àlùbọ́sà",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Cebola",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Cebolla",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Oignon",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Zwiebel",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Cipolla",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Luk (лук)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Soğan",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 32,
+        "disease_name": "Botrytis Gray Mold",
+        "pathogen_name": "Botrytis cinerea",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked, brown lesions on petals, leaves, and stems; soft rot",
+          "late": "Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (\"ghost spot\" on tomato)",
+          "affected_parts": "Flowers, Leaves, Stems, Fruit, Storage organs"
+        },
+        "treatment": {
+          "organic": "Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray",
+          "chemical": "Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.",
+          "biological": "Bacillus subtilis QST713 (Serenade), Trichoderma asperellum, Clonostachys rosea (Prestop)",
+          "preventive": "Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 3,
+        "pest_name": "Thrips",
+        "scientific_name": "Thrips palmi (Melon Thrips); Frankliniella occidentalis (Western Flower Thrips)",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Rasping/sucking; Virus vector (TSWV, CSNV)",
+        "control": {
+          "organic": "Blue sticky traps (most attractive to thrips), spinosad spray, neem oil, kaolin clay, predatory mites (Neoseiulus cucumeris)",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Imidacloprid, Abamectin 1.9% EC (0.5ml/L), Cyantraniliprole, Tolfenpyrad",
+          "biological": "Neoseiulus cucumeris, Amblyseius swirskii (predatory mites); Orius insidiosus (pirate bug); Steinernema feltiae (entomopathogenic nematode) for soil pupae"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 117,
+    "common_name": "Carrot",
+    "botanical_name": "Daucus carota",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Apiales",
+      "family": "Apiaceae",
+      "subfamily": "Apioideae",
+      "genus": "Daucus",
+      "species": "carota",
+      "family_description": "Carrot/Parsley family; umbellifers",
+      "genus_species_count": 25
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 33,
+        "disease_name": "Sclerotinia Stem Rot (White Mold)",
+        "pathogen_name": "Sclerotinia sclerotiorum",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked lesions on lower stems and branches; bleached, straw-colored stem tissue",
+          "late": "White cottony mycelial growth inside and outside infected tissue, large hard black sclerotia (2-10mm) inside stem",
+          "affected_parts": "Stem (basal), Branches, Pods/Siliques"
+        },
+        "treatment": {
+          "organic": "Thiram-treated seeds, adequate plant spacing, crop rotation",
+          "chemical": "Thiophanate-methyl (1g/L), Boscalid (0.5g/L), Iprodione, Fluazinam at early flowering",
+          "biological": "Coniothyrium minitans (Contans WG) — applied to soil to parasitize sclerotia",
+          "preventive": "Crop rotation (non-host crops for 3+ years), avoid dense planting, improve drainage"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 118,
+    "common_name": "Radish",
+    "botanical_name": "Raphanus sativus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Raphanus",
+      "species": "sativus",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 3
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 119,
+    "common_name": "Turnip",
+    "botanical_name": "Brassica rapa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Brassica",
+      "species": "rapa",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 8,
+        "pest_name": "Diamondback Moth",
+        "scientific_name": "Plutella xylostella",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf feeding",
+        "control": {
+          "organic": "Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide",
+          "biological": "Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 120,
+    "common_name": "Sweet Potato",
+    "botanical_name": "Ipomoea batatas",
+    "author_citation": "(L.) Lam.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Convolvulaceae",
+      "subfamily": "Convolvuloideae",
+      "genus": "Ipomoea",
+      "species": "batatas",
+      "family_description": "Morning glory family; sweet potato",
+      "genus_species_count": 650
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 22,
+        "disease_name": "Late Blight (Potato)",
+        "pathogen_name": "Phytophthora infestans",
+        "disease_type": "Oomycete",
+        "risk_level": "Critical",
+        "symptoms": {
+          "early": "Water-soaked pale green spots on leaves, white sporulation on underside in humid conditions",
+          "late": "Dark brown-black lesions on leaves, brown rots on stems, rapid spread of entire field collapse, tuber rot (brown-red internal)",
+          "affected_parts": "Leaves, Stems, Tubers"
+        },
+        "treatment": {
+          "organic": "Copper hydroxide (2.5-3g/L) preventively, Bordeaux mixture, avoid excessive irrigation",
+          "chemical": "Metalaxyl-M + Mancozeb 2.5g/L, Dimethomorph + Mancozeb, Cymoxanil + Famoxadone, Fluopicolide",
+          "biological": "Bacillus subtilis QST713, Bacillus amyloliquefaciens",
+          "preventive": "Plant resistant varieties (Kufri Bahar, Jyoti), use certified disease-free seed tubers, apply fungicide before first rains, destroy volunteer plants"
+        }
+      },
+      {
+        "id": 23,
+        "disease_name": "Common Scab",
+        "pathogen_name": "Streptomyces scabies",
+        "disease_type": "Bacterial (Actinomycete)",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "No visible early symptoms on foliage",
+          "late": "Brown corky scab lesions (raised, sunken, or russeted) on tuber surface; external quality defect only",
+          "affected_parts": "Tubers (surface)"
+        },
+        "treatment": {
+          "organic": "Soil acidification (sulfur), crop rotation, adequate irrigation during tuber formation",
+          "chemical": "Quintozene PCNB seed treatment (limited), Flutolanil seed treatment",
+          "biological": "Fluorescent Pseudomonas, Bacillus subtilis soil inoculants",
+          "preventive": "Lower soil pH to 5.0-5.5, maintain soil moisture during tuber initiation, rotate with non-susceptible crops (cereals), use scab-resistant varieties"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 1,
+        "pest_name": "Whitefly",
+        "scientific_name": "Bemisia tabaci",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana",
+          "chemical": "Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)",
+          "biological": "Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 121,
+    "common_name": "Yam",
+    "botanical_name": "Dioscorea alata",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Dioscoreales",
+      "family": "Dioscoreaceae",
+      "subfamily": "Dioscoreoideae",
+      "genus": "Dioscorea",
+      "species": "alata",
+      "family_description": "Yam family",
+      "genus_species_count": 870
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 125,
+    "common_name": "Brinjal (Eggplant)",
+    "botanical_name": "Solanum melongena",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Solanum",
+      "species": "melongena",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 1500
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 127,
+    "common_name": "Bell Pepper (Capsicum)",
+    "botanical_name": "Capsicum annuum var. grossum",
+    "author_citation": "(Willd.) Sendtn.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "subfamily": "Solanoideae",
+      "genus": "Capsicum",
+      "species": "annuum",
+      "family_description": "Nightshade family; tomato, potato, pepper, tobacco",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 128,
+    "common_name": "Okra (Ladies Finger)",
+    "botanical_name": "Abelmoschus esculentus",
+    "author_citation": "(L.) Moench",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "subfamily": "Malvoideae",
+      "genus": "Abelmoschus",
+      "species": "esculentus",
+      "family_description": "Mallow family; cotton, hibiscus, cacao, durian",
+      "genus_species_count": 15
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 129,
+    "common_name": "Cucumber",
+    "botanical_name": "Cucumis sativus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Cucumis",
+      "species": "sativus",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 52
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 1,
+        "pest_name": "Whitefly",
+        "scientific_name": "Bemisia tabaci",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Sucking",
+        "control": {
+          "organic": "Yellow sticky traps, neem oil + soap spray (5ml+2ml per L), reflective mulch, soap water spray, Beauveria bassiana",
+          "chemical": "Imidacloprid 17.8% SL (0.5ml/L), Thiamethoxam 25% WG (0.2g/L), Acetamiprid 20% SP (0.2g/L), Spiromesifen (resistance management)",
+          "biological": "Encarsia formosa (parasitic wasp), Eretmocerus mundus, Macrolophus pygmaeus (predatory bug), Beauveria bassiana"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 130,
+    "common_name": "Pumpkin",
+    "botanical_name": "Cucurbita pepo",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Cucurbita",
+      "species": "pepo",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 15
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 131,
+    "common_name": "Bottle Gourd (Lauki)",
+    "botanical_name": "Lagenaria siceraria",
+    "author_citation": "(Molina) Standl.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Lagenaria",
+      "species": "siceraria",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 6
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 133,
+    "common_name": "Ridge Gourd (Turai)",
+    "botanical_name": "Luffa acutangula",
+    "author_citation": "(L.) Roxb.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Luffa",
+      "species": "acutangula",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 8
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 134,
+    "common_name": "Snake Gourd",
+    "botanical_name": "Trichosanthes cucumerina",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Trichosanthes",
+      "species": "cucumerina",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 135,
+    "common_name": "Ash Gourd (Petha)",
+    "botanical_name": "Benincasa hispida",
+    "author_citation": "(Thunb.) Cogn.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Benincasa",
+      "species": "hispida",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 1
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 136,
+    "common_name": "Ivy Gourd (Tindora)",
+    "botanical_name": "Coccinia grandis",
+    "author_citation": "(L.) Voigt",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Cucurbitales",
+      "family": "Cucurbitaceae",
+      "subfamily": "Cucurbitoideae",
+      "genus": "Coccinia",
+      "species": "grandis",
+      "family_description": "Gourd/Squash family; cucumbers, melons, pumpkins",
+      "genus_species_count": 30
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 137,
+    "common_name": "Spinach",
+    "botanical_name": "Spinacia oleracea",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Amaranthaceae",
+      "subfamily": "Chenopodioideae",
+      "genus": "Spinacia",
+      "species": "oleracea",
+      "family_description": "Amaranth family; includes beet, spinach, quinoa",
+      "genus_species_count": 3
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 138,
+    "common_name": "Lettuce",
+    "botanical_name": "Lactuca sativa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Cichorioideae",
+      "genus": "Lactuca",
+      "species": "sativa",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 75
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 32,
+        "disease_name": "Botrytis Gray Mold",
+        "pathogen_name": "Botrytis cinerea",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked, brown lesions on petals, leaves, and stems; soft rot",
+          "late": "Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (\"ghost spot\" on tomato)",
+          "affected_parts": "Flowers, Leaves, Stems, Fruit, Storage organs"
+        },
+        "treatment": {
+          "organic": "Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray",
+          "chemical": "Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.",
+          "biological": "Bacillus subtilis QST713 (Serenade), Trichoderma asperellum, Clonostachys rosea (Prestop)",
+          "preventive": "Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 139,
+    "common_name": "Cabbage",
+    "botanical_name": "Brassica oleracea var. capitata",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Brassica",
+      "species": "oleracea",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 8,
+        "pest_name": "Diamondback Moth",
+        "scientific_name": "Plutella xylostella",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf feeding",
+        "control": {
+          "organic": "Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide",
+          "biological": "Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 140,
+    "common_name": "Broccoli",
+    "botanical_name": "Brassica oleracea var. italica",
+    "author_citation": "Plenck",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Brassica",
+      "species": "oleracea",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 8,
+        "pest_name": "Diamondback Moth",
+        "scientific_name": "Plutella xylostella",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf feeding",
+        "control": {
+          "organic": "Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide",
+          "biological": "Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 141,
+    "common_name": "Cauliflower",
+    "botanical_name": "Brassica oleracea var. botrytis",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Brassica",
+      "species": "oleracea",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 8,
+        "pest_name": "Diamondback Moth",
+        "scientific_name": "Plutella xylostella",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf feeding",
+        "control": {
+          "organic": "Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide",
+          "biological": "Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 142,
+    "common_name": "Kale",
+    "botanical_name": "Brassica oleracea var. acephala",
+    "author_citation": "DC.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Brassicales",
+      "family": "Brassicaceae",
+      "subfamily": "Brassiceae",
+      "genus": "Brassica",
+      "species": "oleracea",
+      "family_description": "Mustard/Cabbage family; cruciferous vegetables",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [
+      {
+        "id": 8,
+        "pest_name": "Diamondback Moth",
+        "scientific_name": "Plutella xylostella",
+        "pest_category": "Chewing_Caterpillars",
+        "damage_type": "Leaf feeding",
+        "control": {
+          "organic": "Bacillus thuringiensis subsp. kurstaki (Bt-k) spray (most effective); neem seed kernel extract 5%; hand picking; pheromone traps for monitoring",
+          "chemical": "Spinosad 45% SC (0.3ml/L), Indoxacarb 14.5% SC (1ml/L), Chlorfluazuron (IGR), Emamectin benzoate 5% SG (0.2g/L), Flubendiamide",
+          "biological": "Cotesia plutellae (parasitic wasp), Diadegma semiclausum, Diadromus collaris; Bacillus thuringiensis"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 143,
+    "common_name": "Celery",
+    "botanical_name": "Apium graveolens",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Apiales",
+      "family": "Apiaceae",
+      "subfamily": "Apioideae",
+      "genus": "Apium",
+      "species": "graveolens",
+      "family_description": "Carrot/Parsley family; umbellifers",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 33,
+        "disease_name": "Sclerotinia Stem Rot (White Mold)",
+        "pathogen_name": "Sclerotinia sclerotiorum",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked lesions on lower stems and branches; bleached, straw-colored stem tissue",
+          "late": "White cottony mycelial growth inside and outside infected tissue, large hard black sclerotia (2-10mm) inside stem",
+          "affected_parts": "Stem (basal), Branches, Pods/Siliques"
+        },
+        "treatment": {
+          "organic": "Thiram-treated seeds, adequate plant spacing, crop rotation",
+          "chemical": "Thiophanate-methyl (1g/L), Boscalid (0.5g/L), Iprodione, Fluazinam at early flowering",
+          "biological": "Coniothyrium minitans (Contans WG) — applied to soil to parasitize sclerotia",
+          "preventive": "Crop rotation (non-host crops for 3+ years), avoid dense planting, improve drainage"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 146,
+    "common_name": "Leek",
+    "botanical_name": "Allium ampeloprasum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Amaryllidaceae",
+      "subfamily": "Allioideae",
+      "genus": "Allium",
+      "species": "ampeloprasum",
+      "family_description": "",
+      "genus_species_count": 920
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 147,
+    "common_name": "Spring Onion (Scallion)",
+    "botanical_name": "Allium fistulosum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Amaryllidaceae",
+      "subfamily": "Allioideae",
+      "genus": "Allium",
+      "species": "fistulosum",
+      "family_description": "",
+      "genus_species_count": 920
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 148,
+    "common_name": "Amaranth Leaves",
+    "botanical_name": "Amaranthus tricolor",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Vegetable",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Amaranthaceae",
+      "subfamily": "Amaranthoideae",
+      "genus": "Amaranthus",
+      "species": "tricolor",
+      "family_description": "Amaranth family; includes beet, spinach, quinoa",
+      "genus_species_count": 75
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

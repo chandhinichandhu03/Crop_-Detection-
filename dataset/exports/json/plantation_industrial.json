@@ -1,0 +1,32 @@
+[
+  {
+    "id": 55,
+    "common_name": "Rubber Tree",
+    "botanical_name": "Hevea brasiliensis",
+    "author_citation": "(Willd. ex A.Juss.) Müll.Arg.",
+    "iucn_status": "LC",
+    "category": "Plantation/Industrial",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malpighiales",
+      "family": "Euphorbiaceae",
+      "subfamily": "Crotonoideae",
+      "genus": "Hevea",
+      "species": "brasiliensis",
+      "family_description": "Spurge family; includes cassava, rubber, castor",
+      "genus_species_count": 11
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

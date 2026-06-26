@@ -1,0 +1,32 @@
+[
+  {
+    "id": 220,
+    "common_name": "Sesbania (Dhaincha)",
+    "botanical_name": "Sesbania bispinosa",
+    "author_citation": "(Jacq.) W.Wight",
+    "iucn_status": "LC",
+    "category": "Green Manure",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Sesbania",
+      "species": "bispinosa",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 60
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

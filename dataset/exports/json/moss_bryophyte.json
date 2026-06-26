@@ -1,0 +1,32 @@
+[
+  {
+    "id": 217,
+    "common_name": "Peat Moss",
+    "botanical_name": "Sphagnum palustre",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Moss/Bryophyte",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Bryophyta",
+      "subdivision": null,
+      "class": "Sphagnopsida",
+      "subclass": "Sphagnidae",
+      "order": "Sphagnales",
+      "family": "Sphagnaceae",
+      "subfamily": "Sphagnoideae",
+      "genus": "Sphagnum",
+      "species": "palustre",
+      "family_description": "Peat moss family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

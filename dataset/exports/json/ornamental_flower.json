@@ -1,0 +1,470 @@
+[
+  {
+    "id": 197,
+    "common_name": "Rose",
+    "botanical_name": "Rosa indica",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "subfamily": "Rosoideae",
+      "genus": "Rosa",
+      "species": "indica",
+      "family_description": "Rose family; includes apples, pears, cherries, plums, strawberries",
+      "genus_species_count": 300
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [
+      {
+        "id": 32,
+        "disease_name": "Botrytis Gray Mold",
+        "pathogen_name": "Botrytis cinerea",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked, brown lesions on petals, leaves, and stems; soft rot",
+          "late": "Characteristic gray fluffy fungal sporulation covering lesions; blight of flowers, stem cankers, fruit rot (\"ghost spot\" on tomato)",
+          "affected_parts": "Flowers, Leaves, Stems, Fruit, Storage organs"
+        },
+        "treatment": {
+          "organic": "Remove infected tissue, improve air circulation, reduce humidity; Bacillus subtilis, Trichoderma spray",
+          "chemical": "Iprodione (1.5g/L), Pyrimethanil (1ml/L), Fenhexamid (1g/L), Cyprodinil (0.5g/L). Rotate fungicides for resistance management.",
+          "biological": "Bacillus subtilis QST713 (Serenade), Trichoderma asperellum, Clonostachys rosea (Prestop)",
+          "preventive": "Improve air circulation, avoid wounding, remove dead tissue, avoid waterlogging, maintain low humidity"
+        }
+      },
+      {
+        "id": 31,
+        "disease_name": "Crown Gall",
+        "pathogen_name": "Agrobacterium tumefaciens (Rhizobium radiobacter)",
+        "disease_type": "Bacterial",
+        "risk_level": "Medium",
+        "symptoms": {
+          "early": "Small, soft, round galls develop at crown (soil line) or on roots",
+          "late": "Galls enlarge to large rough, brown, corky tumors; reduced plant vigor, stunting, increased susceptibility to other diseases",
+          "affected_parts": "Crown, Roots, Stems"
+        },
+        "treatment": {
+          "organic": "Cut out galls; treat with Agrobacterium radiobacter strain K-84 (biocontrol) at planting",
+          "chemical": "No effective post-infection treatment; copper bactericides preventively",
+          "biological": "Agrobacterium radiobacter strain K-84 / K-1026 biocontrol (prevents infection)",
+          "preventive": "Avoid wounding, use K-84 dip on roots before planting, plant only certified gall-free material"
+        }
+      }
+    ],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 198,
+    "common_name": "Jasmine",
+    "botanical_name": "Jasminum sambac",
+    "author_citation": "(L.) Aiton",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "subfamily": "Oleoideae",
+      "genus": "Jasminum",
+      "species": "sambac",
+      "family_description": "Olive family; olives, jasmine, ash trees",
+      "genus_species_count": 200
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 199,
+    "common_name": "Hibiscus",
+    "botanical_name": "Hibiscus rosa-sinensis",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "subfamily": "Malvoideae",
+      "genus": "Hibiscus",
+      "species": "rosa-sinensis",
+      "family_description": "Mallow family; cotton, hibiscus, cacao, durian",
+      "genus_species_count": 679
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Hibiscus / China Rose",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Gurhal (गुड़हल)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Jaba (জবা)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Dasana puvvu (దాసాని పువ్వు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Sembaruthi (செம்பருத்தி)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Daasavala (ದಾಸವಾಳ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Chembarathi (ചെമ്പരത്തി)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Jaswand (जास्वंद)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Gurhal (ਗੁੜਹਲ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Jasood (જાસૂ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Gurhal (گلاب چین)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Karkadeh (كركديه)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Fúsāng (扶桑)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Hibiscus (ハイビスカス)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Hibiscus (히비스커스)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Râm bụt",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Chaba (ชบา)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kembang sepatu",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Bunga raya",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Gumamela",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 201,
+    "common_name": "Marigold",
+    "botanical_name": "Tagetes erecta",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Tagetinae",
+      "genus": "Tagetes",
+      "species": "erecta",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 56
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 202,
+    "common_name": "Chrysanthemum",
+    "botanical_name": "Chrysanthemum morifolium",
+    "author_citation": "Ramat.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Anthemideae",
+      "genus": "Chrysanthemum",
+      "species": "morifolium",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 40
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 203,
+    "common_name": "Carnation",
+    "botanical_name": "Dianthus caryophyllus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Caryophyllaceae",
+      "subfamily": "Caryophylloideae",
+      "genus": "Dianthus",
+      "species": "caryophyllus",
+      "family_description": "",
+      "genus_species_count": 300
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 205,
+    "common_name": "Dahlia",
+    "botanical_name": "Dahlia pinnata",
+    "author_citation": "Cav.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Coreopsideae",
+      "genus": "Dahlia",
+      "species": "pinnata",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 42
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 206,
+    "common_name": "Tulip",
+    "botanical_name": "Tulipa gesneriana",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Liliales",
+      "family": "Liliaceae",
+      "subfamily": "Lilioideae",
+      "genus": "Tulipa",
+      "species": "gesneriana",
+      "family_description": "True lily family",
+      "genus_species_count": 109
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 207,
+    "common_name": "Orchid (Phalaenopsis)",
+    "botanical_name": "Phalaenopsis amabilis",
+    "author_citation": "(L.) Blume",
+    "iucn_status": "VU",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Asparagales",
+      "family": "Orchidaceae",
+      "subfamily": "Epidendroideae",
+      "genus": "Phalaenopsis",
+      "species": "amabilis",
+      "family_description": "Orchid family; world's largest plant family by species count",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 208,
+    "common_name": "Lily (Easter)",
+    "botanical_name": "Lilium longiflorum",
+    "author_citation": "Thunb.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Liliopsida",
+      "subclass": "Lilianae",
+      "order": "Liliales",
+      "family": "Liliaceae",
+      "subfamily": "Lilioideae",
+      "genus": "Lilium",
+      "species": "longiflorum",
+      "family_description": "True lily family",
+      "genus_species_count": 111
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 209,
+    "common_name": "Zinnia",
+    "botanical_name": "Zinnia elegans",
+    "author_citation": "Jacq.",
+    "iucn_status": "LC",
+    "category": "Ornamental Flower",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Asteridae",
+      "order": "Asterales",
+      "family": "Asteraceae",
+      "subfamily": "Heliantheae",
+      "genus": "Zinnia",
+      "species": "elegans",
+      "family_description": "Daisy/Composite family; world's largest flowering plant family",
+      "genus_species_count": 22
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

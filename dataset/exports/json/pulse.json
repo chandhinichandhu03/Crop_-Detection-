@@ -1,0 +1,1023 @@
+[
+  {
+    "id": 20,
+    "common_name": "Soybean",
+    "botanical_name": "Glycine max",
+    "author_citation": "(L.) Merr.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Glycine",
+      "species": "max",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 18
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Soybean",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Soyabean (सोयाबीन)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Soya (সয়া)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Soya Ginjalu (సోయా)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Soya (சோயா)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Soya (ಸೋಯಾ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Soya Bean (സോയ ബീൻ)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Soybean (सोयाबीन)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Soya (سویا)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Soya (فول الصويا)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Dàdòu (大豆)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Daizu (大豆)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Kong (콩)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Đậu nành",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Thua Lueang (ถั่วเหลือง)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kedelai",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kacang soya",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Soybean",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Soya",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Soja",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Soja",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Soja",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Sojabohne",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Soia",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Soya (соя)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Soya fasulyesi",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Warm temperate to tropical",
+        "temp_optimum": "20-30°C; frost-sensitive",
+        "rainfall": "600-1000mm"
+      },
+      "soil": {
+        "type": "Well-drained loam to clay loam",
+        "ph_range": "6.0-7.0",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "80-100 kg/ha",
+        "spacing": "45×5cm or 30×5cm depending on fertility"
+      },
+      "irrigation": {
+        "method": "",
+        "critical_stages": "R1 flowering, R5 seed fill (very critical)",
+        "water_requirement_mm": "500-700mm"
+      },
+      "fertilization": {
+        "npk": "N20-P80-K40 (minimal N needed with good Rhizobium inoculation)",
+        "schedule": ""
+      },
+      "harvesting": {
+        "maturity_indicator": "90-95% pods golden-brown; moisture < 15%",
+        "method": "Combine harvester or manual",
+        "yield_per_ha": "1.5-3.0 t/ha"
+      }
+    },
+    "diseases": [
+      {
+        "id": 33,
+        "disease_name": "Sclerotinia Stem Rot (White Mold)",
+        "pathogen_name": "Sclerotinia sclerotiorum",
+        "disease_type": "Fungal",
+        "risk_level": "High",
+        "symptoms": {
+          "early": "Water-soaked lesions on lower stems and branches; bleached, straw-colored stem tissue",
+          "late": "White cottony mycelial growth inside and outside infected tissue, large hard black sclerotia (2-10mm) inside stem",
+          "affected_parts": "Stem (basal), Branches, Pods/Siliques"
+        },
+        "treatment": {
+          "organic": "Thiram-treated seeds, adequate plant spacing, crop rotation",
+          "chemical": "Thiophanate-methyl (1g/L), Boscalid (0.5g/L), Iprodione, Fluazinam at early flowering",
+          "biological": "Coniothyrium minitans (Contans WG) — applied to soil to parasitize sclerotia",
+          "preventive": "Crop rotation (non-host crops for 3+ years), avoid dense planting, improve drainage"
+        }
+      }
+    ],
+    "pests": [
+      {
+        "id": 14,
+        "pest_name": "White Grubs (Chafer Beetles)",
+        "scientific_name": "Holotrichia consanguinea, Leucopholis lepidophora (multiple spp.)",
+        "pest_category": "Soil_Pests",
+        "damage_type": "Root feeding (grubs); adult defoliation",
+        "control": {
+          "organic": "Metarhizium anisopliae fungus (1×10⁹ spores/ml) soil application; ploughing to expose and destroy grubs; light traps for adults; neem cake 250 kg/ha",
+          "chemical": "Chlorpyrifos 20% EC (5L/ha) soil incorporation before planting; Carbofuran 3G (25 kg/ha); Phorate 10G; Imidacloprid seed treatment",
+          "biological": "Metarhizium anisopliae, Beauveria bassiana soil inoculants; Heterorhabditis bacteriophora (entomopathogenic nematode)"
+        }
+      },
+      {
+        "id": 4,
+        "pest_name": "Spider Mite (Two-Spotted)",
+        "scientific_name": "Tetranychus urticae",
+        "pest_category": "Sucking_Pests",
+        "damage_type": "Cell content feeding",
+        "control": {
+          "organic": "Water spray to wash off; neem oil 5ml/L; wettable sulfur 3g/L; insecticidal soap; predatory mites release; soap solution sprays",
+          "chemical": "Abamectin 1.9% EC (0.5ml/L), Spiromesifen 22.9% SC (1ml/L), Hexythiazox 5% EC (1ml/L), Bifenazate, Clofentezine, Fenpyroximate",
+          "biological": "Phytoseiulus persimilis (excellent predator), Amblyseius californicus, Neoseiulus californicus, Feltiella acarisuga (gall midge)"
+        }
+      }
+    ],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 21,
+    "common_name": "Chickpea (Bengal Gram)",
+    "botanical_name": "Cicer arietinum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Cicer",
+      "species": "arietinum",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 43
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Chickpea (Bengal Gram)",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Chana (चना)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Boot (বুট)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Sanagalu (సెనగలు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Kadalai (கடலை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Kadale (ಕಡಲೆ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Kadala (കടല)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Harbhara (हरभरा)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Chhole (ਛੋਲੇ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Chana (ચણા)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Chana (چنا)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Hummus (حمص)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Ying zuì dòu (鹰嘴豆)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Hiyo kobe (ひよこ豆)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Chickpea (병아리콩)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Đậu gà",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Thua kho (ถั่วลูกไก่)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kacang Arab",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kacang kuda",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Garbanzos",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Njegere",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Agwado",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Grão-de-bico",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Garbanzo",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Pois chiche",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Kichererbse",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Cece",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Nut (нут)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Nohut",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {
+      "climate": {
+        "type": "Cool dry conditions",
+        "temp_optimum": "15-25°C; tolerates light frost at vegetative stage",
+        "rainfall": "400-1000mm; sensitive to excess moisture"
+      },
+      "soil": {
+        "type": "Well-drained sandy loam to clay loam",
+        "ph_range": "6.0-9.0 (wide tolerance)",
+        "special_requirements": ""
+      },
+      "planting": {
+        "seed_rate": "60-80 kg/ha (desi); 100-120 kg/ha (kabuli)",
+        "spacing": ""
+      },
+      "irrigation": {
+        "method": "",
+        "critical_stages": "",
+        "water_requirement_mm": ""
+      },
+      "fertilization": {
+        "npk": "",
+        "schedule": ""
+      },
+      "harvesting": {
+        "maturity_indicator": "100-120 days; plants and pods golden-brown",
+        "method": "Manual or combine; threshing by power thresher",
+        "yield_per_ha": "1.5-2.5 t/ha"
+      }
+    },
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 22,
+    "common_name": "Lentil",
+    "botanical_name": "Lens culinaris",
+    "author_citation": "Medik.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Lens",
+      "species": "culinaris",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 6
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 23,
+    "common_name": "Pigeon Pea (Red Gram)",
+    "botanical_name": "Cajanus cajan",
+    "author_citation": "(L.) Millsp.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Cajanus",
+      "species": "cajan",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 32
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Pigeon Pea (Red Gram)",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Arhar / Tur (अरहर)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Arhar (অড়হর)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Kandi Pappu (కంది పప్పు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Thuvaram (துவரை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Thogari (ತೊಗರಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Thuvara (തുവര)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Tur (तूर)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Arhar (ਅਰਹਰ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Tuver (તુવેર)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Arhar (ارہر)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Adas (عدس حلبي)",
+        "script": "Native"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Mbaazi",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Wake",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Ẹ̀wà",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Ervilha-pombo",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Gandul",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Pois d'Angole",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Straucherbse",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 24,
+    "common_name": "Mung Bean (Green Gram)",
+    "botanical_name": "Vigna radiata",
+    "author_citation": "(L.) R.Wilczek",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Vigna",
+      "species": "radiata",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Mung Bean (Green Gram)",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Moong (मूंग)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Mug (মুগ)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Pesalu (పెసలు)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Pasiparuppu (பாசிப்பருப்பு)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Hesaru Kaalu (ಹೆಸರು ಕಾಳು)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Cherupayar (ചെറുപയർ)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Mug (मूग)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Mung (ਮੂੰਗ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Moong (મગ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Moong (مونگ)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Adas Akhdar (عدس أخضر)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Lǜdòu (绿豆)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Ryokuto (緑豆)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Nokdu (녹두)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Đậu xanh",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Thua khiao (ถั่วเขียว)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kacang hijau",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kacang hijau",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Munggo",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Maharagwe ya kijani",
+        "script": "Latin"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Feijão-verde",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Frijol mungo",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Haricot mungo",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Mungbohne",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 25,
+    "common_name": "Black Gram (Urad)",
+    "botanical_name": "Vigna mungo",
+    "author_citation": "(L.) Hepper",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Vigna",
+      "species": "mungo",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 26,
+    "common_name": "Cowpea",
+    "botanical_name": "Vigna unguiculata",
+    "author_citation": "(L.) Walp.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Vigna",
+      "species": "unguiculata",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 27,
+    "common_name": "Kidney Bean",
+    "botanical_name": "Phaseolus vulgaris",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Phaseolus",
+      "species": "vulgaris",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 80
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 28,
+    "common_name": "Lima Bean",
+    "botanical_name": "Phaseolus lunatus",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Phaseolus",
+      "species": "lunatus",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 80
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 29,
+    "common_name": "Field Pea",
+    "botanical_name": "Pisum sativum",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Pisum",
+      "species": "sativum",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 2
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 30,
+    "common_name": "Faba Bean (Broad Bean)",
+    "botanical_name": "Vicia faba",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Vicia",
+      "species": "faba",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 140
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 32,
+    "common_name": "Moth Bean",
+    "botanical_name": "Vigna aconitifolia",
+    "author_citation": "(Jacq.) Marechal",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Vigna",
+      "species": "aconitifolia",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 100
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 33,
+    "common_name": "Horse Gram",
+    "botanical_name": "Macrotyloma uniflorum",
+    "author_citation": "(Lam.) Verdc.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Macrotyloma",
+      "species": "uniflorum",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 34,
+    "common_name": "Cluster Bean (Guar)",
+    "botanical_name": "Cyamopsis tetragonoloba",
+    "author_citation": "(L.) Taub.",
+    "iucn_status": "LC",
+    "category": "Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Cyamopsis",
+      "species": "tetragonoloba",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 0
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

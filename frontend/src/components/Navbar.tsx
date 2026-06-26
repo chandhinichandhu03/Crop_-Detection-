@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Sprout, Sun, Moon, ShoppingBag, MessageSquare, Zap, User, Menu, X, Languages } from 'lucide-react';
+import { Sprout, Sun, Moon, ShoppingBag, MessageSquare, Zap, User, Menu, X, Languages, ShieldCheck } from 'lucide-react';
 import Link from 'next/link';
 import { useTheme } from '@/context/ThemeContext';
 import { useState, useEffect } from 'react';
@@ -11,7 +11,7 @@ import { useAuth } from '@/context/AuthContext';
 
 export default function Navbar() {
     const { theme, toggleTheme } = useTheme();
-    const { isLoggedIn, logout } = useAuth();
+    const { isLoggedIn, logout, user } = useAuth();
     const { t } = useTranslation();
     const [isOpen, setIsOpen] = useState(false);
     const [mounted, setMounted] = useState(false);
@@ -25,6 +25,13 @@ export default function Navbar() {
         { name: t('nav.market'), href: '/market', icon: ShoppingBag },
         { name: t('nav.chat'), href: '/chat', icon: MessageSquare },
     ];
+
+    if (isLoggedIn) {
+        navLinks.push({ name: 'Profile', href: '/profile', icon: User });
+        if (user?.role === 'Admin') {
+            navLinks.push({ name: 'Admin', href: '/admin', icon: ShieldCheck });
+        }
+    }
 
     if (!mounted) return null;
 

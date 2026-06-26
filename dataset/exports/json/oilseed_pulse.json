@@ -1,0 +1,193 @@
+[
+  {
+    "id": 31,
+    "common_name": "Groundnut (Peanut)",
+    "botanical_name": "Arachis hypogaea",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Oilseed/Pulse",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "subfamily": "Faboideae",
+      "genus": "Arachis",
+      "species": "hypogaea",
+      "family_description": "Legume/Pea family; world's second largest food plant family",
+      "genus_species_count": 80
+    },
+    "multilingual_names": {
+      "en": {
+        "language_name": "English",
+        "local_name": "Groundnut / Peanut",
+        "script": "Latin"
+      },
+      "hi": {
+        "language_name": "Hindi",
+        "local_name": "Mungphali (मूंगफली)",
+        "script": "Native"
+      },
+      "bn": {
+        "language_name": "Bengali",
+        "local_name": "Cheenabadam (চিনাবাদাম)",
+        "script": "Native"
+      },
+      "te": {
+        "language_name": "Telugu",
+        "local_name": "Verusenaga (వేరుసెనగ)",
+        "script": "Native"
+      },
+      "ta": {
+        "language_name": "Tamil",
+        "local_name": "Kadalai (கடலை)",
+        "script": "Native"
+      },
+      "kn": {
+        "language_name": "Kannada",
+        "local_name": "Kadalekayi (ಕಡ್ಲೇಕಾಯಿ)",
+        "script": "Native"
+      },
+      "ml": {
+        "language_name": "Malayalam",
+        "local_name": "Nelakadala (നിലക്കടല)",
+        "script": "Native"
+      },
+      "mr": {
+        "language_name": "Marathi",
+        "local_name": "Shengan (शेंगाना)",
+        "script": "Native"
+      },
+      "pa": {
+        "language_name": "Punjabi",
+        "local_name": "Moonphali (ਮੂੰਗਫਲੀ)",
+        "script": "Native"
+      },
+      "gu": {
+        "language_name": "Gujarati",
+        "local_name": "Shing (સિંગ)",
+        "script": "Native"
+      },
+      "ur": {
+        "language_name": "Urdu",
+        "local_name": "Moonphali (مونگ پھلی)",
+        "script": "Native"
+      },
+      "ar": {
+        "language_name": "Arabic",
+        "local_name": "Ful Sudan (فول سوداني)",
+        "script": "Native"
+      },
+      "zh": {
+        "language_name": "Chinese (Mandarin)",
+        "local_name": "Huāshēng (花生)",
+        "script": "Native"
+      },
+      "ja": {
+        "language_name": "Japanese",
+        "local_name": "Rakkasei (落花生)",
+        "script": "Native"
+      },
+      "ko": {
+        "language_name": "Korean",
+        "local_name": "Ttangkong (땅콩)",
+        "script": "Native"
+      },
+      "vi": {
+        "language_name": "Vietnamese",
+        "local_name": "Lạc / Đậu phộng",
+        "script": "Latin"
+      },
+      "th": {
+        "language_name": "Thai",
+        "local_name": "Thua lisong (ถั่วลิสง)",
+        "script": "Native"
+      },
+      "id": {
+        "language_name": "Indonesian",
+        "local_name": "Kacang tanah",
+        "script": "Latin"
+      },
+      "ms": {
+        "language_name": "Malay",
+        "local_name": "Kacang tanah",
+        "script": "Latin"
+      },
+      "tl": {
+        "language_name": "Filipino (Tagalog)",
+        "local_name": "Mani",
+        "script": "Latin"
+      },
+      "sw": {
+        "language_name": "Swahili",
+        "local_name": "Karanga",
+        "script": "Latin"
+      },
+      "ha": {
+        "language_name": "Hausa",
+        "local_name": "Gyada",
+        "script": "Latin"
+      },
+      "yo": {
+        "language_name": "Yoruba",
+        "local_name": "Epa",
+        "script": "Latin"
+      },
+      "ig": {
+        "language_name": "Igbo",
+        "local_name": "Ahụ̀ọ̀cha",
+        "script": "Native"
+      },
+      "am": {
+        "language_name": "Amharic",
+        "local_name": "Yegena ater (የጤፍ)",
+        "script": "Native"
+      },
+      "pt": {
+        "language_name": "Portuguese",
+        "local_name": "Amendoim",
+        "script": "Latin"
+      },
+      "es": {
+        "language_name": "Spanish",
+        "local_name": "Cacahuate/Maní",
+        "script": "Latin"
+      },
+      "fr": {
+        "language_name": "French",
+        "local_name": "Arachide",
+        "script": "Latin"
+      },
+      "de": {
+        "language_name": "German",
+        "local_name": "Erdnuss",
+        "script": "Latin"
+      },
+      "it": {
+        "language_name": "Italian",
+        "local_name": "Arachide",
+        "script": "Native"
+      },
+      "ru": {
+        "language_name": "Russian",
+        "local_name": "Arakhis (арахис)",
+        "script": "Native"
+      },
+      "tr": {
+        "language_name": "Turkish",
+        "local_name": "Yerfıstığı",
+        "script": "Latin"
+      }
+    },
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

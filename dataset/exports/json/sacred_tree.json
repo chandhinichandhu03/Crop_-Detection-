@@ -1,0 +1,62 @@
+[
+  {
+    "id": 192,
+    "common_name": "Peepal (Sacred Fig)",
+    "botanical_name": "Ficus religiosa",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Sacred Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Ficus",
+      "species": "religiosa",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 850
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  },
+  {
+    "id": 193,
+    "common_name": "Banyan Tree",
+    "botanical_name": "Ficus benghalensis",
+    "author_citation": "L.",
+    "iucn_status": "LC",
+    "category": "Sacred Tree",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Rosidae",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "subfamily": "Moroideae",
+      "genus": "Ficus",
+      "species": "benghalensis",
+      "family_description": "Mulberry family; includes fig, breadfruit, jackfruit",
+      "genus_species_count": 850
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]

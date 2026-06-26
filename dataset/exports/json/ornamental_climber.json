@@ -1,0 +1,32 @@
+[
+  {
+    "id": 204,
+    "common_name": "Bougainvillea",
+    "botanical_name": "Bougainvillea spectabilis",
+    "author_citation": "Willd.",
+    "iucn_status": "LC",
+    "category": "Ornamental Climber",
+    "taxonomy": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridaeplantae",
+      "division": "Tracheophyta",
+      "subdivision": "Spermatophytina",
+      "class": "Magnoliopsida",
+      "subclass": "Caryophyllidae",
+      "order": "Caryophyllales",
+      "family": "Nyctaginaceae",
+      "subfamily": "Bougainvilleoideae",
+      "genus": "Bougainvillea",
+      "species": "spectabilis",
+      "family_description": "",
+      "genus_species_count": 18
+    },
+    "multilingual_names": {},
+    "cultivation": {},
+    "diseases": [],
+    "pests": [],
+    "medicinal": {},
+    "nutrition": {},
+    "seeds": {}
+  }
+]
