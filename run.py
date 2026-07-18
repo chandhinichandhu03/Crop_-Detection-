@@ -56,8 +56,8 @@ def setup_backend():
     # 2. Upgrade pip and install packages
     print("📥 Installing/Upgrading python backend requirements...")
     reqs_path = os.path.join(BACKEND_DIR, "requirements.txt")
-    subprocess.run([venv_pip, "install", "--upgrade", "pip"], check=True)
-    subprocess.run([venv_pip, "install", "-r", reqs_path], check=True)
+    subprocess.run([venv_python, "-m", "pip", "install", "--upgrade", "pip"], check=True)
+    subprocess.run([venv_python, "-m", "pip", "install", "-r", reqs_path], check=True)
     
     return venv_python
 

@@ -66,3 +66,10 @@ The platform is protected with banking-grade security. Use the following credent
 
 ## � Contributing
 Developed with ❤️ by the Agro Doctor Team to empower the backbone of our nation.
+
+
+
+
+run code in terminal 
+
+py run.py
